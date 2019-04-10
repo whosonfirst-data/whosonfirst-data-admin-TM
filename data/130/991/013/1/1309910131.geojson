@@ -1,0 +1,68 @@
+{
+  "id": 1309910131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.1093,37.69859,59.1093,37.69859",
+    "geom:latitude":37.69859,
+    "geom:longitude":59.1093,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rybnyy Sovkhoz",
+    "gn:country_code":"TM",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8773776,
+    "gn:latitude":37.69859,
+    "gn:longitude":59.1093,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"Rybnyy Sovkhoz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u044b\u0431\u043d\u044b\u0439 \u0421\u043e\u0432\u0445\u043e\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8773776
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"bb2d32e633802b190c2a76d4c42c7b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1309910131,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1309910131,
+    "wof:lastmodified":1537706470,
+    "wof:name":"Rybnyy Sovkhoz",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.1093,
+    37.69859,
+    59.1093,
+    37.69859
+],
+  "geometry": {"coordinates":[59.1093,37.69859],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1243564493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.33333,37.51667,66.33333,37.51667",
+    "geom:latitude":37.51667,
+    "geom:longitude":66.33333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ak-Bulak",
+    "gn:country_code":"TM",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219973,
+    "gn:latitude":37.51667,
+    "gn:longitude":66.33333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Ak-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219973
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"007dab0bd660793ae07015b112823573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1243564493,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1243564493,
+    "wof:lastmodified":1536633989,
+    "wof:name":"Ak-Bulak",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.33333,
+    37.51667,
+    66.33333,
+    37.51667
+],
+  "geometry": {"coordinates":[66.33333,37.51667],"type":"Point"}
+}

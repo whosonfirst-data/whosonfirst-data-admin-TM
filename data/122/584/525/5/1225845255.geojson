@@ -1,0 +1,69 @@
+{
+  "id": 1225845255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.2659,37.38106,66.2659,37.38106",
+    "geom:latitude":37.38106,
+    "geom:longitude":66.2659,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Aktepe",
+    "gn:country_code":"TM",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219938,
+    "gn:latitude":37.38106,
+    "gn:longitude":66.2659,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Aktepe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ak-Tere",
+        "Aktepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219938
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"19b2002a7104ac7d4530a5144b31c5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1225845255,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1225845255,
+    "wof:lastmodified":1537706467,
+    "wof:name":"Aktepe",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.2659,
+    37.38106,
+    66.2659,
+    37.38106
+],
+  "geometry": {"coordinates":[66.2659,37.38106],"type":"Point"}
+}

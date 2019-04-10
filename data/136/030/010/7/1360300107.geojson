@@ -1,0 +1,65 @@
+{
+  "id": 1360300107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.9,38.23333,56.9,38.23333",
+    "geom:latitude":38.23333,
+    "geom:longitude":56.9,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nugri",
+    "gn:country_code":"TM",
+    "gn:dem":1051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161608,
+    "gn:latitude":38.23333,
+    "gn:longitude":56.9,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Nugri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161608
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"99bf7aa3dde4358ecabde4da5e1bdfe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1360300107,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1360300107,
+    "wof:lastmodified":1536634031,
+    "wof:name":"Nugri",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.9,
+    38.23333,
+    56.9,
+    38.23333
+],
+  "geometry": {"coordinates":[56.9,38.23333],"type":"Point"}
+}

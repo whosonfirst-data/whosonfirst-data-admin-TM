@@ -1,0 +1,65 @@
+{
+  "id": 1209324775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.72909,39.00368,63.72909,39.00368",
+    "geom:latitude":39.00368,
+    "geom:longitude":63.72909,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Uch-Bash",
+    "gn:country_code":"TM",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218175,
+    "gn:latitude":39.00368,
+    "gn:longitude":63.72909,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Uch-Bash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uch\u2019-Bashi",
+        "Uch-Bash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218175
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"1b92f84bf198810cf9b09f46a2e1a6fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209324775
+        }
+    ],
+    "wof:id":1209324775,
+    "wof:lastmodified":1537706449,
+    "wof:name":"Uch-Bash",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.72909,
+    39.00368,
+    63.72909,
+    39.00368
+],
+  "geometry": {"coordinates":[63.72909,39.00368],"type":"Point"}
+}

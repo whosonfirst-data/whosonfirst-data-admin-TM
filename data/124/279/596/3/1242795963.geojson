@@ -1,0 +1,65 @@
+{
+  "id": 1242795963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.3,37.66667,60.3,37.66667",
+    "geom:latitude":37.66667,
+    "geom:longitude":60.3,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ak-Kungur",
+    "gn:country_code":"TM",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219952,
+    "gn:latitude":37.66667,
+    "gn:longitude":60.3,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Ak-Kungur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219952
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"7353e77ce0247adb4124918168b9db03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1242795963,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1242795963,
+    "wof:lastmodified":1536748975,
+    "wof:name":"Ak-Kungur",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.3,
+    37.66667,
+    60.3,
+    37.66667
+],
+  "geometry": {"coordinates":[60.3,37.66667],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1276243409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.78439,38.88674,63.78439,38.88674",
+    "geom:latitude":38.88674,
+    "geom:longitude":63.78439,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pioner",
+    "gn:country_code":"TM",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218514,
+    "gn:latitude":38.88674,
+    "gn:longitude":63.78439,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pioner",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuchchi",
+        "Pioner"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218514
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"b580ceeb4fc2d44b8cfb5a4fa913bc1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1276243409,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1276243409,
+    "wof:lastmodified":1537706452,
+    "wof:name":"Pioner",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.78439,
+    38.88674,
+    63.78439,
+    38.88674
+],
+  "geometry": {"coordinates":[63.78439,38.88674],"type":"Point"}
+}

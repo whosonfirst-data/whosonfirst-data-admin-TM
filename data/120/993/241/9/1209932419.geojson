@@ -1,0 +1,65 @@
+{
+  "id": 1209932419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.21379,40.46971,62.21379,40.46971",
+    "geom:latitude":40.46971,
+    "geom:longitude":62.21379,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Turkmenistan",
+    "gn:country_code":"TM",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514744,
+    "gn:latitude":40.46971,
+    "gn:longitude":62.21379,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Turkmenistan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514744
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"df9d283f5de13c85a4bdc1cbb98c2ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1209932419,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1209932419,
+    "wof:lastmodified":1536392147,
+    "wof:name":"Turkmenistan",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.21379,
+    40.46971,
+    62.21379,
+    40.46971
+],
+  "geometry": {"coordinates":[62.21379,40.46971],"type":"Point"}
+}

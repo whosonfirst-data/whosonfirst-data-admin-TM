@@ -1,0 +1,65 @@
+{
+  "id": 1209633441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.22497,40.67696,54.22497,40.67696",
+    "geom:latitude":40.67696,
+    "geom:longitude":54.22497,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Taraba",
+    "gn:country_code":"TM",
+    "gn:dem":-30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601470,
+    "gn:latitude":40.67696,
+    "gn:longitude":54.22497,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Taraba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarava",
+        "Taraba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601470
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"76a6c38eecc4f7a35f181d17e0aa915f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209633441
+        }
+    ],
+    "wof:id":1209633441,
+    "wof:lastmodified":1537706444,
+    "wof:name":"Taraba",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.22496999999999,
+    40.67696,
+    54.22496999999999,
+    40.67696
+],
+  "geometry": {"coordinates":[54.22496999999999,40.67696],"type":"Point"}
+}

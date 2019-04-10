@@ -1,0 +1,72 @@
+{
+  "id": 1277073563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.07985,35.87672,63.07985,35.87672",
+    "geom:latitude":35.87672,
+    "geom:longitude":63.07985,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Soeyunaly",
+    "gn:country_code":"TM",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218346,
+    "gn:latitude":35.87672,
+    "gn:longitude":63.07985,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"S\u00f6\u00fdunaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tuk_x_preferred":[
+        "S\u00f6\u00fdunaly"
+    ],
+    "name:und_x_variant":[
+        "Sein-Ali",
+        "S\u00f6\u00fdunali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218346
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"03061b9bb041ea337f52dca4b681bd96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1277073563,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1277073563,
+    "wof:lastmodified":1537706451,
+    "wof:name":"Soeyunaly",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.07985,
+    35.87672,
+    63.07985,
+    35.87672
+],
+  "geometry": {"coordinates":[63.07985,35.87672],"type":"Point"}
+}

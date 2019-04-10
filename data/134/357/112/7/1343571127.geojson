@@ -1,0 +1,65 @@
+{
+  "id": 1343571127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.98333,38.61667,63.98333,38.61667",
+    "geom:latitude":38.61667,
+    "geom:longitude":63.98333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chakich",
+    "gn:country_code":"TM",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219668,
+    "gn:latitude":38.61667,
+    "gn:longitude":63.98333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Chakich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219668
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"0cfba3295e7ad850f3f640a66f6bc374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1343571127,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1343571127,
+    "wof:lastmodified":1537080854,
+    "wof:name":"Chakich",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.98333,
+    38.61667,
+    63.98333,
+    38.61667
+],
+  "geometry": {"coordinates":[63.98333,38.61667],"type":"Point"}
+}

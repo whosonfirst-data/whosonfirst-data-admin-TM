@@ -1,0 +1,61 @@
+{
+  "id": 1209329105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.0,39.36667,63.0,39.36667",
+    "geom:latitude":39.36667,
+    "geom:longitude":63.0,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Il'mak",
+    "gn:country_code":"TM",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219353,
+    "gn:latitude":39.36667,
+    "gn:longitude":63.0,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Il\u2019mak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219353
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"6e76a96f4258351c78a462ceaa00f0ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209329105
+        }
+    ],
+    "wof:id":1209329105,
+    "wof:lastmodified":1536290431,
+    "wof:name":"Il'mak",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.0,
+    39.36667,
+    63.0,
+    39.36667
+],
+  "geometry": {"coordinates":[63.0,39.36667],"type":"Point"}
+}

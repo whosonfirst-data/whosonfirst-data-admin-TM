@@ -1,0 +1,65 @@
+{
+  "id": 1293696907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.11489,38.14505,56.11489,38.14505",
+    "geom:latitude":38.14505,
+    "geom:longitude":56.11489,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ak",
+    "gn:country_code":"TM",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162239,
+    "gn:latitude":38.14505,
+    "gn:longitude":56.11489,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Ak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162239
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"82dd1234c175ed4818dc9045c7146e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1293696907,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1293696907,
+    "wof:lastmodified":1536981672,
+    "wof:name":"Ak",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.11489,
+    38.14505,
+    56.11489,
+    38.14505
+],
+  "geometry": {"coordinates":[56.11489,38.14505],"type":"Point"}
+}

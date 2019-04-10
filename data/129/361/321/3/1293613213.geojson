@@ -1,0 +1,65 @@
+{
+  "id": 1293613213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.40306,39.29528,63.40306,39.29528",
+    "geom:latitude":39.29528,
+    "geom:longitude":63.40306,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Krach",
+    "gn:country_code":"TM",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218822,
+    "gn:latitude":39.29528,
+    "gn:longitude":63.40306,
+    "gn:modification_date":"2001-11-05",
+    "gn:name":"Krach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218822
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"62588a1768e56838520063df1732ca7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1293613213,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1293613213,
+    "wof:lastmodified":1536602805,
+    "wof:name":"Krach",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.40306,
+    39.29528,
+    63.40306,
+    39.29528
+],
+  "geometry": {"coordinates":[63.40306,39.29528],"type":"Point"}
+}

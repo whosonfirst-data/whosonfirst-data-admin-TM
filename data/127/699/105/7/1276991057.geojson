@@ -1,0 +1,65 @@
+{
+  "id": 1276991057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.73333,38.56667,56.73333,38.56667",
+    "geom:latitude":38.56667,
+    "geom:longitude":56.73333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kara-Kala",
+    "gn:country_code":"TM",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161869,
+    "gn:latitude":38.56667,
+    "gn:longitude":56.73333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Kara-Kala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161869
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"76cecfa86a8b5adeff62660a1fe4f715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1276991057,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1276991057,
+    "wof:lastmodified":1536891675,
+    "wof:name":"Kara-Kala",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.73333,
+    38.56667,
+    56.73333,
+    38.56667
+],
+  "geometry": {"coordinates":[56.73333,38.56667],"type":"Point"}
+}

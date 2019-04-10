@@ -1,0 +1,66 @@
+{
+  "id": 1209224605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.26528,38.00196,55.26528,38.00196",
+    "geom:latitude":38.00196,
+    "geom:longitude":55.26528,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chat",
+    "gn:country_code":"TM",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162086,
+    "gn:latitude":38.00196,
+    "gn:longitude":55.26528,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chat-i-Atrek",
+        "Chate-Atrek",
+        "Chat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162086
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"01ba0b111e76b44df5a89abd0a753df1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209224605
+        }
+    ],
+    "wof:id":1209224605,
+    "wof:lastmodified":1537706440,
+    "wof:name":"Chat",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.26528,
+    38.00196,
+    55.26528,
+    38.00196
+],
+  "geometry": {"coordinates":[55.26528,38.00196],"type":"Point"}
+}

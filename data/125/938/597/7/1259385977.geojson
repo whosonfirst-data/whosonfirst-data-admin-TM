@@ -1,0 +1,68 @@
+{
+  "id": 1259385977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.35746,38.22982,56.35746,38.22982",
+    "geom:latitude":38.22982,
+    "geom:longitude":56.35746,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Serli",
+    "gn:country_code":"TM",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8698748,
+    "gn:latitude":38.22982,
+    "gn:longitude":56.35746,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Serli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8698748
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"9cdf44db0182b45ae3227c1702c6a4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1259385977,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1259385977,
+    "wof:lastmodified":1537706469,
+    "wof:name":"Serli",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.35746,
+    38.22982,
+    56.35746,
+    38.22982
+],
+  "geometry": {"coordinates":[56.35746,38.22982],"type":"Point"}
+}

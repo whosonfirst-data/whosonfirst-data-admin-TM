@@ -1,0 +1,65 @@
+{
+  "id": 1242595637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.86667,35.96667,62.86667,35.96667",
+    "geom:latitude":35.96667,
+    "geom:longitude":62.86667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Urazaly",
+    "gn:country_code":"TM",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218144,
+    "gn:latitude":35.96667,
+    "gn:longitude":62.86667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Urazaly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218144
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"855e79738f1915cba221ffdea8be5bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1242595637,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1242595637,
+    "wof:lastmodified":1537036097,
+    "wof:name":"Urazaly",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.86666999999999,
+    35.96667,
+    62.86666999999999,
+    35.96667
+],
+  "geometry": {"coordinates":[62.86666999999999,35.96667],"type":"Point"}
+}

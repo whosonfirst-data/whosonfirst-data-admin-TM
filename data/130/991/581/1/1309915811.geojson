@@ -1,0 +1,65 @@
+{
+  "id": 1309915811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.48333,39.36667,55.48333,39.36667",
+    "geom:latitude":39.36667,
+    "geom:longitude":55.48333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akbogaz",
+    "gn:country_code":"TM",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162237,
+    "gn:latitude":39.36667,
+    "gn:longitude":55.48333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Akbogaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162237
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"139a590867388fd97648b81a1b04bb73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1309915811,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1309915811,
+    "wof:lastmodified":1536773056,
+    "wof:name":"Akbogaz",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.48333,
+    39.36667,
+    55.48333,
+    39.36667
+],
+  "geometry": {"coordinates":[55.48333,39.36667],"type":"Point"}
+}

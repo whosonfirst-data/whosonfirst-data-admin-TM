@@ -1,0 +1,78 @@
+{
+  "id": 1343674799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.76645,37.66114,54.76645,37.66114",
+    "geom:latitude":37.66114,
+    "geom:longitude":54.76645,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Etrek",
+    "gn:country_code":"TM",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161370,
+    "gn:latitude":37.66114,
+    "gn:longitude":54.76645,
+    "gn:modification_date":"2014-09-05",
+    "gn:name":"Etrek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tuk_x_preferred":[
+        "Etrek"
+    ],
+    "name:und_x_variant":[
+        "Bayat-Khadzhi",
+        "Kizyl-Atrek",
+        "Kizel-Atrek",
+        "Kizil-Atrek",
+        "Kyzyl-Atrek",
+        "Gyzyletrek",
+        "Kyzylay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161370,
+        "wk:page":"Gyzyletrek"
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"b05bc1ef669dbb26022b80fd07b8081e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1343674799,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1343674799,
+    "wof:lastmodified":1537706427,
+    "wof:name":"Etrek",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.76645,
+    37.66114,
+    54.76645,
+    37.66114
+],
+  "geometry": {"coordinates":[54.76645,37.66114],"type":"Point"}
+}

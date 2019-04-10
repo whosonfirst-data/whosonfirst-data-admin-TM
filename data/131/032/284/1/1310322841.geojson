@@ -1,0 +1,77 @@
+{
+  "id": 1310322841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.74257,38.01414,57.74257,38.01414",
+    "geom:latitude":38.01414,
+    "geom:longitude":57.74257,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Germaw",
+    "gn:country_code":"TM",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161958,
+    "gn:latitude":38.01414,
+    "gn:longitude":57.74257,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"Germaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0440\u043c\u0430\u0431"
+    ],
+    "name:tuk_x_preferred":[
+        "Germaw"
+    ],
+    "name:und_x_variant":[
+        "Germao",
+        "Mikhaylovskiy",
+        "Germob",
+        "Germab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161958
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"470034f61f0d0a5d8e9fc4509616d45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310322841,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1310322841,
+    "wof:lastmodified":1537706438,
+    "wof:name":"Germaw",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.74256999999999,
+    38.01414000000001,
+    57.74256999999999,
+    38.01414000000001
+],
+  "geometry": {"coordinates":[57.74256999999999,38.01414000000001],"type":"Point"}
+}

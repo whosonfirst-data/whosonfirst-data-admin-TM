@@ -1,0 +1,61 @@
+{
+  "id": 1209229077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.4041,39.1645,63.4041,39.1645",
+    "geom:latitude":39.1645,
+    "geom:longitude":63.4041,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sarykbala",
+    "gn:country_code":"TM",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218445,
+    "gn:latitude":39.1645,
+    "gn:longitude":63.4041,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Sarykbala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218445
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"9ce4b4d40df4ef73bfb40429098e13ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209229077
+        }
+    ],
+    "wof:id":1209229077,
+    "wof:lastmodified":1536293697,
+    "wof:name":"Sarykbala",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.4041,
+    39.1645,
+    63.4041,
+    39.1645
+],
+  "geometry": {"coordinates":[63.4041,39.1645],"type":"Point"}
+}

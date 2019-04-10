@@ -1,0 +1,69 @@
+{
+  "id": 1309730533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.61134,37.16358,59.61134,37.16358",
+    "geom:latitude":37.16358,
+    "geom:longitude":59.61134,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Archin'yak",
+    "gn:country_code":"TM",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162193,
+    "gn:latitude":37.16358,
+    "gn:longitude":59.61134,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Archin\u2019yak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Archin\u2019yan",
+        "Archin\u2019yak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162193
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"849c1e0040618612911abab7c81c6f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1309730533,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1309730533,
+    "wof:lastmodified":1537706442,
+    "wof:name":"Archin'yak",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.61134000000001,
+    37.16358,
+    59.61134000000001,
+    37.16358
+],
+  "geometry": {"coordinates":[59.61134000000001,37.16358],"type":"Point"}
+}

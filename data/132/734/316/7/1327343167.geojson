@@ -1,0 +1,74 @@
+{
+  "id": 1327343167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.28692,37.86852,58.28692,37.86852",
+    "geom:latitude":37.86852,
+    "geom:longitude":58.28692,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nevtonskiy",
+    "gn:country_code":"TM",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161614,
+    "gn:latitude":37.86852,
+    "gn:longitude":58.28692,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"Nevtonskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0432\u0442\u043e\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "Nevtonovskiy",
+        "Nestonovskiy",
+        "Neftonovskiy",
+        "Newtonow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161614
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"b78bea618adbe23142c37ba5620397df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1327343167,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1327343167,
+    "wof:lastmodified":1537706432,
+    "wof:name":"Nevtonskiy",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.28692,
+    37.86852,
+    58.28692,
+    37.86852
+],
+  "geometry": {"coordinates":[58.28692,37.86852],"type":"Point"}
+}

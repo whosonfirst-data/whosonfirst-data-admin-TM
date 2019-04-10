@@ -1,0 +1,65 @@
+{
+  "id": 1327149313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.66667,37.58333,65.66667,37.58333",
+    "geom:latitude":37.58333,
+    "geom:longitude":65.66667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Basaga",
+    "gn:country_code":"TM",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219782,
+    "gn:latitude":37.58333,
+    "gn:longitude":65.66667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Basaga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219782
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"a4551ddb807cb0c5281a918390c80750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1327149313,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1327149313,
+    "wof:lastmodified":1537086280,
+    "wof:name":"Basaga",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.66667,
+    37.58333,
+    65.66667,
+    37.58333
+],
+  "geometry": {"coordinates":[65.66667,37.58333],"type":"Point"}
+}

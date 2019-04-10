@@ -1,0 +1,71 @@
+{
+  "id": 1309716139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.41566,37.38384,59.41566,37.38384",
+    "geom:latitude":37.38384,
+    "geom:longitude":59.41566,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Makhtumkala",
+    "gn:country_code":"TM",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161663,
+    "gn:latitude":37.38384,
+    "gn:longitude":59.41566,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Makhtumkala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0445\u0442\u0443\u043c\u043a\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Makhtum-Kala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161663
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"187c04672843e7a0757eb66aab814067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1309716139,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1309716139,
+    "wof:lastmodified":1537706433,
+    "wof:name":"Makhtumkala",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.41566,
+    37.38384,
+    59.41566,
+    37.38384
+],
+  "geometry": {"coordinates":[59.41566,37.38384],"type":"Point"}
+}

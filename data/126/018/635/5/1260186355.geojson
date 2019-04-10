@@ -1,0 +1,75 @@
+{
+  "id": 1260186355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.03606,38.38764,57.03606,38.38764",
+    "geom:latitude":38.38764,
+    "geom:longitude":57.03606,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Garawul",
+    "gn:country_code":"TM",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161852,
+    "gn:latitude":38.38764,
+    "gn:longitude":57.03606,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Garawul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0432\u0443\u043b"
+    ],
+    "name:tuk_x_preferred":[
+        "Garawul"
+    ],
+    "name:und_x_variant":[
+        "Karaul",
+        "Karavul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161852
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"e96f8145e8a79303d581895a005ea434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1260186355,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1260186355,
+    "wof:lastmodified":1537706436,
+    "wof:name":"Garawul",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.03606,
+    38.38764000000001,
+    57.03606,
+    38.38764000000001
+],
+  "geometry": {"coordinates":[57.03606,38.38764000000001],"type":"Point"}
+}

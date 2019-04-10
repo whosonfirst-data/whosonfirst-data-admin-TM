@@ -1,0 +1,66 @@
+{
+  "id": 1259583871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.68918,38.06804,65.68918,38.06804",
+    "geom:latitude":38.06804,
+    "geom:longitude":65.68918,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Khadzhykulluk",
+    "gn:country_code":"TM",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463708,
+    "gn:latitude":38.06804,
+    "gn:longitude":65.68918,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Khadzhykulluk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463708,
+        "wk:page":"Khadzhykulluk"
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"f0492c0dc4064958504a6fe8742d00fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1259583871,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1259583871,
+    "wof:lastmodified":1537574443,
+    "wof:name":"Khadzhykulluk",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.68918000000001,
+    38.06804,
+    65.68918000000001,
+    38.06804
+],
+  "geometry": {"coordinates":[65.68918000000001,38.06804],"type":"Point"}
+}

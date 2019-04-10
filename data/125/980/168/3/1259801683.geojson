@@ -1,0 +1,65 @@
+{
+  "id": 1259801683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.41667,38.43333,64.41667,38.43333",
+    "geom:latitude":38.43333,
+    "geom:longitude":64.41667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dautly",
+    "gn:country_code":"TM",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219541,
+    "gn:latitude":38.43333,
+    "gn:longitude":64.41667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Dautly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219541
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"071090f2e9b26ffceb41f56e37693672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1259801683,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1259801683,
+    "wof:lastmodified":1536896871,
+    "wof:name":"Dautly",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.41667,
+    38.43333,
+    64.41667,
+    38.43333
+],
+  "geometry": {"coordinates":[64.41667,38.43333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276339695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.16676,35.38262,62.16676,35.38262",
+    "geom:latitude":35.38262,
+    "geom:longitude":62.16676,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Islim-Cheshme",
+    "gn:country_code":"TM",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219204,
+    "gn:latitude":35.38262,
+    "gn:longitude":62.16676,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Islim-Cheshme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219204
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"bd748c8c0b1d9fdb9ab38e558e278ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1276339695,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1276339695,
+    "wof:lastmodified":1536770404,
+    "wof:name":"Islim-Cheshme",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.16676,
+    35.38262,
+    62.16676,
+    35.38262
+],
+  "geometry": {"coordinates":[62.16676,35.38262],"type":"Point"}
+}

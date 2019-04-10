@@ -1,0 +1,71 @@
+{
+  "id": 1226257505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.235,38.02556,58.235,38.02556",
+    "geom:latitude":38.02556,
+    "geom:longitude":58.235,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Herrikgala",
+    "gn:cc2":"TM",
+    "gn:country_code":"TM",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410472,
+    "gn:latitude":38.02556,
+    "gn:longitude":58.235,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Herrikgala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erikkala",
+        "Kherrikkala",
+        "Herrikgala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410472
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"14f01cdbca25f8a1a8cf8a3629ee3a62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1226257505,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1226257505,
+    "wof:lastmodified":1537706443,
+    "wof:name":"Herrikgala",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.235,
+    38.02556,
+    58.235,
+    38.02556
+],
+  "geometry": {"coordinates":[58.235,38.02556],"type":"Point"}
+}

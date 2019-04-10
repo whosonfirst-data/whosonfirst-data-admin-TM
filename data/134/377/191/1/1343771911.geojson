@@ -1,0 +1,70 @@
+{
+  "id": 1343771911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.36667,37.68333,60.36667,37.68333",
+    "geom:latitude":37.68333,
+    "geom:longitude":60.36667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yashlar",
+    "gn:cc2":"TM",
+    "gn:country_code":"TM",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218072,
+    "gn:latitude":37.68333,
+    "gn:longitude":60.36667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yashlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yashkar",
+        "Yashlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218072
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"4acacc5317bd6d7df5b6a677891ea65f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1343771911,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1343771911,
+    "wof:lastmodified":1537706449,
+    "wof:name":"Yashlar",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.36666999999999,
+    37.68333,
+    60.36666999999999,
+    37.68333
+],
+  "geometry": {"coordinates":[60.36666999999999,37.68333],"type":"Point"}
+}

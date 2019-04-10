@@ -1,0 +1,68 @@
+{
+  "id": 1310719537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.34967,37.5405,59.34967,37.5405",
+    "geom:latitude":37.5405,
+    "geom:longitude":59.34967,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kyurenkala",
+    "gn:country_code":"TM",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161683,
+    "gn:latitude":37.5405,
+    "gn:longitude":59.34967,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Kyurenkala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u044e\u0440\u0435\u043d\u043a\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161683
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"a07b43abe85a699922eca93cfc0895d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310719537,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1310719537,
+    "wof:lastmodified":1537706433,
+    "wof:name":"Kyurenkala",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.34967,
+    37.5405,
+    59.34967,
+    37.5405
+],
+  "geometry": {"coordinates":[59.34967,37.5405],"type":"Point"}
+}

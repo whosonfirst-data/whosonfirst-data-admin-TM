@@ -1,0 +1,71 @@
+{
+  "id": 1310015693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.81059,37.66886,61.81059,37.66886",
+    "geom:latitude":37.66886,
+    "geom:longitude":61.81059,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Imeni Lenina",
+    "gn:country_code":"TM",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219286,
+    "gn:latitude":37.66886,
+    "gn:longitude":61.81059,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Imeni Lenina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yegra-Guzar",
+        "Leninizm",
+        "Egri Guzar",
+        "Imeni Lenina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219286
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"c81af1199b3169838ba36c3600cfcd12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310015693,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1310015693,
+    "wof:lastmodified":1537706459,
+    "wof:name":"Imeni Lenina",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.81059000000001,
+    37.66886,
+    61.81059000000001,
+    37.66886
+],
+  "geometry": {"coordinates":[61.81059000000001,37.66886],"type":"Point"}
+}

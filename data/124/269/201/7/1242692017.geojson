@@ -1,0 +1,68 @@
+{
+  "id": 1242692017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.70053,38.57616,56.70053,38.57616",
+    "geom:latitude":38.57616,
+    "geom:longitude":56.70053,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kaytpuli",
+    "gn:country_code":"TM",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8709899,
+    "gn:latitude":38.57616,
+    "gn:longitude":56.70053,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Kaytpuli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0439\u0442\u043f\u0443\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8709899
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"bed62e045540108fe58e4b12f934b2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1242692017,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1242692017,
+    "wof:lastmodified":1537706470,
+    "wof:name":"Kaytpuli",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.70053000000001,
+    38.57616,
+    56.70053000000001,
+    38.57616
+],
+  "geometry": {"coordinates":[56.70053000000001,38.57616],"type":"Point"}
+}

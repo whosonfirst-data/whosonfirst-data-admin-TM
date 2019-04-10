@@ -1,0 +1,65 @@
+{
+  "id": 1344175349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.75,38.5,56.75,38.5",
+    "geom:latitude":38.5,
+    "geom:longitude":56.75,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Syr-Su",
+    "gn:country_code":"TM",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161503,
+    "gn:latitude":38.5,
+    "gn:longitude":56.75,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Syr-Su",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161503
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"d27ca5529e951e2102387264987b572b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1344175349,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1344175349,
+    "wof:lastmodified":1536710092,
+    "wof:name":"Syr-Su",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.75,
+    38.5,
+    56.75,
+    38.5
+],
+  "geometry": {"coordinates":[56.75,38.5],"type":"Point"}
+}

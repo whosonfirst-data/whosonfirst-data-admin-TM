@@ -1,0 +1,61 @@
+{
+  "id": 1209414111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.09944,38.21722,62.09944,38.21722",
+    "geom:latitude":38.21722,
+    "geom:longitude":62.09944,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Yakeper",
+    "gn:country_code":"TM",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218107,
+    "gn:latitude":38.21722,
+    "gn:longitude":62.09944,
+    "gn:modification_date":"2001-11-08",
+    "gn:name":"Yakeper",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218107
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"c16be7d46f33449cf191ecc1c2c6bdca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209414111
+        }
+    ],
+    "wof:id":1209414111,
+    "wof:lastmodified":1536287744,
+    "wof:name":"Yakeper",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.09944,
+    38.21722000000001,
+    62.09944,
+    38.21722000000001
+],
+  "geometry": {"coordinates":[62.09944,38.21722000000001],"type":"Point"}
+}

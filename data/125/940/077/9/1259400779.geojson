@@ -1,0 +1,65 @@
+{
+  "id": 1259400779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.71667,42.55,58.71667,42.55",
+    "geom:latitude":42.55,
+    "geom:longitude":58.71667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Arychagyl",
+    "gn:country_code":"TM",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601774,
+    "gn:latitude":42.55,
+    "gn:longitude":58.71667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Arychagyl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601774
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"ebadffbf2082c63c454d53172d2f9394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1259400779,
+            "region_id":85678931
+        }
+    ],
+    "wof:id":1259400779,
+    "wof:lastmodified":1536976936,
+    "wof:name":"Arychagyl",
+    "wof:parent_id":85678931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.71666999999999,
+    42.55,
+    58.71666999999999,
+    42.55
+],
+  "geometry": {"coordinates":[58.71666999999999,42.55],"type":"Point"}
+}

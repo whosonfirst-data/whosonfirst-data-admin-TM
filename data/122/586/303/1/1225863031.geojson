@@ -1,0 +1,65 @@
+{
+  "id": 1225863031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.10893,41.82711,60.10893,41.82711",
+    "geom:latitude":41.82711,
+    "geom:longitude":60.10893,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kommunizm",
+    "gn:country_code":"TM",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514773,
+    "gn:latitude":41.82711,
+    "gn:longitude":60.10893,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Kommunizm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514773
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"c877e0d50338c4b04c569791daa48e78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1225863031,
+            "region_id":85678931
+        }
+    ],
+    "wof:id":1225863031,
+    "wof:lastmodified":1536987942,
+    "wof:name":"Kommunizm",
+    "wof:parent_id":85678931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.10893000000001,
+    41.82711,
+    60.10893000000001,
+    41.82711
+],
+  "geometry": {"coordinates":[60.10893000000001,41.82711],"type":"Point"}
+}

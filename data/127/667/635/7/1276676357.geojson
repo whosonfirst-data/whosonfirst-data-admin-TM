@@ -1,0 +1,65 @@
+{
+  "id": 1276676357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.77987,38.96074,63.77987,38.96074",
+    "geom:latitude":38.96074,
+    "geom:longitude":63.77987,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dzhengel'",
+    "gn:country_code":"TM",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219481,
+    "gn:latitude":38.96074,
+    "gn:longitude":63.77987,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Dzhengel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219481
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"2b42e5f331c3ae9612d29797eeb3bf61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1276676357,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1276676357,
+    "wof:lastmodified":1536815328,
+    "wof:name":"Dzhengel'",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.77987,
+    38.96074,
+    63.77987,
+    38.96074
+],
+  "geometry": {"coordinates":[63.77987,38.96074],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343271919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.48333,37.76667,64.48333,37.76667",
+    "geom:latitude":37.76667,
+    "geom:longitude":64.48333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kel'teshor",
+    "gn:country_code":"TM",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219011,
+    "gn:latitude":37.76667,
+    "gn:longitude":64.48333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Kel\u2019teshor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219011
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"342c292774f7a2057d9a539b729d8910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1343271919,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1343271919,
+    "wof:lastmodified":1537017558,
+    "wof:name":"Kel'teshor",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.48333000000001,
+    37.76667,
+    64.48333000000001,
+    37.76667
+],
+  "geometry": {"coordinates":[64.48333000000001,37.76667],"type":"Point"}
+}

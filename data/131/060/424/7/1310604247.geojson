@@ -1,0 +1,68 @@
+{
+  "id": 1310604247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.43089,38.8173,56.43089,38.8173",
+    "geom:latitude":38.8173,
+    "geom:longitude":56.43089,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Verkhniy Chemelli",
+    "gn:country_code":"TM",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8738537,
+    "gn:latitude":38.8173,
+    "gn:longitude":56.43089,
+    "gn:modification_date":"2014-03-12",
+    "gn:name":"Verkhniy Chemelli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043d\u0438\u0439 \u0427\u0435\u043c\u0435\u043b\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8738537
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"b7eb542f84797ba512034a5db3c0bb39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310604247,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1310604247,
+    "wof:lastmodified":1537706470,
+    "wof:name":"Verkhniy Chemelli",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.43089000000001,
+    38.8173,
+    56.43089000000001,
+    38.8173
+],
+  "geometry": {"coordinates":[56.43089000000001,38.8173],"type":"Point"}
+}

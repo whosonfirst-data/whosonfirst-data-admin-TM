@@ -1,0 +1,66 @@
+{
+  "id": 1209429615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.38333,35.46667,62.38333,35.46667",
+    "geom:latitude":35.46667,
+    "geom:longitude":62.38333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sayvatur",
+    "gn:cc2":"TM",
+    "gn:country_code":"TM",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218433,
+    "gn:latitude":35.46667,
+    "gn:longitude":62.38333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sayvatur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saybatur",
+        "Sayvatur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218433
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"234854492bcfc7409061ac006c0e9b02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209429615
+        }
+    ],
+    "wof:id":1209429615,
+    "wof:lastmodified":1537706451,
+    "wof:name":"Sayvatur",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.38333000000001,
+    35.46667,
+    62.38333000000001,
+    35.46667
+],
+  "geometry": {"coordinates":[62.38333000000001,35.46667],"type":"Point"}
+}

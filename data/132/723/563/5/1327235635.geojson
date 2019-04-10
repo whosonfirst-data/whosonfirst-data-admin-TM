@@ -1,0 +1,68 @@
+{
+  "id": 1327235635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.18333,36.4,61.18333,36.4",
+    "geom:latitude":36.4,
+    "geom:longitude":61.18333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gil'-Abad",
+    "gn:country_code":"TM",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219401,
+    "gn:latitude":36.4,
+    "gn:longitude":61.18333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Gil\u2019-Abad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gil\u2019-Abad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219401
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"d315c7b224b34f9ce2943d5a70340318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1327235635,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1327235635,
+    "wof:lastmodified":1537706462,
+    "wof:name":"Gil'-Abad",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.18333000000001,
+    36.4,
+    61.18333000000001,
+    36.4
+],
+  "geometry": {"coordinates":[61.18333000000001,36.4],"type":"Point"}
+}

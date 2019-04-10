@@ -1,0 +1,125 @@
+{
+  "id": 421198643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.61164,39.17037,63.61164,39.17037",
+    "geom:latitude":39.17037,
+    "geom:longitude":63.61164,
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0641\u0631\u0628\u0631"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0430\u0440\u0430\u043f"
+    ],
+    "name:dut_x_preferred":[
+        "Farap"
+    ],
+    "name:eng_x_preferred":[
+        "Farap"
+    ],
+    "name:est_x_preferred":[
+        "Farap"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0628"
+    ],
+    "name:ita_x_preferred":[
+        "Farap"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30e9\u30c3\u30d7"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0628"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0641\u0627\u0631\u0627\u0628 \u060c\u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Farap"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0440\u0430\u043f"
+    ],
+    "name:spa_x_preferred":[
+        "Farap"
+    ],
+    "name:unk_x_variant":[
+        "Farap"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0631\u0627\u067e"
+    ],
+    "qs:gn_country":"TM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1219431,
+    "qs:gn_pop":14503,
+    "qs:name":"Farab",
+    "qs:name_adm0":"Turkmenistan",
+    "qs:name_adm1":"Chardzhou",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":52,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":184114,
+    "qs:woe_adm0":23424972,
+    "qs:woe_id":1936538,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219431,
+        "gp:id":1936538,
+        "qs:id":184114,
+        "wd:id":"Q2587941",
+        "wk:page":"Farap"
+    },
+    "wof:country":"TM",
+    "wof:created":1459009955,
+    "wof:geomhash":"c08eca44ba7594750d80dcd28d373521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":421198643,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":421198643,
+    "wof:lastmodified":1527716348,
+    "wof:name":"Farab",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:population":14503,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.61164,
+    39.17037,
+    63.61164,
+    39.17037
+],
+  "geometry": {"coordinates":[63.61164,39.17037],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1260094721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.83333,41.85,59.83333,41.85",
+    "geom:latitude":41.85,
+    "geom:longitude":59.83333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Isrikkala",
+    "gn:country_code":"TM",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601666,
+    "gn:latitude":41.85,
+    "gn:longitude":59.83333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Isrikkala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601666
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"2538a54b503d98011306aa9bfd7cad0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1260094721,
+            "region_id":85678931
+        }
+    ],
+    "wof:id":1260094721,
+    "wof:lastmodified":1536971432,
+    "wof:name":"Isrikkala",
+    "wof:parent_id":85678931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.83333,
+    41.85,
+    59.83333,
+    41.85
+],
+  "geometry": {"coordinates":[59.83333,41.85],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1243077459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.66917,42.08718,59.66917,42.08718",
+    "geom:latitude":42.08718,
+    "geom:longitude":59.66917,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khamay",
+    "gn:country_code":"TM",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601623,
+    "gn:latitude":42.08718,
+    "gn:longitude":59.66917,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Khamay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601623
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"faa562a554408a55827c985cf93fda42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1243077459,
+            "region_id":85678931
+        }
+    ],
+    "wof:id":1243077459,
+    "wof:lastmodified":1536839310,
+    "wof:name":"Khamay",
+    "wof:parent_id":85678931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.66917,
+    42.08718,
+    59.66917,
+    42.08718
+],
+  "geometry": {"coordinates":[59.66917,42.08718],"type":"Point"}
+}

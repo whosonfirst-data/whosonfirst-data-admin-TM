@@ -1,0 +1,61 @@
+{
+  "id": 1209217875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.03333,38.15,56.03333,38.15",
+    "geom:latitude":38.15,
+    "geom:longitude":56.03333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dardali",
+    "gn:country_code":"TM",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162044,
+    "gn:latitude":38.15,
+    "gn:longitude":56.03333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Dardali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162044
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"f2b85232efd94ad978515541fe6e5b74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209217875
+        }
+    ],
+    "wof:id":1209217875,
+    "wof:lastmodified":1536294067,
+    "wof:name":"Dardali",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.03333000000001,
+    38.15,
+    56.03333000000001,
+    38.15
+],
+  "geometry": {"coordinates":[56.03333000000001,38.15],"type":"Point"}
+}

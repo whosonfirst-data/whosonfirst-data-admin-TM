@@ -1,0 +1,70 @@
+{
+  "id": 1293215401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.61667,38.95,56.61667,38.95",
+    "geom:latitude":38.95,
+    "geom:longitude":56.61667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Karasengir",
+    "gn:cc2":"TM",
+    "gn:country_code":"TM",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161857,
+    "gn:latitude":38.95,
+    "gn:longitude":56.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Karasengir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kara-Singer",
+        "Karasengir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161857
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"34bf96a6c9fc949e26c69408d5c3fad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1293215401,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1293215401,
+    "wof:lastmodified":1537706436,
+    "wof:name":"Karasengir",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.61666999999999,
+    38.95,
+    56.61666999999999,
+    38.95
+],
+  "geometry": {"coordinates":[56.61666999999999,38.95],"type":"Point"}
+}

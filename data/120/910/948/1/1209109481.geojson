@@ -1,0 +1,70 @@
+{
+  "id": 1209109481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.81233,38.21128,55.81233,38.21128",
+    "geom:latitude":38.21128,
+    "geom:longitude":55.81233,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Garahan",
+    "gn:country_code":"TM",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8991373,
+    "gn:latitude":38.21128,
+    "gn:longitude":55.81233,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Garahan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0445\u0430\u043d"
+    ],
+    "name:tuk_x_preferred":[
+        "Garahan"
+    ],
+    "name:und_x_variant":[
+        "Karakhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8991373
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"9e849445ba0781c581bae5d15daecd4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209109481
+        }
+    ],
+    "wof:id":1209109481,
+    "wof:lastmodified":1537706470,
+    "wof:name":"Garahan",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.81233,
+    38.21128,
+    55.81233,
+    38.21128
+],
+  "geometry": {"coordinates":[55.81233,38.21128],"type":"Point"}
+}

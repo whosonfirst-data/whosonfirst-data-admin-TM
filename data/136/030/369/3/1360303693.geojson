@@ -1,0 +1,65 @@
+{
+  "id": 1360303693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.58333,39.28333,54.58333,39.28333",
+    "geom:latitude":39.28333,
+    "geom:longitude":54.58333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Karadepe",
+    "gn:country_code":"TM",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161882,
+    "gn:latitude":39.28333,
+    "gn:longitude":54.58333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Karadepe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161882
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"c07139abdabed969a12eda866aade572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1360303693,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1360303693,
+    "wof:lastmodified":1536628534,
+    "wof:name":"Karadepe",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.58333,
+    39.28333,
+    54.58333,
+    39.28333
+],
+  "geometry": {"coordinates":[54.58333,39.28333],"type":"Point"}
+}

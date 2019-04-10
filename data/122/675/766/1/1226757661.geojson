@@ -1,0 +1,65 @@
+{
+  "id": 1226757661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.68588,39.45444,55.68588,39.45444",
+    "geom:latitude":39.45444,
+    "geom:longitude":55.68588,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kaplanli",
+    "gn:country_code":"TM",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161891,
+    "gn:latitude":39.45444,
+    "gn:longitude":55.68588,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Kaplanli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161891
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"fe8a2a2ecbe0390c3229140f2691ffb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1226757661,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1226757661,
+    "wof:lastmodified":1536698565,
+    "wof:name":"Kaplanli",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.68588,
+    39.45444000000001,
+    55.68588,
+    39.45444000000001
+],
+  "geometry": {"coordinates":[55.68588,39.45444000000001],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1326930865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.41417,38.27667,64.41417,38.27667",
+    "geom:latitude":38.27667,
+    "geom:longitude":64.41417,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tura-Kishlak",
+    "gn:country_code":"TM",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218201,
+    "gn:latitude":38.27667,
+    "gn:longitude":64.41417,
+    "gn:modification_date":"2001-11-05",
+    "gn:name":"Tura-Kishlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218201
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"95a5d9ae535cda230374bddc0c22876a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1326930865,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1326930865,
+    "wof:lastmodified":1536906974,
+    "wof:name":"Tura-Kishlak",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.41417,
+    38.27667,
+    64.41417,
+    38.27667
+],
+  "geometry": {"coordinates":[64.41417,38.27667],"type":"Point"}
+}

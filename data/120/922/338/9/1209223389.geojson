@@ -1,0 +1,66 @@
+{
+  "id": 1209223389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.4997,37.44359,54.4997,37.44359",
+    "geom:latitude":37.44359,
+    "geom:longitude":54.4997,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Garadegish",
+    "gn:country_code":"TM",
+    "gn:dem":-6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161883,
+    "gn:latitude":37.44359,
+    "gn:longitude":54.4997,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Garadegish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karadetish",
+        "Karadegish",
+        "Garadegish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161883
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"b5e0dd08e757d0b2fb4cfa0ec59d1561",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209223389
+        }
+    ],
+    "wof:id":1209223389,
+    "wof:lastmodified":1537706437,
+    "wof:name":"Garadegish",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.4997,
+    37.44359,
+    54.4997,
+    37.44359
+],
+  "geometry": {"coordinates":[54.4997,37.44359],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259979911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.48208,37.91343,66.48208,37.91343",
+    "geom:latitude":37.91343,
+    "geom:longitude":66.48208,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Koyten",
+    "gn:country_code":"TM",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244798,
+    "gn:latitude":37.91343,
+    "gn:longitude":66.48208,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Koyten",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Koyten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244798
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"fe84acb680c3b462bc093f48908574f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1259979911,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1259979911,
+    "wof:lastmodified":1537706473,
+    "wof:name":"Koyten",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.48208000000001,
+    37.91343,
+    66.48208000000001,
+    37.91343
+],
+  "geometry": {"coordinates":[66.48208000000001,37.91343],"type":"Point"}
+}

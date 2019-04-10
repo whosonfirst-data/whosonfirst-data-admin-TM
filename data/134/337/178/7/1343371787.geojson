@@ -1,0 +1,74 @@
+{
+  "id": 1343371787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.49553,38.44304,56.49553,38.44304",
+    "geom:latitude":38.44304,
+    "geom:longitude":56.49553,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yuwangala",
+    "gn:country_code":"TM",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161376,
+    "gn:latitude":38.44304,
+    "gn:longitude":56.49553,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"\u00dduwangala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042e\u0432\u0430\u043d\u043a\u0430\u043b\u0430"
+    ],
+    "name:tuk_x_preferred":[
+        "\u00dduwangala"
+    ],
+    "name:und_x_variant":[
+        "Yuvan-Kala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161376
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"d7b2c71ec7eefc6fb3c728bb378ee9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1343371787,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1343371787,
+    "wof:lastmodified":1537706428,
+    "wof:name":"Yuwangala",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.49553,
+    38.44304,
+    56.49553,
+    38.44304
+],
+  "geometry": {"coordinates":[56.49553,38.44304],"type":"Point"}
+}

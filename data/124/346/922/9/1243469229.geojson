@@ -1,0 +1,65 @@
+{
+  "id": 1243469229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.43333,40.03333,58.43333,40.03333",
+    "geom:latitude":40.03333,
+    "geom:longitude":58.43333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Shikh",
+    "gn:country_code":"TM",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601487,
+    "gn:latitude":40.03333,
+    "gn:longitude":58.43333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Shikh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601487
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"82998f3cf45ec63bd62a49fed2fd6ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1243469229,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1243469229,
+    "wof:lastmodified":1536773261,
+    "wof:name":"Shikh",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.43333000000001,
+    40.03333,
+    58.43333000000001,
+    40.03333
+],
+  "geometry": {"coordinates":[58.43333000000001,40.03333],"type":"Point"}
+}

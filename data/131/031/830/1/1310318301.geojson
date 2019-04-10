@@ -1,0 +1,68 @@
+{
+  "id": 1310318301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.43853,38.42929,56.43853,38.42929",
+    "geom:latitude":38.42929,
+    "geom:longitude":56.43853,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Arabata",
+    "gn:country_code":"TM",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8707482,
+    "gn:latitude":38.42929,
+    "gn:longitude":56.43853,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Arabata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u0431\u0430\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8707482
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"e3d3e657429c21b57fa0e538bfd8d83b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310318301,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1310318301,
+    "wof:lastmodified":1537706469,
+    "wof:name":"Arabata",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.43853000000001,
+    38.42929,
+    56.43853000000001,
+    38.42929
+],
+  "geometry": {"coordinates":[56.43853000000001,38.42929],"type":"Point"}
+}

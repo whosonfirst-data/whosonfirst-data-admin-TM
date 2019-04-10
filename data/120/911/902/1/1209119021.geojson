@@ -1,0 +1,76 @@
+{
+  "id": 1209119021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.53333,41.56667,52.53333,41.56667",
+    "geom:latitude":41.56667,
+    "geom:longitude":52.53333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Karabogaz",
+    "gn:cc2":"TM",
+    "gn:country_code":"TM",
+    "gn:dem":-29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601758,
+    "gn:latitude":41.56667,
+    "gn:longitude":52.53333,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Karabogaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karabogaz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043a\u0434\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "Bek-Dafh",
+        "Bik-Dafh",
+        "Bik-Dash",
+        "Bekdash",
+        "Karabogaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601758,
+        "wk:page":"Garabogaz"
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"38e2539972b64d5d34b41368021665ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209119021
+        }
+    ],
+    "wof:id":1209119021,
+    "wof:lastmodified":1537706448,
+    "wof:name":"Karabogaz",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.53333000000001,
+    41.56667,
+    52.53333000000001,
+    41.56667
+],
+  "geometry": {"coordinates":[52.53333000000001,41.56667],"type":"Point"}
+}

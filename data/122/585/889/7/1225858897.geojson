@@ -1,0 +1,68 @@
+{
+  "id": 1225858897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.79681,36.67133,60.79681,36.67133",
+    "geom:latitude":36.67133,
+    "geom:longitude":60.79681,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kel'khauz",
+    "gn:country_code":"TM",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8599726,
+    "gn:latitude":36.67133,
+    "gn:longitude":60.79681,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"K\u00ebl\u2019khauz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "K\u00ebl\u2019khauz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8599726
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"a4da11e03d228d1f8973dc01f139a09f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1225858897,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1225858897,
+    "wof:lastmodified":1537706469,
+    "wof:name":"Kel'khauz",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.79681,
+    36.67133,
+    60.79681,
+    36.67133
+],
+  "geometry": {"coordinates":[60.79681,36.67133],"type":"Point"}
+}

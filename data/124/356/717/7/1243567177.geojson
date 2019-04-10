@@ -1,0 +1,68 @@
+{
+  "id": 1243567177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.51186,38.38355,56.51186,38.38355",
+    "geom:latitude":38.38355,
+    "geom:longitude":56.51186,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Shekhveder",
+    "gn:country_code":"TM",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8707486,
+    "gn:latitude":38.38355,
+    "gn:longitude":56.51186,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Shekhveder",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0445\u0432\u0435\u0434\u0435\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8707486
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"4bf58d60eaf70df8a38c38dc2bac2f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1243567177,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1243567177,
+    "wof:lastmodified":1537706470,
+    "wof:name":"Shekhveder",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.51186,
+    38.38355,
+    56.51186,
+    38.38355
+],
+  "geometry": {"coordinates":[56.51186,38.38355],"type":"Point"}
+}

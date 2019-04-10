@@ -1,0 +1,65 @@
+{
+  "id": 1310215201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.0,37.58333,62.0,37.58333",
+    "geom:latitude":37.58333,
+    "geom:longitude":62.0,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yazy",
+    "gn:country_code":"TM",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218060,
+    "gn:latitude":37.58333,
+    "gn:longitude":62.0,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Yazy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218060
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"829d4586d42e3dbd48355196cbca7129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310215201,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1310215201,
+    "wof:lastmodified":1536837127,
+    "wof:name":"Yazy",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.0,
+    37.58333,
+    62.0,
+    37.58333
+],
+  "geometry": {"coordinates":[62.0,37.58333],"type":"Point"}
+}

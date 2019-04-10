@@ -1,0 +1,71 @@
+{
+  "id": 1242974175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.79278,37.57806,54.79278,37.57806",
+    "geom:latitude":37.57806,
+    "geom:longitude":54.79278,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Udey",
+    "gn:country_code":"TM",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410775,
+    "gn:latitude":37.57806,
+    "gn:longitude":54.79278,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Udey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0434\u0435\u0439"
+    ],
+    "name:und_x_variant":[
+        "\u00d6dey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410775
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"ee73011c99cdc36314545e46ef4fd1df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1242974175,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1242974175,
+    "wof:lastmodified":1537706443,
+    "wof:name":"Udey",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.79278000000001,
+    37.57806,
+    54.79278000000001,
+    37.57806
+],
+  "geometry": {"coordinates":[54.79278000000001,37.57806],"type":"Point"}
+}

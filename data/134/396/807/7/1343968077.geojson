@@ -1,0 +1,65 @@
+{
+  "id": 1343968077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.3,37.66667,66.3,37.66667",
+    "geom:latitude":37.66667,
+    "geom:longitude":66.3,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yangi-Khodzhalyk",
+    "gn:country_code":"TM",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218086,
+    "gn:latitude":37.66667,
+    "gn:longitude":66.3,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Yangi-Khodzhalyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218086
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"ae02c8016766c0e2c04558852111c7e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1343968077,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1343968077,
+    "wof:lastmodified":1537008188,
+    "wof:name":"Yangi-Khodzhalyk",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.3,
+    37.66667,
+    66.3,
+    37.66667
+],
+  "geometry": {"coordinates":[66.3,37.66667],"type":"Point"}
+}

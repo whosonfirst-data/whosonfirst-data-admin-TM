@@ -1,0 +1,72 @@
+{
+  "id": 1310317957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.01944,38.38722,54.01944,38.38722",
+    "geom:latitude":38.38722,
+    "geom:longitude":54.01944,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gamyshlyja",
+    "gn:cc2":"TM",
+    "gn:country_code":"TM",
+    "gn:dem":-18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442580,
+    "gn:latitude":38.38722,
+    "gn:longitude":54.01944,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gamyshlyja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gamyshlydzha",
+        "Kamyshlydzha",
+        "Kamyshaldzhar",
+        "Gamyshlyja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442580
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"1fee6a58721ae16db25cf8e631b67d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310317957,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1310317957,
+    "wof:lastmodified":1537706444,
+    "wof:name":"Gamyshlyja",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.01944,
+    38.38722,
+    54.01944,
+    38.38722
+],
+  "geometry": {"coordinates":[54.01944,38.38722],"type":"Point"}
+}

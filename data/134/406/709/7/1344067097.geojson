@@ -1,0 +1,65 @@
+{
+  "id": 1344067097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.86667,38.81667,63.86667,38.81667",
+    "geom:latitude":38.81667,
+    "geom:longitude":63.86667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Eski",
+    "gn:country_code":"TM",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219441,
+    "gn:latitude":38.81667,
+    "gn:longitude":63.86667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Eski",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219441
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"9d896ec68a3b332323383248206f5fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1344067097,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1344067097,
+    "wof:lastmodified":1536864572,
+    "wof:name":"Eski",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.86666999999999,
+    38.81667,
+    63.86666999999999,
+    38.81667
+],
+  "geometry": {"coordinates":[63.86666999999999,38.81667],"type":"Point"}
+}

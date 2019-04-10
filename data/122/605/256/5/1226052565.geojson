@@ -1,0 +1,65 @@
+{
+  "id": 1226052565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.46667,37.66667,60.46667,37.66667",
+    "geom:latitude":37.66667,
+    "geom:longitude":60.46667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dzhapar",
+    "gn:country_code":"TM",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219491,
+    "gn:latitude":37.66667,
+    "gn:longitude":60.46667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Dzhapar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219491
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"9f2bdf18125e9f0ae3dd0c86cf363d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1226052565,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1226052565,
+    "wof:lastmodified":1536715561,
+    "wof:name":"Dzhapar",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.46666999999999,
+    37.66667,
+    60.46666999999999,
+    37.66667
+],
+  "geometry": {"coordinates":[60.46666999999999,37.66667],"type":"Point"}
+}

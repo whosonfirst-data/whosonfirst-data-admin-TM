@@ -1,0 +1,65 @@
+{
+  "id": 1310106173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.08578,37.32408,65.08578,37.32408",
+    "geom:latitude":37.32408,
+    "geom:longitude":65.08578,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kurlugun",
+    "gn:country_code":"TM",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475181,
+    "gn:latitude":37.32408,
+    "gn:longitude":65.08578,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Kurlugun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475181
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"461975df184c24ccf173d7def22bc02b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310106173,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1310106173,
+    "wof:lastmodified":1536994709,
+    "wof:name":"Kurlugun",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.08578,
+    37.32408,
+    65.08578,
+    37.32408
+],
+  "geometry": {"coordinates":[65.08578,37.32408],"type":"Point"}
+}

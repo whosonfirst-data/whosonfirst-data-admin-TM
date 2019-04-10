@@ -1,0 +1,65 @@
+{
+  "id": 1310424041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.55,37.65,60.55,37.65",
+    "geom:latitude":37.65,
+    "geom:longitude":60.55,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aman",
+    "gn:country_code":"TM",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219904,
+    "gn:latitude":37.65,
+    "gn:longitude":60.55,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Aman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219904
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"29e11c7158e78a5c856a253df63c58df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310424041,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1310424041,
+    "wof:lastmodified":1537033058,
+    "wof:name":"Aman",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.55,
+    37.65,
+    60.55,
+    37.65
+],
+  "geometry": {"coordinates":[60.55,37.65],"type":"Point"}
+}

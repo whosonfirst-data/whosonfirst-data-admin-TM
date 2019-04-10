@@ -1,0 +1,75 @@
+{
+  "id": 1310106241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.01358,37.509,66.01358,37.509",
+    "geom:latitude":37.509,
+    "geom:longitude":66.01358,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Koytendag",
+    "gn:country_code":"TM",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219647,
+    "gn:latitude":37.509,
+    "gn:longitude":66.01358,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Koytendag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Charshanga",
+        "Tscharschanga",
+        "Charshangngy",
+        "Charshangu",
+        "Charshangy",
+        "\u00c7ar\u015fa\u0148\u0148y",
+        "Koytendag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219647,
+        "wk:page":"Charshanga"
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"c6585d221eea363d7b7e8c75e0645868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310106241,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1310106241,
+    "wof:lastmodified":1537706464,
+    "wof:name":"Koytendag",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.01358,
+    37.509,
+    66.01358,
+    37.509
+],
+  "geometry": {"coordinates":[66.01358,37.509],"type":"Point"}
+}

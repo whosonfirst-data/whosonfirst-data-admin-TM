@@ -1,0 +1,64 @@
+{
+  "id": 1209218761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.2225,38.12669,58.2225,38.12669",
+    "geom:latitude":38.12669,
+    "geom:longitude":58.2225,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Porsukuyu",
+    "gn:country_code":"TM",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9643370,
+    "gn:latitude":38.12669,
+    "gn:longitude":58.2225,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Porsukuyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0441\u0443\u043a\u0443\u044e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9643370
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"f07e22503d2664e2d2ad5f22694b23ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209218761
+        }
+    ],
+    "wof:id":1209218761,
+    "wof:lastmodified":1537706472,
+    "wof:name":"Porsukuyu",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.2225,
+    38.12669,
+    58.2225,
+    38.12669
+],
+  "geometry": {"coordinates":[58.2225,38.12669],"type":"Point"}
+}

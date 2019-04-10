@@ -1,0 +1,69 @@
+{
+  "id": 1193034113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.16656,40.83973,55.16656,40.83973",
+    "geom:latitude":40.83973,
+    "geom:longitude":55.16656,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tuar",
+    "gn:country_code":"TM",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601452,
+    "gn:latitude":40.83973,
+    "gn:longitude":55.16656,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tuar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taur",
+        "Tuar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601452
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"32ee5721dec4802aae03b7694711508d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1193034113,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1193034113,
+    "wof:lastmodified":1537706444,
+    "wof:name":"Tuar",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.16656,
+    40.83973,
+    55.16656,
+    40.83973
+],
+  "geometry": {"coordinates":[55.16656,40.83973],"type":"Point"}
+}

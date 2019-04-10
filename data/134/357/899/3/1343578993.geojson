@@ -1,0 +1,70 @@
+{
+  "id": 1343578993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.39372,37.68887,60.39372,37.68887",
+    "geom:latitude":37.68887,
+    "geom:longitude":60.39372,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Babadayhan",
+    "gn:country_code":"TM",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219812,
+    "gn:latitude":37.68887,
+    "gn:longitude":60.39372,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Babada\u00fdhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kirovsk",
+        "Babada\u00fdhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219812,
+        "wk:page":"Babada%C3%BDhan"
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"b16817c8b464c4915b5bdbfe7cd8cdf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1343578993,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1343578993,
+    "wof:lastmodified":1537706466,
+    "wof:name":"Babadayhan",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.39372,
+    37.68887,
+    60.39372,
+    37.68887
+],
+  "geometry": {"coordinates":[60.39372,37.68887],"type":"Point"}
+}

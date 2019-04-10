@@ -1,0 +1,65 @@
+{
+  "id": 1309924155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.78958,41.78492,59.78958,41.78492",
+    "geom:latitude":41.78492,
+    "geom:longitude":59.78958,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tezedurmysh",
+    "gn:country_code":"TM",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601456,
+    "gn:latitude":41.78492,
+    "gn:longitude":59.78958,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Tezedurmysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601456
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"6cd3a7ab6efdacff3db8204855331678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1309924155,
+            "region_id":85678931
+        }
+    ],
+    "wof:id":1309924155,
+    "wof:lastmodified":1536760711,
+    "wof:name":"Tezedurmysh",
+    "wof:parent_id":85678931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.78958000000001,
+    41.78492,
+    59.78958000000001,
+    41.78492
+],
+  "geometry": {"coordinates":[59.78958000000001,41.78492],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293794111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.07539,41.57624,60.07539,41.57624",
+    "geom:latitude":41.57624,
+    "geom:longitude":60.07539,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Imeni Kuybysheva",
+    "gn:country_code":"TM",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514785,
+    "gn:latitude":41.57624,
+    "gn:longitude":60.07539,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Imeni Kuybysheva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514785
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"142eb7a8d7f9c5adcbc935589c8f76bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1293794111,
+            "region_id":85678931
+        }
+    ],
+    "wof:id":1293794111,
+    "wof:lastmodified":1536840978,
+    "wof:name":"Imeni Kuybysheva",
+    "wof:parent_id":85678931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.07539000000001,
+    41.57624000000001,
+    60.07539000000001,
+    41.57624000000001
+],
+  "geometry": {"coordinates":[60.07539000000001,41.57624000000001],"type":"Point"}
+}

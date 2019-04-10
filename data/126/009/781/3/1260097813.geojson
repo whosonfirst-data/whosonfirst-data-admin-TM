@@ -1,0 +1,74 @@
+{
+  "id": 1260097813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.47195,36.75594,60.47195,36.75594",
+    "geom:latitude":36.75594,
+    "geom:longitude":60.47195,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Akdzadepe",
+    "gn:country_code":"TM",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219964,
+    "gn:latitude":36.75594,
+    "gn:longitude":60.47195,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Akdz\u0304adepe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tuk_x_preferred":[
+        "Akdz\u0304adepe"
+    ],
+    "name:und_x_variant":[
+        "Akhcha-Tepe",
+        "Akhchadepe",
+        "Akchadepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219964,
+        "wk:page":"Akhchadepe"
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"db97f04787e5128334e666d7921d144c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1260097813,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1260097813,
+    "wof:lastmodified":1537706467,
+    "wof:name":"Akdzadepe",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.47195,
+    36.75594,
+    60.47195,
+    36.75594
+],
+  "geometry": {"coordinates":[60.47195,36.75594],"type":"Point"}
+}

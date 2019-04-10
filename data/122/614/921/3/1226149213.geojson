@@ -1,0 +1,65 @@
+{
+  "id": 1226149213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.64535,37.56323,65.64535,37.56323",
+    "geom:latitude":37.56323,
+    "geom:longitude":65.64535,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Golovnoye",
+    "gn:country_code":"TM",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219395,
+    "gn:latitude":37.56323,
+    "gn:longitude":65.64535,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Golovnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219395
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"49dcfc15ee9d8d1b761d1379d2a6b304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1226149213,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1226149213,
+    "wof:lastmodified":1537069626,
+    "wof:name":"Golovnoye",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.64535,
+    37.56323,
+    65.64535,
+    37.56323
+],
+  "geometry": {"coordinates":[65.64534999999999,37.56323],"type":"Point"}
+}

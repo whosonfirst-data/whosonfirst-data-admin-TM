@@ -1,0 +1,70 @@
+{
+  "id": 1276991357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.28333,39.35,55.28333,39.35",
+    "geom:latitude":39.35,
+    "geom:longitude":55.28333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chatli",
+    "gn:cc2":"TM",
+    "gn:country_code":"TM",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162085,
+    "gn:latitude":39.35,
+    "gn:longitude":55.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chatli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chatly",
+        "Chatli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162085
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"e4d33db10504db5b303ac185a73f2e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1276991357,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1276991357,
+    "wof:lastmodified":1537706440,
+    "wof:name":"Chatli",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.28333000000001,
+    39.35,
+    55.28333000000001,
+    39.35
+],
+  "geometry": {"coordinates":[55.28333000000001,39.35],"type":"Point"}
+}

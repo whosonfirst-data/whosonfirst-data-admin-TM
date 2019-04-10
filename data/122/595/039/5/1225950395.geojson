@@ -1,0 +1,74 @@
+{
+  "id": 1225950395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.64607,37.94776,66.64607,37.94776",
+    "geom:latitude":37.94776,
+    "geom:longitude":66.64607,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Imeni Stalina",
+    "gn:country_code":"TM",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218943,
+    "gn:latitude":37.94776,
+    "gn:longitude":66.64607,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Imeni Stalina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khodzhai-Fil\u2019ata",
+        "Imeni Stalina",
+        "Khodzhay-Fil\u2019-Ata",
+        "Khodzhapil\u2019"
+    ],
+    "name:uzb_x_preferred":[
+        "Xo\u2018jaypil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632645,
+        85680397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218943
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"e068e3f191c9802380493930421c8894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":1225950395,
+            "region_id":85680397
+        }
+    ],
+    "wof:id":1225950395,
+    "wof:lastmodified":1537706456,
+    "wof:name":"Imeni Stalina",
+    "wof:parent_id":85680397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.64607,
+    37.94776,
+    66.64607,
+    37.94776
+],
+  "geometry": {"coordinates":[66.64606999999999,37.94776],"type":"Point"}
+}

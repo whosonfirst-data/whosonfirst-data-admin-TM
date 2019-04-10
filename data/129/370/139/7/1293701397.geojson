@@ -1,0 +1,71 @@
+{
+  "id": 1293701397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.96667,40.63333,53.96667,40.63333",
+    "geom:latitude":40.63333,
+    "geom:longitude":53.96667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kyzylkup",
+    "gn:cc2":"TM",
+    "gn:country_code":"TM",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601560,
+    "gn:latitude":40.63333,
+    "gn:longitude":53.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kyzylkup",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kizyl-Kup",
+        "Kizil Kup",
+        "Kyzylkup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601560
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"e888c38227c47d25aad3bdbc6ff11c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1293701397,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1293701397,
+    "wof:lastmodified":1537706445,
+    "wof:name":"Kyzylkup",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.96666999999999,
+    40.63333,
+    53.96666999999999,
+    40.63333
+],
+  "geometry": {"coordinates":[53.96666999999999,40.63333],"type":"Point"}
+}

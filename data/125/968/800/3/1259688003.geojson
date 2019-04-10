@@ -1,0 +1,72 @@
+{
+  "id": 1259688003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.77527,37.19965,59.77527,37.19965",
+    "geom:latitude":37.19965,
+    "geom:longitude":59.77527,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Deycha",
+    "gn:country_code":"TM",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162027,
+    "gn:latitude":37.19965,
+    "gn:longitude":59.77527,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Deycha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0439\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Derbend-Deycha",
+        "Deycha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162027
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"c4f7ca5943d6dc2477882e1e61d5c6ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1259688003,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1259688003,
+    "wof:lastmodified":1537706439,
+    "wof:name":"Deycha",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.77526999999999,
+    37.19965,
+    59.77526999999999,
+    37.19965
+],
+  "geometry": {"coordinates":[59.77526999999999,37.19965],"type":"Point"}
+}

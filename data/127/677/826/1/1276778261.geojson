@@ -1,0 +1,65 @@
+{
+  "id": 1276778261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.73561,37.13569,62.73561,37.13569",
+    "geom:latitude":37.13569,
+    "geom:longitude":62.73561,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yangi-Kuyu",
+    "gn:country_code":"TM",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218084,
+    "gn:latitude":37.13569,
+    "gn:longitude":62.73561,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Yangi-Kuyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218084
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"315b0e9bfa7e8207911f9518a9a7d98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1276778261,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1276778261,
+    "wof:lastmodified":1536679614,
+    "wof:name":"Yangi-Kuyu",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.73561,
+    37.13569,
+    62.73561,
+    37.13569
+],
+  "geometry": {"coordinates":[62.73561,37.13569],"type":"Point"}
+}

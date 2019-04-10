@@ -1,0 +1,65 @@
+{
+  "id": 1343780363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.13556,40.27694,54.13556,40.27694",
+    "geom:latitude":40.27694,
+    "geom:longitude":54.13556,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Orfa",
+    "gn:country_code":"TM",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":608665,
+    "gn:latitude":40.27694,
+    "gn:longitude":54.13556,
+    "gn:modification_date":"2003-12-31",
+    "gn:name":"Orfa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":608665
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"794c7b120e4149f8fb3c740eee93319d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1343780363,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1343780363,
+    "wof:lastmodified":1536782764,
+    "wof:name":"Orfa",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.13556,
+    40.27694,
+    54.13556,
+    40.27694
+],
+  "geometry": {"coordinates":[54.13556,40.27694],"type":"Point"}
+}

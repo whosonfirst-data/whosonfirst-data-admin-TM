@@ -1,0 +1,68 @@
+{
+  "id": 1343575007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.31207,37.92549,58.31207,37.92549",
+    "geom:latitude":37.92549,
+    "geom:longitude":58.31207,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lesopitomnik",
+    "gn:country_code":"TM",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410521,
+    "gn:latitude":37.92549,
+    "gn:longitude":58.31207,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"Lesopitomnik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0441\u043e\u043f\u0438\u0442\u043e\u043c\u043d\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410521
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"005888d8d6471ac86ea2c989f8d37d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1343575007,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1343575007,
+    "wof:lastmodified":1537706443,
+    "wof:name":"Lesopitomnik",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.31207,
+    37.92549,
+    58.31207,
+    37.92549
+],
+  "geometry": {"coordinates":[58.31207,37.92549],"type":"Point"}
+}

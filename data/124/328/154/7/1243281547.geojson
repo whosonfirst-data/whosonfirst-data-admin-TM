@@ -1,0 +1,68 @@
+{
+  "id": 1243281547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.63333,37.7,58.63333,37.7",
+    "geom:latitude":37.7,
+    "geom:longitude":58.63333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kyal'-Ata",
+    "gn:country_code":"TM",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161690,
+    "gn:latitude":37.7,
+    "gn:longitude":58.63333,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Kyal\u2019-Ata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kyal\u2019-Ata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161690
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"10c9bcc8a993069fc6ef1f791140d25a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1243281547,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1243281547,
+    "wof:lastmodified":1537706433,
+    "wof:name":"Kyal'-Ata",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.63333000000001,
+    37.7,
+    58.63333000000001,
+    37.7
+],
+  "geometry": {"coordinates":[58.63333000000001,37.7],"type":"Point"}
+}

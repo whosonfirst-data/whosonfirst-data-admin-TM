@@ -1,0 +1,68 @@
+{
+  "id": 1293491725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.20235,38.1082,58.20235,38.1082",
+    "geom:latitude":38.1082,
+    "geom:longitude":58.20235,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Talkhanly",
+    "gn:country_code":"TM",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9643371,
+    "gn:latitude":38.1082,
+    "gn:longitude":58.20235,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Talkhanly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u0445\u0430\u043d\u043b\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9643371
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"b44eb1b509a9f7b6d2a0520da8ac973c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1293491725,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1293491725,
+    "wof:lastmodified":1537706472,
+    "wof:name":"Talkhanly",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.20235,
+    38.1082,
+    58.20235,
+    38.1082
+],
+  "geometry": {"coordinates":[58.20235,38.1082],"type":"Point"}
+}

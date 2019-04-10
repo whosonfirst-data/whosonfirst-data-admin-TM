@@ -1,0 +1,72 @@
+{
+  "id": 1260289311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.86833,35.98763,62.86833,35.98763",
+    "geom:latitude":35.98763,
+    "geom:longitude":62.86833,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kolkhoz Imeni Engel'sa",
+    "gn:country_code":"TM",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219335,
+    "gn:latitude":35.98763,
+    "gn:longitude":62.86833,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kolkhoz Imeni Engel\u2019sa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kolkhoz Imeni Engel\u2019sa"
+    ],
+    "name:und_x_variant":[
+        "Bayrach",
+        "Imeni Engel\u2019sa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219335
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"525448c7063888569756ef72b0288b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1260289311,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1260289311,
+    "wof:lastmodified":1537706461,
+    "wof:name":"Kolkhoz Imeni Engel'sa",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.86833000000001,
+    35.98763,
+    62.86833000000001,
+    35.98763
+],
+  "geometry": {"coordinates":[62.86833000000001,35.98763],"type":"Point"}
+}

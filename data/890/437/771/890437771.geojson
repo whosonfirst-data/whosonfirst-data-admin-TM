@@ -1,0 +1,103 @@
+{
+  "id": 890437771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.67101,42.12824,59.67101,42.12824",
+    "geom:latitude":42.12824,
+    "geom:longitude":59.67101,
+    "gn:country":"TM",
+    "gn:fcode":"PPL",
+    "gn:pop":21159,
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u043b\u0434\u0443\u043c\u0441\u0430\u0437"
+    ],
+    "name:dut_x_preferred":[
+        "Boldumsaz"
+    ],
+    "name:eng_x_preferred":[
+        "Boldumsaz"
+    ],
+    "name:est_x_preferred":[
+        "Boldumsaz"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03bf\u03bb\u03bd\u03c4\u03bf\u03c5\u03bc\u03c3\u03ac\u03b6"
+    ],
+    "name:ita_x_preferred":[
+        "Boldumsaz"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0648\u0644\u062f\u0648\u0645 \u0633\u0627\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Boldumsaz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u0434\u0443\u043c\u0441\u0430\u0437"
+    ],
+    "name:spa_x_preferred":[
+        "Boldumsaz"
+    ],
+    "name:unk_x_variant":[
+        "Kalinin"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0644\u062f\u0648\u0645\u0633\u0627\u0632"
+    ],
+    "qs:name":"Boldumsaz",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":15,
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601661,
+        "gp:id":1936557,
+        "qs:id":126029,
+        "wd:id":"Q938252",
+        "wk:page":"Boldumsaz"
+    },
+    "wof:country":"TM",
+    "wof:created":1469052165,
+    "wof:geomhash":"552763fe4185876c63a81aa39de609d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":890437771,
+            "region_id":85678931
+        }
+    ],
+    "wof:id":890437771,
+    "wof:lastmodified":1527729750,
+    "wof:name":"Boldumsaz",
+    "wof:parent_id":85678931,
+    "wof:placetype":"locality",
+    "wof:population":21159,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.67101,
+    42.12824,
+    59.67101,
+    42.12824
+],
+  "geometry": {"coordinates":[59.67101,42.12824],"type":"Point"}
+}

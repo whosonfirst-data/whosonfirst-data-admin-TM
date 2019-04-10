@@ -1,0 +1,99 @@
+{
+  "id": 421177999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.97142,37.49656,61.97142,37.49656",
+    "geom:latitude":37.49656,
+    "geom:longitude":61.97142,
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u063a\u0627\u0628"
+    ],
+    "name:ita_x_preferred":[
+        "Murghab"
+    ],
+    "name:lit_x_preferred":[
+        "Murgabas"
+    ],
+    "name:nld_x_preferred":[
+        "Murghab"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u0433\u0430\u0431"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0440\u0433\u0430\u0431"
+    ],
+    "name:unk_x_variant":[
+        "Stalino"
+    ],
+    "qs:gn_country":"TM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1218612,
+    "qs:gn_pop":13199,
+    "qs:name":"Murgab",
+    "qs:name_adm0":"Turkmenistan",
+    "qs:name_adm1":"Mary",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":276126,
+    "qs:woe_adm0":23424972,
+    "qs:woe_id":1936598,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":117,
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218612,
+        "gp:id":1936598,
+        "qs:id":276126
+    },
+    "wof:country":"TM",
+    "wof:created":1459009167,
+    "wof:geomhash":"f5514ce641deb59bc9aaa613406fdeec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":421177999,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":421177999,
+    "wof:lastmodified":1527716477,
+    "wof:name":"Murgab",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:population":13199,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.97142,
+    37.49656,
+    61.97142,
+    37.49656
+],
+  "geometry": {"coordinates":[61.97142,37.49656],"type":"Point"}
+}

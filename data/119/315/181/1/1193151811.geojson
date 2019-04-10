@@ -1,0 +1,65 @@
+{
+  "id": 1193151811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.16667,37.51667,62.16667,37.51667",
+    "geom:latitude":37.51667,
+    "geom:longitude":62.16667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kozelkovskiy",
+    "gn:country_code":"TM",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218825,
+    "gn:latitude":37.51667,
+    "gn:longitude":62.16667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Kozelkovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218825
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"ec7b5888fb700bb66164776959a6ba24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1193151811,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1193151811,
+    "wof:lastmodified":1536377429,
+    "wof:name":"Kozelkovskiy",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.16667,
+    37.51667,
+    62.16667,
+    37.51667
+],
+  "geometry": {"coordinates":[62.16667,37.51667],"type":"Point"}
+}

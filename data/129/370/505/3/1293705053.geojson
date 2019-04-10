@@ -1,0 +1,65 @@
+{
+  "id": 1293705053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.33497,39.17522,63.33497,39.17522",
+    "geom:latitude":39.17522,
+    "geom:longitude":63.33497,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Imeni Voroshilova",
+    "gn:country_code":"TM",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219232,
+    "gn:latitude":39.17522,
+    "gn:longitude":63.33497,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Imeni Voroshilova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219232
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"d2d480ad901cb6b25561480fbe914938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1293705053,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1293705053,
+    "wof:lastmodified":1536970413,
+    "wof:name":"Imeni Voroshilova",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.33497,
+    39.17522,
+    63.33497,
+    39.17522
+],
+  "geometry": {"coordinates":[63.33497,39.17522],"type":"Point"}
+}

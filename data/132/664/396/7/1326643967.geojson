@@ -1,0 +1,76 @@
+{
+  "id": 1326643967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.30696,38.49273,57.30696,38.49273",
+    "geom:latitude":38.49273,
+    "geom:longitude":57.30696,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sunchi",
+    "gn:country_code":"TM",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161505,
+    "gn:latitude":38.49273,
+    "gn:longitude":57.30696,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Sunchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043d\u0447\u0430"
+    ],
+    "name:tuk_x_preferred":[
+        "S\u00fcn\u00e7e"
+    ],
+    "name:und_x_variant":[
+        "Sunche",
+        "Sunchi",
+        "Suncha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161505
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"37846ba7576af189c07eb6096a3241ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1326643967,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1326643967,
+    "wof:lastmodified":1537706430,
+    "wof:name":"Sunchi",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.30696,
+    38.49273,
+    57.30696,
+    38.49273
+],
+  "geometry": {"coordinates":[57.30696,38.49273],"type":"Point"}
+}

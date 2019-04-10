@@ -1,0 +1,75 @@
+{
+  "id": 1226554085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.08884,38.07928,58.08884,38.07928",
+    "geom:latitude":38.07928,
+    "geom:longitude":58.08884,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gorjaw",
+    "gn:country_code":"TM",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161741,
+    "gn:latitude":38.07928,
+    "gn:longitude":58.08884,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Gorjaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0436\u043e\u0443"
+    ],
+    "name:tuk_x_preferred":[
+        "Gorjaw"
+    ],
+    "name:und_x_variant":[
+        "Kordzhou",
+        "Korzhou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161741
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"2dced6c63154d14effb07eae5232a89d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1226554085,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1226554085,
+    "wof:lastmodified":1537706434,
+    "wof:name":"Gorjaw",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.08884000000001,
+    38.07928,
+    58.08884000000001,
+    38.07928
+],
+  "geometry": {"coordinates":[58.08884000000001,38.07928],"type":"Point"}
+}

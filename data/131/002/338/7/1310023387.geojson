@@ -1,0 +1,65 @@
+{
+  "id": 1310023387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.22422,36.13044,61.22422,36.13044",
+    "geom:latitude":36.13044,
+    "geom:longitude":61.22422,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Shirtepe",
+    "gn:country_code":"TM",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462830,
+    "gn:latitude":36.13044,
+    "gn:longitude":61.22422,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Shirtepe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462830
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"24ad17015e49cb8d055d744d147a2d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310023387,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1310023387,
+    "wof:lastmodified":1536615143,
+    "wof:name":"Shirtepe",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.22422,
+    36.13044,
+    61.22422,
+    36.13044
+],
+  "geometry": {"coordinates":[61.22422,36.13044],"type":"Point"}
+}

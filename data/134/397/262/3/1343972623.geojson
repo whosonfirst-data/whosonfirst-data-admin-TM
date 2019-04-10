@@ -1,0 +1,65 @@
+{
+  "id": 1343972623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.26667,37.55,62.26667,37.55",
+    "geom:latitude":37.55,
+    "geom:longitude":62.26667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Imeni Ordzhonikidze",
+    "gn:country_code":"TM",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219263,
+    "gn:latitude":37.55,
+    "gn:longitude":62.26667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Imeni Ordzhonikidze",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219263
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"c53b59797e3101f671e07fabbe4498e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1343972623,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1343972623,
+    "wof:lastmodified":1537001633,
+    "wof:name":"Imeni Ordzhonikidze",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.26667,
+    37.55,
+    62.26667,
+    37.55
+],
+  "geometry": {"coordinates":[62.26667,37.55],"type":"Point"}
+}

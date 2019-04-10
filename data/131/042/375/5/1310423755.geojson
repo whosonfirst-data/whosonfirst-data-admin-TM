@@ -1,0 +1,70 @@
+{
+  "id": 1310423755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.31667,37.7,62.31667,37.7",
+    "geom:latitude":37.7,
+    "geom:longitude":62.31667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Besheuray",
+    "gn:cc2":"TM",
+    "gn:country_code":"TM",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219728,
+    "gn:latitude":37.7,
+    "gn:longitude":62.31667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Besheuray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Besheurchi",
+        "Besheuray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219728
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"16d40ad09c957f93c5180c4d8329f338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310423755,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1310423755,
+    "wof:lastmodified":1537706465,
+    "wof:name":"Besheuray",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.31667,
+    37.7,
+    62.31667,
+    37.7
+],
+  "geometry": {"coordinates":[62.31667,37.7],"type":"Point"}
+}

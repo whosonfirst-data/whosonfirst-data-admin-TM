@@ -1,0 +1,70 @@
+{
+  "id": 1209528401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.33366,38.43052,56.33366,38.43052",
+    "geom:latitude":38.43052,
+    "geom:longitude":56.33366,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Garkel",
+    "gn:country_code":"TM",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8707480,
+    "gn:latitude":38.43052,
+    "gn:longitude":56.33366,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Garkel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u041a\u0435\u043b\u044c"
+    ],
+    "name:tuk_x_preferred":[
+        "Garkel"
+    ],
+    "name:und_x_variant":[
+        "Kara-Kel\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8707480
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"c217ea13f47b27860e935be2008edd5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209528401
+        }
+    ],
+    "wof:id":1209528401,
+    "wof:lastmodified":1537706469,
+    "wof:name":"Garkel",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.33366,
+    38.43052,
+    56.33366,
+    38.43052
+],
+  "geometry": {"coordinates":[56.33366,38.43052],"type":"Point"}
+}

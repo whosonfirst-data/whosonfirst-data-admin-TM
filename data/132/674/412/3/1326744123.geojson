@@ -1,0 +1,71 @@
+{
+  "id": 1326744123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.18715,38.52189,57.18715,38.52189",
+    "geom:latitude":38.52189,
+    "geom:longitude":57.18715,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Karagyl'",
+    "gn:country_code":"TM",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9180944,
+    "gn:latitude":38.52189,
+    "gn:longitude":57.18715,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Karagyl\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Karagyl\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430\u0433\u044b\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9180944
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"6f54adcbdbb4be706d8b4a8d08e80ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1326744123,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1326744123,
+    "wof:lastmodified":1537706471,
+    "wof:name":"Karagyl'",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.18715,
+    38.52189,
+    57.18715,
+    38.52189
+],
+  "geometry": {"coordinates":[57.18715,38.52189],"type":"Point"}
+}

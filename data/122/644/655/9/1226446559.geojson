@@ -1,0 +1,68 @@
+{
+  "id": 1226446559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.83007,38.20317,57.83007,38.20317",
+    "geom:latitude":38.20317,
+    "geom:longitude":57.83007,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Achkyariz",
+    "gn:country_code":"TM",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9007762,
+    "gn:latitude":38.20317,
+    "gn:longitude":57.83007,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Achkyariz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0447\u043a\u044f\u0440\u0438\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9007762
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"a914a7a2a7d372e7740d71c7cf6dbd0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1226446559,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1226446559,
+    "wof:lastmodified":1537706471,
+    "wof:name":"Achkyariz",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.83006999999999,
+    38.20317,
+    57.83006999999999,
+    38.20317
+],
+  "geometry": {"coordinates":[57.83006999999999,38.20317],"type":"Point"}
+}

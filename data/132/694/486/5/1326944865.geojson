@@ -1,0 +1,70 @@
+{
+  "id": 1326944865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.63333,41.16667,54.63333,41.16667",
+    "geom:latitude":41.16667,
+    "geom:longitude":54.63333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khodzhasu",
+    "gn:cc2":"TM",
+    "gn:country_code":"TM",
+    "gn:dem":-30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601618,
+    "gn:latitude":41.16667,
+    "gn:longitude":54.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khodzhasu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khadzhi-Su",
+        "Khodzhasu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601618
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"1e46925eac546fac8bf2a8722c78dd01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1326944865,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1326944865,
+    "wof:lastmodified":1537706446,
+    "wof:name":"Khodzhasu",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.63333000000001,
+    41.16667,
+    54.63333000000001,
+    41.16667
+],
+  "geometry": {"coordinates":[54.63333000000001,41.16667],"type":"Point"}
+}

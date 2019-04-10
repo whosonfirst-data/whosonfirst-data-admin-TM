@@ -1,0 +1,72 @@
+{
+  "id": 1225953753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.80028,38.73327,56.80028,38.73327",
+    "geom:latitude":38.73327,
+    "geom:longitude":56.80028,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bamy",
+    "gn:country_code":"TM",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162149,
+    "gn:latitude":38.73327,
+    "gn:longitude":56.80028,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Bamy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043c\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bami",
+        "Bamy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162149
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"6387ceec8dcdbd01e0498b5d66639263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1225953753,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1225953753,
+    "wof:lastmodified":1537706441,
+    "wof:name":"Bamy",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.80028000000001,
+    38.73327000000001,
+    56.80028000000001,
+    38.73327000000001
+],
+  "geometry": {"coordinates":[56.80028000000001,38.73327000000001],"type":"Point"}
+}

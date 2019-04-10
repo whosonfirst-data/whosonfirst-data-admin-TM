@@ -1,0 +1,65 @@
+{
+  "id": 1310337061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.60027,35.70055,61.60027,35.70055",
+    "geom:latitude":35.70055,
+    "geom:longitude":61.60027,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Rodnik Namakshor",
+    "gn:country_code":"TM",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7046437,
+    "gn:latitude":35.70055,
+    "gn:longitude":61.60027,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Rodnik Namakshor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7046437
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"adba1189e347a1468227f06df0999f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310337061,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1310337061,
+    "wof:lastmodified":1536662517,
+    "wof:name":"Rodnik Namakshor",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.60027,
+    35.70055,
+    61.60027,
+    35.70055
+],
+  "geometry": {"coordinates":[61.60027,35.70055],"type":"Point"}
+}

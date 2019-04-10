@@ -1,0 +1,70 @@
+{
+  "id": 1209825559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.2465,38.42487,64.2465,38.42487",
+    "geom:latitude":38.42487,
+    "geom:longitude":64.2465,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Imeni Kalinina",
+    "gn:country_code":"TM",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219316,
+    "gn:latitude":38.42487,
+    "gn:longitude":64.2465,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Imeni Kalinina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kommunizm",
+        "Bazar Charshambe",
+        "Imeni Kalinina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219316
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"58bd2185b45b11641f84fd1e1a7880e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1209825559,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1209825559,
+    "wof:lastmodified":1537706460,
+    "wof:name":"Imeni Kalinina",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.2465,
+    38.42487,
+    64.2465,
+    38.42487
+],
+  "geometry": {"coordinates":[64.2465,38.42487],"type":"Point"}
+}

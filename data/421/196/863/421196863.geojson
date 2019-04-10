@@ -1,0 +1,130 @@
+{
+  "id": 421196863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.51536,39.24463,55.51536,39.24463",
+    "geom:latitude":39.24463,
+    "geom:longitude":55.51536,
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:aze_x_preferred":[
+        "B\u0259r\u0259k\u0259t"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u8d0a\u5409\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "Bereket"
+    ],
+    "name:eng_x_preferred":[
+        "Bereket"
+    ],
+    "name:est_x_preferred":[
+        "Bereket"
+    ],
+    "name:ita_x_preferred":[
+        "Bereket"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30ec\u30b1\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ub808\ucf00\ud2b8"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0631\u06a9\u062a \u062a\u0631\u06a9\u0645\u0646\u0633\u062a\u0627\u0646"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0631\u06a9\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Bereket"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0437\u0430\u043d\u0434\u0436\u044b\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Bereket"
+    ],
+    "name:tuk_x_preferred":[
+        "Bereket"
+    ],
+    "name:unk_x_variant":[
+        "Kasandshik"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u06a9\u062a\u060c \u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Bereket"
+    ],
+    "qs:gn_country":"TM",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":161974,
+    "qs:gn_pop":21090,
+    "qs:name":"Gazanjyk",
+    "qs:name_adm0":"Turkmenistan",
+    "qs:name_adm1":"Krasnovodsk",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1300993,
+    "qs:woe_adm0":23424972,
+    "qs:woe_id":1935739,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161974,
+        "gp:id":1935739,
+        "qs:id":1300993,
+        "wd:id":"Q2578541",
+        "wk:page":"Bereket"
+    },
+    "wof:country":"TM",
+    "wof:created":1459009895,
+    "wof:geomhash":"a6b45aaaee4f9b68777caf0ac0bd8f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":421196863,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":421196863,
+    "wof:lastmodified":1514506594,
+    "wof:name":"Gazanjyk",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:population":21090,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.51536,
+    39.24463,
+    55.51536,
+    39.24463
+],
+  "geometry": {"coordinates":[55.51536,39.24463],"type":"Point"}
+}

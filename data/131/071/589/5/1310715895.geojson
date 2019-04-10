@@ -1,0 +1,75 @@
+{
+  "id": 1310715895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.39088,38.44834,57.39088,38.44834",
+    "geom:latitude":38.44834,
+    "geom:longitude":57.39088,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Murchi",
+    "gn:country_code":"TM",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161623,
+    "gn:latitude":38.44834,
+    "gn:longitude":57.39088,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Murchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u0447\u0435"
+    ],
+    "name:tuk_x_preferred":[
+        "M\u00fcr\u00e7e"
+    ],
+    "name:und_x_variant":[
+        "Murcha",
+        "Murche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161623
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"b512f696daeee9356d8724f7edce3430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310715895,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1310715895,
+    "wof:lastmodified":1537706432,
+    "wof:name":"Murchi",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.39088,
+    38.44834,
+    57.39088,
+    38.44834
+],
+  "geometry": {"coordinates":[57.39088,38.44834],"type":"Point"}
+}

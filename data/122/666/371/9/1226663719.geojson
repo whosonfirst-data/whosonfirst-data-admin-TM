@@ -1,0 +1,68 @@
+{
+  "id": 1226663719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.16818,37.9031,58.16818,37.9031",
+    "geom:latitude":37.9031,
+    "geom:longitude":58.16818,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Alibek",
+    "gn:country_code":"TM",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410399,
+    "gn:latitude":37.9031,
+    "gn:longitude":58.16818,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"Alibek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0438\u0431\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410399
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"a000441392df8a3d5e0966271636a0b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1226663719,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1226663719,
+    "wof:lastmodified":1537706442,
+    "wof:name":"Alibek",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.16818000000001,
+    37.9031,
+    58.16818000000001,
+    37.9031
+],
+  "geometry": {"coordinates":[58.16818000000001,37.9031],"type":"Point"}
+}

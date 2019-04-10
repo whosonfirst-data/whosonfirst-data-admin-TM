@@ -1,0 +1,68 @@
+{
+  "id": 1310618687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.43001,37.82784,58.43001,37.82784",
+    "geom:latitude":37.82784,
+    "geom:longitude":58.43001,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pervomayskiy",
+    "gn:country_code":"TM",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161575,
+    "gn:latitude":37.82784,
+    "gn:longitude":58.43001,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"Pervomayskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161575
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"3ca82a4a6883dd2a75ea61a6718b83a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310618687,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1310618687,
+    "wof:lastmodified":1537706431,
+    "wof:name":"Pervomayskiy",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.43001,
+    37.82784,
+    58.43001,
+    37.82784
+],
+  "geometry": {"coordinates":[58.43001,37.82784],"type":"Point"}
+}

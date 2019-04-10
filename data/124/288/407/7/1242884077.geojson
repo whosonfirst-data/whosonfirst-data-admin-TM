@@ -1,0 +1,65 @@
+{
+  "id": 1242884077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.36667,37.7,65.36667,37.7",
+    "geom:latitude":37.7,
+    "geom:longitude":65.36667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Krasnyy Turkmenistan",
+    "gn:country_code":"TM",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218817,
+    "gn:latitude":37.7,
+    "gn:longitude":65.36667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Krasnyy Turkmenistan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218817
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"03fda78d93c702478d6696d1c7d08cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1242884077,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1242884077,
+    "wof:lastmodified":1536620037,
+    "wof:name":"Krasnyy Turkmenistan",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.36667,
+    37.7,
+    65.36667,
+    37.7
+],
+  "geometry": {"coordinates":[65.36667,37.7],"type":"Point"}
+}

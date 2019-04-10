@@ -1,0 +1,65 @@
+{
+  "id": 1242787821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.6,39.0,63.6,39.0",
+    "geom:latitude":39.0,
+    "geom:longitude":63.6,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akkala",
+    "gn:country_code":"TM",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219958,
+    "gn:latitude":39.0,
+    "gn:longitude":63.6,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Akkala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219958
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"b8f0714a4b42c040270adf074b73347b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1242787821,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1242787821,
+    "wof:lastmodified":1536760967,
+    "wof:name":"Akkala",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.6,
+    39.0,
+    63.6,
+    39.0
+],
+  "geometry": {"coordinates":[63.6,39.0],"type":"Point"}
+}

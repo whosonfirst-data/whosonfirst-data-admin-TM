@@ -1,0 +1,65 @@
+{
+  "id": 1243568501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.45058,35.60247,61.45058,35.60247",
+    "geom:latitude":35.60247,
+    "geom:longitude":61.45058,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chakmaklychanga",
+    "gn:country_code":"TM",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219667,
+    "gn:latitude":35.60247,
+    "gn:longitude":61.45058,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chakmaklychanga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219667
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"08901401320bed129247d162512e572a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1243568501,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1243568501,
+    "wof:lastmodified":1536627829,
+    "wof:name":"Chakmaklychanga",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.45058,
+    35.60247000000001,
+    61.45058,
+    35.60247000000001
+],
+  "geometry": {"coordinates":[61.45058,35.60247000000001],"type":"Point"}
+}

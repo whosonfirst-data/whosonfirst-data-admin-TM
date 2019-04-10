@@ -1,0 +1,74 @@
+{
+  "id": 1276338925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.49572,38.37061,57.49572,38.37061",
+    "geom:latitude":38.37061,
+    "geom:longitude":57.49572,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Garagan",
+    "gn:country_code":"TM",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161878,
+    "gn:latitude":38.37061,
+    "gn:longitude":57.49572,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Garagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0433\u0430\u043d"
+    ],
+    "name:tuk_x_preferred":[
+        "Garagan"
+    ],
+    "name:und_x_variant":[
+        "Karagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161878
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"5d90ba59848bfaec15f1cdb8d71688fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1276338925,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1276338925,
+    "wof:lastmodified":1537706437,
+    "wof:name":"Garagan",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.49572,
+    38.37061,
+    57.49572,
+    38.37061
+],
+  "geometry": {"coordinates":[57.49572,38.37061],"type":"Point"}
+}

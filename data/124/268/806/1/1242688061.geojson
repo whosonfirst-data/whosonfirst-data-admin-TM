@@ -1,0 +1,69 @@
+{
+  "id": 1242688061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.38501,37.26089,62.38501,37.26089",
+    "geom:latitude":37.26089,
+    "geom:longitude":62.38501,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Alnysh",
+    "gn:country_code":"TM",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219915,
+    "gn:latitude":37.26089,
+    "gn:longitude":62.38501,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Alnysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Almysh",
+        "Alnysh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219915
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"7f12eb5c44b6c7a67c5bc34ab600fb10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1242688061,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1242688061,
+    "wof:lastmodified":1537706467,
+    "wof:name":"Alnysh",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.38501,
+    37.26089,
+    62.38501,
+    37.26089
+],
+  "geometry": {"coordinates":[62.38501,37.26089],"type":"Point"}
+}

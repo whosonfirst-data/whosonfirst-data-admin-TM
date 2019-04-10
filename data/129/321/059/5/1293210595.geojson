@@ -1,0 +1,65 @@
+{
+  "id": 1293210595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.58333,37.71667,61.58333,37.71667",
+    "geom:latitude":37.71667,
+    "geom:longitude":61.58333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Imeni Stalina",
+    "gn:country_code":"TM",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219251,
+    "gn:latitude":37.71667,
+    "gn:longitude":61.58333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Imeni Stalina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219251
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"c78c5214197872b73f9c0426f105700c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1293210595,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1293210595,
+    "wof:lastmodified":1536689237,
+    "wof:name":"Imeni Stalina",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.58333,
+    37.71667,
+    61.58333,
+    37.71667
+],
+  "geometry": {"coordinates":[61.58333,37.71667],"type":"Point"}
+}

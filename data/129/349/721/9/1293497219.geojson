@@ -1,0 +1,68 @@
+{
+  "id": 1293497219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.24536,38.48517,57.24536,38.48517",
+    "geom:latitude":38.48517,
+    "geom:longitude":57.24536,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tezheva",
+    "gn:country_code":"TM",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161472,
+    "gn:latitude":38.48517,
+    "gn:longitude":57.24536,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Tezh\u00ebva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Tezh\u00ebva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161472
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"036ba5d8d7c1c9ea64e75bfb6deeb5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1293497219,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1293497219,
+    "wof:lastmodified":1537706429,
+    "wof:name":"Tezheva",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.24536,
+    38.48517,
+    57.24536,
+    38.48517
+],
+  "geometry": {"coordinates":[57.24536,38.48517],"type":"Point"}
+}

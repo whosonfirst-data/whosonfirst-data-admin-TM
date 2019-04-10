@@ -1,0 +1,71 @@
+{
+  "id": 1343775781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.6,38.30693,57.6,38.30693",
+    "geom:latitude":38.30693,
+    "geom:longitude":57.6,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Khankyariz",
+    "gn:country_code":"TM",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161800,
+    "gn:latitude":38.30693,
+    "gn:longitude":57.6,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"Khankyariz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043d\u043a\u044f\u0440\u0438\u0437"
+    ],
+    "name:und_x_variant":[
+        "Khan-Kyariz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161800
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"3e3a27924cb56e1dcdd01754d2fd26ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1343775781,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1343775781,
+    "wof:lastmodified":1537706435,
+    "wof:name":"Khankyariz",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.6,
+    38.30693,
+    57.6,
+    38.30693
+],
+  "geometry": {"coordinates":[57.6,38.30693],"type":"Point"}
+}

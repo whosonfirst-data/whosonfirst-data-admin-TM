@@ -1,0 +1,61 @@
+{
+  "id": 1209218745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.32117,36.97901,60.32117,36.97901",
+    "geom:latitude":36.97901,
+    "geom:longitude":60.32117,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kyariz",
+    "gn:country_code":"TM",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8599501,
+    "gn:latitude":36.97901,
+    "gn:longitude":60.32117,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Kyariz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8599501
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"fbed3e4057249003e7f2692b2a9b0a25",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209218745
+        }
+    ],
+    "wof:id":1209218745,
+    "wof:lastmodified":1536294038,
+    "wof:name":"Kyariz",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.32117,
+    36.97901,
+    60.32117,
+    36.97901
+],
+  "geometry": {"coordinates":[60.32117,36.97901],"type":"Point"}
+}

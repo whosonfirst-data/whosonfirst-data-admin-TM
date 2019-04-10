@@ -1,0 +1,61 @@
+{
+  "id": 1209525301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.1,37.93333,63.1,37.93333",
+    "geom:latitude":37.93333,
+    "geom:longitude":63.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chamchakly",
+    "gn:country_code":"TM",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219656,
+    "gn:latitude":37.93333,
+    "gn:longitude":63.1,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Chamchakly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219656
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"0c52ac5c877cf6069286d82360718bab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209525301
+        }
+    ],
+    "wof:id":1209525301,
+    "wof:lastmodified":1536284450,
+    "wof:name":"Chamchakly",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.1,
+    37.93333,
+    63.1,
+    37.93333
+],
+  "geometry": {"coordinates":[63.1,37.93333],"type":"Point"}
+}

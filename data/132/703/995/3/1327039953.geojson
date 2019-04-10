@@ -1,0 +1,70 @@
+{
+  "id": 1327039953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.91777,41.0568,61.91777,41.0568",
+    "geom:latitude":41.0568,
+    "geom:longitude":61.91777,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Danisher",
+    "gn:country_code":"TM",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514802,
+    "gn:latitude":41.0568,
+    "gn:longitude":61.91777,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Danisher",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Danishen",
+        "Danisherkala",
+        "Danisher"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514802
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"2d0d30b76aad4f39b0935177a26f199b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1327039953,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1327039953,
+    "wof:lastmodified":1537706468,
+    "wof:name":"Danisher",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.91777,
+    41.0568,
+    61.91777,
+    41.0568
+],
+  "geometry": {"coordinates":[61.91777,41.0568],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1242587497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.15,37.86667,65.15,37.86667",
+    "geom:latitude":37.86667,
+    "geom:longitude":65.15,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kabasakal",
+    "gn:country_code":"TM",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219196,
+    "gn:latitude":37.86667,
+    "gn:longitude":65.15,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Kabasakal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219196
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"217a167951198877fa6cf07f2538e635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1242587497,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1242587497,
+    "wof:lastmodified":1537047287,
+    "wof:name":"Kabasakal",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.15,
+    37.86667,
+    65.15,
+    37.86667
+],
+  "geometry": {"coordinates":[65.15000000000001,37.86667],"type":"Point"}
+}

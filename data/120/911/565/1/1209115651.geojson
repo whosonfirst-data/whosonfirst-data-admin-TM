@@ -1,0 +1,61 @@
+{
+  "id": 1209115651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.19159,36.57514,61.19159,36.57514",
+    "geom:latitude":36.57514,
+    "geom:longitude":61.19159,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tezeoba",
+    "gn:country_code":"TM",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218222,
+    "gn:latitude":36.57514,
+    "gn:longitude":61.19159,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tezeoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218222
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"a969ce903e516d786526740b92351388",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209115651
+        }
+    ],
+    "wof:id":1209115651,
+    "wof:lastmodified":1536297262,
+    "wof:name":"Tezeoba",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.19159000000001,
+    36.57514000000001,
+    61.19159000000001,
+    36.57514000000001
+],
+  "geometry": {"coordinates":[61.19159000000001,36.57514000000001],"type":"Point"}
+}

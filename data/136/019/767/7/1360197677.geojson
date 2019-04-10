@@ -1,0 +1,77 @@
+{
+  "id": 1360197677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.33832,38.71127,56.33832,38.71127",
+    "geom:latitude":38.71127,
+    "geom:longitude":56.33832,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hojagala",
+    "gn:country_code":"TM",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161784,
+    "gn:latitude":38.71127,
+    "gn:longitude":56.33832,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Hojagala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0434\u0436\u0430\u043a\u0430\u043b\u0430"
+    ],
+    "name:tuk_x_preferred":[
+        "Hojagala"
+    ],
+    "name:und_x_variant":[
+        "Khoja-Kala",
+        "Khodzha-Kalay Pervyy",
+        "Khodzhakala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161784,
+        "wk:page":"Khodzhakala"
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"cf5ab188eb5359aaa8660e9c4c86c569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1360197677,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1360197677,
+    "wof:lastmodified":1537706435,
+    "wof:name":"Hojagala",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.33832,
+    38.71127,
+    56.33832,
+    38.71127
+],
+  "geometry": {"coordinates":[56.33832,38.71127],"type":"Point"}
+}

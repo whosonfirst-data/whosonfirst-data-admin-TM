@@ -1,0 +1,71 @@
+{
+  "id": 1292937603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.55746,36.54607,62.55746,36.54607",
+    "geom:latitude":36.54607,
+    "geom:longitude":62.55746,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sandykgacy",
+    "gn:country_code":"TM",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218459,
+    "gn:latitude":36.54607,
+    "gn:longitude":62.55746,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sandykga\u00e7y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sandykachi",
+        "Sandykgachy",
+        "Sandykga\u00e7y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218459,
+        "wk:page":"Sandykachi"
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"b1ab9d0544e650b4e83d493a838cff58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1292937603,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1292937603,
+    "wof:lastmodified":1537706452,
+    "wof:name":"Sandykgacy",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.55746,
+    36.54607,
+    62.55746,
+    36.54607
+],
+  "geometry": {"coordinates":[62.55746,36.54607],"type":"Point"}
+}

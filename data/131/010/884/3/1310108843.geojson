@@ -1,0 +1,76 @@
+{
+  "id": 1310108843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.70119,38.76497,56.70119,38.76497",
+    "geom:latitude":38.76497,
+    "geom:longitude":56.70119,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zaw",
+    "gn:country_code":"TM",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161374,
+    "gn:latitude":38.76497,
+    "gn:longitude":56.70119,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Zaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0443"
+    ],
+    "name:tuk_x_preferred":[
+        "Zaw"
+    ],
+    "name:und_x_variant":[
+        "Zaulu",
+        "Or-Kolashik",
+        "Zau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161374
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"68be1108db805253ee6c657faf0b1668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310108843,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1310108843,
+    "wof:lastmodified":1537706428,
+    "wof:name":"Zaw",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.70119,
+    38.76497,
+    56.70119,
+    38.76497
+],
+  "geometry": {"coordinates":[56.70119,38.76497],"type":"Point"}
+}

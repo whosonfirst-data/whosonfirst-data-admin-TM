@@ -1,0 +1,65 @@
+{
+  "id": 1326744401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.21667,36.28333,61.21667,36.28333",
+    "geom:latitude":36.28333,
+    "geom:longitude":61.21667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Akhtash-Ovliya",
+    "gn:country_code":"TM",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219960,
+    "gn:latitude":36.28333,
+    "gn:longitude":61.21667,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Akhtash-Ovliya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219960
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"9f4eeb1897a82a2926ff42dda5298c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1326744401,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1326744401,
+    "wof:lastmodified":1536678093,
+    "wof:name":"Akhtash-Ovliya",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.21666999999999,
+    36.28333,
+    61.21666999999999,
+    36.28333
+],
+  "geometry": {"coordinates":[61.21666999999999,36.28333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225959193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.19063,37.83179,65.19063,37.83179",
+    "geom:latitude":37.83179,
+    "geom:longitude":65.19063,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chakyr",
+    "gn:country_code":"TM",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219664,
+    "gn:latitude":37.83179,
+    "gn:longitude":65.19063,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chakyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chakir",
+        "Chekyr",
+        "Chekir",
+        "Chakyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219664
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"072fee8d4c9d73c158827c2d8e417b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1225959193,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1225959193,
+    "wof:lastmodified":1537706464,
+    "wof:name":"Chakyr",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.19063,
+    37.83179000000001,
+    65.19063,
+    37.83179000000001
+],
+  "geometry": {"coordinates":[65.19063,37.83179000000001],"type":"Point"}
+}

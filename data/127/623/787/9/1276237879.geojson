@@ -1,0 +1,68 @@
+{
+  "id": 1276237879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.90772,37.83644,58.90772,37.83644",
+    "geom:latitude":37.83644,
+    "geom:longitude":58.90772,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"S.A. Nyyazow Adyndaky",
+    "gn:country_code":"TM",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8774639,
+    "gn:latitude":37.83644,
+    "gn:longitude":58.90772,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"S.A. Ny\u00fdazow Adyndaky",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tuk_x_preferred":[
+        "S.A. Ny\u00fdazow Adyndaky"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8774639
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"eb682cec2365a3ecdddcf8536cebfa24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1276237879,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1276237879,
+    "wof:lastmodified":1537706470,
+    "wof:name":"S.A. Nyyazow Adyndaky",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.90772,
+    37.83644,
+    58.90772,
+    37.83644
+],
+  "geometry": {"coordinates":[58.90772,37.83644],"type":"Point"}
+}

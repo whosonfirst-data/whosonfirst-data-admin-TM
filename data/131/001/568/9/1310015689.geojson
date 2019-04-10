@@ -1,0 +1,65 @@
+{
+  "id": 1310015689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.31667,37.31667,62.31667,37.31667",
+    "geom:latitude":37.31667,
+    "geom:longitude":62.31667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Imeni Lenina",
+    "gn:country_code":"TM",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219291,
+    "gn:latitude":37.31667,
+    "gn:longitude":62.31667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Imeni Lenina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219291
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"d6e22b5fb19fb25df52d1831cc5a4d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310015689,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1310015689,
+    "wof:lastmodified":1536626704,
+    "wof:name":"Imeni Lenina",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.31667,
+    37.31667,
+    62.31667,
+    37.31667
+],
+  "geometry": {"coordinates":[62.31667,37.31667],"type":"Point"}
+}

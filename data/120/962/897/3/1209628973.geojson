@@ -1,0 +1,67 @@
+{
+  "id": 1209628973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.74368,38.50717,56.74368,38.50717",
+    "geom:latitude":38.50717,
+    "geom:longitude":56.74368,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sayvan",
+    "gn:country_code":"TM",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161551,
+    "gn:latitude":38.50717,
+    "gn:longitude":56.74368,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Sa\u00fdvan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tuk_x_preferred":[
+        "Sa\u00fdvan"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Sayvan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161551
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"56781b1eeed0f415c1f7b4a6cc5e6a05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209628973
+        }
+    ],
+    "wof:id":1209628973,
+    "wof:lastmodified":1537706431,
+    "wof:name":"Sayvan",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.74368000000001,
+    38.50717,
+    56.74368000000001,
+    38.50717
+],
+  "geometry": {"coordinates":[56.74368000000001,38.50717],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293691731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.51226,35.53098,62.51226,35.53098",
+    "geom:latitude":35.53098,
+    "geom:longitude":62.51226,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pobeda",
+    "gn:cc2":"TM",
+    "gn:country_code":"TM",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":1218512,
+    "gn:latitude":35.53098,
+    "gn:longitude":62.51226,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Pobeda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tuk_x_preferred":[
+        "\u00dde\u0148i\u015f"
+    ],
+    "name:und_x_variant":[
+        "Khauz-Khana-Shor",
+        "Pobeda",
+        "Sovkhoz Pobeda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218512
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"27d4f73d4c373d093c5a424f72330419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1293691731,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1293691731,
+    "wof:lastmodified":1537706452,
+    "wof:name":"Pobeda",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.51226,
+    35.53098,
+    62.51226,
+    35.53098
+],
+  "geometry": {"coordinates":[62.51226,35.53098],"type":"Point"}
+}

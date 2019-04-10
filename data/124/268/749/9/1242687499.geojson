@@ -1,0 +1,76 @@
+{
+  "id": 1242687499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.41618,37.46612,59.41618,37.46612",
+    "geom:latitude":37.46612,
+    "geom:longitude":59.41618,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mekhinli",
+    "gn:country_code":"TM",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161647,
+    "gn:latitude":37.46612,
+    "gn:longitude":59.41618,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Mekhinli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0445\u0438\u043d\u043b\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0435\u0433\u0435\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Megeli",
+        "Mekhenli",
+        "Mekhinli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161647
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"6e6be833fc4861e25657148706e6e6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1242687499,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1242687499,
+    "wof:lastmodified":1537706432,
+    "wof:name":"Mekhinli",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.41618,
+    37.46612,
+    59.41618,
+    37.46612
+],
+  "geometry": {"coordinates":[59.41618,37.46612],"type":"Point"}
+}

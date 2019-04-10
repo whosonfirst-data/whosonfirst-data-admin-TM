@@ -1,0 +1,74 @@
+{
+  "id": 1310419819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.58545,37.93282,58.58545,37.93282",
+    "geom:latitude":37.93282,
+    "geom:longitude":58.58545,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tazedurmus",
+    "gn:country_code":"TM",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8999943,
+    "gn:latitude":37.93282,
+    "gn:longitude":58.58545,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"T\u00e4zedurmus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0432\u0445\u043e\u0437 \u0418\u043c\u0435\u043d\u0438 \u0414\u0435\u0432\u044f\u0442\u0438 \u0410\u0448\u0445\u0430\u0431\u0430\u0434\u0441\u043a\u0438\u0445 \u041a\u043e\u043c\u0438\u0441\u0441\u0430\u0440\u043e\u0432"
+    ],
+    "name:tuk_x_preferred":[
+        "T\u00e4zedurmus"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Imeni Devyati Ashkhabadskikh Komissarov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8999943
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"f65d7bb8bb19ae806899485f13b883f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310419819,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1310419819,
+    "wof:lastmodified":1537706471,
+    "wof:name":"Tazedurmus",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.58545,
+    37.93282,
+    58.58545,
+    37.93282
+],
+  "geometry": {"coordinates":[58.58545,37.93282],"type":"Point"}
+}

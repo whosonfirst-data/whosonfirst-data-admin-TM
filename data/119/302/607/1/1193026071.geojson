@@ -1,0 +1,65 @@
+{
+  "id": 1193026071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.4637,39.064,63.4637,39.064",
+    "geom:latitude":39.064,
+    "geom:longitude":63.4637,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Imeni Zhdanova",
+    "gn:country_code":"TM",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219228,
+    "gn:latitude":39.064,
+    "gn:longitude":63.4637,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Imeni Zhdanova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219228
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"0437015182dd95e1af6b8190ded6d297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1193026071,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1193026071,
+    "wof:lastmodified":1536367746,
+    "wof:name":"Imeni Zhdanova",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.4637,
+    39.064,
+    63.4637,
+    39.064
+],
+  "geometry": {"coordinates":[63.4637,39.064],"type":"Point"}
+}

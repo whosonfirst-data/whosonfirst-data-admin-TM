@@ -1,0 +1,65 @@
+{
+  "id": 1327444375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.465,38.40056,54.465,38.40056",
+    "geom:latitude":38.40056,
+    "geom:longitude":54.465,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Shakhman",
+    "gn:country_code":"TM",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442587,
+    "gn:latitude":38.40056,
+    "gn:longitude":54.465,
+    "gn:modification_date":"2000-09-26",
+    "gn:name":"Shakhman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442587
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"cb80e38e6caa8de72d0902d6995752b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1327444375,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1327444375,
+    "wof:lastmodified":1536663426,
+    "wof:name":"Shakhman",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.465,
+    38.40056,
+    54.465,
+    38.40056
+],
+  "geometry": {"coordinates":[54.465,38.40056],"type":"Point"}
+}

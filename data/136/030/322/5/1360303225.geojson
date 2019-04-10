@@ -1,0 +1,74 @@
+{
+  "id": 1360303225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.34878,38.11936,58.34878,38.11936",
+    "geom:latitude":38.11936,
+    "geom:longitude":58.34878,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Orazow Adyndaky",
+    "gn:country_code":"TM",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9643374,
+    "gn:latitude":38.11936,
+    "gn:longitude":58.34878,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Orazow Adyndaky",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0447\u0430\u0441\u0442\u043e\u043a \u041e\u0432\u0430\u0434\u0430\u043d\u0434\u0435\u043f\u0435"
+    ],
+    "name:tuk_x_preferred":[
+        "Orazow Adyndaky"
+    ],
+    "name:und_x_variant":[
+        "Uchastok Ovadandepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9643374
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"3c6ca61f45df1c8ae9f2acbee2ad4504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1360303225,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1360303225,
+    "wof:lastmodified":1537706473,
+    "wof:name":"Orazow Adyndaky",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.34878000000001,
+    38.11936,
+    58.34878000000001,
+    38.11936
+],
+  "geometry": {"coordinates":[58.34878000000001,38.11936],"type":"Point"}
+}

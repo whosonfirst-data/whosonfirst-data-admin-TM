@@ -1,0 +1,73 @@
+{
+  "id": 1243090195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.71125,36.0611,62.71125,36.0611",
+    "geom:latitude":36.0611,
+    "geom:longitude":62.71125,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tagtabazar",
+    "gn:country_code":"TM",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218313,
+    "gn:latitude":36.0611,
+    "gn:longitude":62.71125,
+    "gn:modification_date":"2018-03-27",
+    "gn:name":"Tagtabazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0433\u0442\u0430\u0431\u0430\u0437\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Takhta-Bazar",
+        "Tagtabazar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218313,
+        "wk:page":"Tagtabazar"
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"985f571007d779de1ccdcb360a1f1dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1243090195,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1243090195,
+    "wof:lastmodified":1537706450,
+    "wof:name":"Tagtabazar",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.71125,
+    36.0611,
+    62.71125,
+    36.0611
+],
+  "geometry": {"coordinates":[62.71125,36.0611],"type":"Point"}
+}

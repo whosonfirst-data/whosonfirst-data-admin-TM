@@ -1,0 +1,61 @@
+{
+  "id": 1209629487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.18755,36.40943,61.18755,36.40943",
+    "geom:latitude":36.40943,
+    "geom:longitude":61.18755,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Annakhan-Ishan",
+    "gn:country_code":"TM",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8600342,
+    "gn:latitude":36.40943,
+    "gn:longitude":61.18755,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Annakhan-Ishan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8600342
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"754da780515c78f166f76cdbf4229810",
+    "wof:hierarchy":[
+        {
+            "country_id":85632671,
+            "locality_id":1209629487
+        }
+    ],
+    "wof:id":1209629487,
+    "wof:lastmodified":1536281237,
+    "wof:name":"Annakhan-Ishan",
+    "wof:parent_id":85632671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.18755,
+    36.40943,
+    61.18755,
+    36.40943
+],
+  "geometry": {"coordinates":[61.18755,36.40943],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226456623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.5475,37.75184,58.5475,37.75184",
+    "geom:latitude":37.75184,
+    "geom:longitude":58.5475,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Komarovskiy",
+    "gn:country_code":"TM",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8999964,
+    "gn:latitude":37.75184,
+    "gn:longitude":58.5475,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Komarovskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8999964
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"3fa65bdcc14b6f6d2eda59710296b7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1226456623,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1226456623,
+    "wof:lastmodified":1537706471,
+    "wof:name":"Komarovskiy",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.5475,
+    37.75184,
+    58.5475,
+    37.75184
+],
+  "geometry": {"coordinates":[58.5475,37.75184],"type":"Point"}
+}

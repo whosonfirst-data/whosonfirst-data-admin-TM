@@ -1,0 +1,65 @@
+{
+  "id": 1242587779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.07932,39.28249,63.07932,39.28249",
+    "geom:latitude":39.28249,
+    "geom:longitude":63.07932,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sapardar",
+    "gn:country_code":"TM",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218457,
+    "gn:latitude":39.28249,
+    "gn:longitude":63.07932,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Sapardar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218457
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"43b429bbbf3334a969e42cc51793446e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1242587779,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1242587779,
+    "wof:lastmodified":1537046916,
+    "wof:name":"Sapardar",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.07932,
+    39.28249,
+    63.07932,
+    39.28249
+],
+  "geometry": {"coordinates":[63.07932,39.28249],"type":"Point"}
+}

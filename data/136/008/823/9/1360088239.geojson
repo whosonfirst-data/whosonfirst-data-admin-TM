@@ -1,0 +1,73 @@
+{
+  "id": 1360088239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.03556,38.03222,54.03556,38.03222",
+    "geom:latitude":38.03222,
+    "geom:longitude":54.03556,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Garadepe",
+    "gn:cc2":"TM",
+    "gn:country_code":"TM",
+    "gn:dem":-8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442578,
+    "gn:latitude":38.03222,
+    "gn:longitude":54.03556,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Garadepe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0434\u0435\u043f\u0435"
+    ],
+    "name:und_x_variant":[
+        "Karadepe",
+        "Garadepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442578
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"5c03aaf98b5cf2e696cb75d7f16b2ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1360088239,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1360088239,
+    "wof:lastmodified":1537706444,
+    "wof:name":"Garadepe",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.03556,
+    38.03222,
+    54.03556,
+    38.03222
+],
+  "geometry": {"coordinates":[54.03556,38.03222],"type":"Point"}
+}

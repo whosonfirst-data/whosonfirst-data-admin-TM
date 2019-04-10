@@ -1,0 +1,65 @@
+{
+  "id": 1226260865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.34562,38.43858,64.34562,38.43858",
+    "geom:latitude":38.43858,
+    "geom:longitude":64.34562,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Imeni Karla Marksa",
+    "gn:country_code":"TM",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219309,
+    "gn:latitude":38.43858,
+    "gn:longitude":64.34562,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Imeni Karla Marksa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219309
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"9dcfee19e0ec70d6fac3066749e6a9c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1226260865,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1226260865,
+    "wof:lastmodified":1536912224,
+    "wof:name":"Imeni Karla Marksa",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.34562,
+    38.43858,
+    64.34562,
+    38.43858
+],
+  "geometry": {"coordinates":[64.34562,38.43858],"type":"Point"}
+}

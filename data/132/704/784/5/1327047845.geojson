@@ -1,0 +1,74 @@
+{
+  "id": 1327047845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.98525,38.16278,57.98525,38.16278",
+    "geom:latitude":38.16278,
+    "geom:longitude":57.98525,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Garagum",
+    "gn:country_code":"TM",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9642279,
+    "gn:latitude":38.16278,
+    "gn:longitude":57.98525,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Garagum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0423\u0447\u0430\u0441\u0442\u043e\u043a \u041f\u043e\u0431\u0435\u0434\u0430"
+    ],
+    "name:tuk_x_preferred":[
+        "Garagum"
+    ],
+    "name:und_x_variant":[
+        "Uchastok Pobeda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9642279
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"1f6dbaaa1b91622195ef41067579b4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1327047845,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1327047845,
+    "wof:lastmodified":1537706472,
+    "wof:name":"Garagum",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.98525,
+    38.16278,
+    57.98525,
+    38.16278
+],
+  "geometry": {"coordinates":[57.98525,38.16278],"type":"Point"}
+}

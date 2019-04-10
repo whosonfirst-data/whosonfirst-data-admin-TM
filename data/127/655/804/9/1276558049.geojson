@@ -1,0 +1,70 @@
+{
+  "id": 1276558049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.18333,39.36667,56.18333,39.36667",
+    "geom:latitude":39.36667,
+    "geom:longitude":56.18333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gyaur",
+    "gn:cc2":"TM",
+    "gn:country_code":"TM",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161938,
+    "gn:latitude":39.36667,
+    "gn:longitude":56.18333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gyaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyar",
+        "Gyaur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161938
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"90dbf8a3607674b6267ff9ade525a2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1276558049,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1276558049,
+    "wof:lastmodified":1537706437,
+    "wof:name":"Gyaur",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.18333000000001,
+    39.36667,
+    56.18333000000001,
+    39.36667
+],
+  "geometry": {"coordinates":[56.18333000000001,39.36667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1243073705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.06194,38.56694,64.06194,38.56694",
+    "geom:latitude":38.56694,
+    "geom:longitude":64.06194,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kularyk",
+    "gn:country_code":"TM",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218805,
+    "gn:latitude":38.56694,
+    "gn:longitude":64.06194,
+    "gn:modification_date":"2001-11-05",
+    "gn:name":"Kularyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218805
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"7f31a064628f3ae313cb9513efbb999b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1243073705,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1243073705,
+    "wof:lastmodified":1536844738,
+    "wof:name":"Kularyk",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.06194,
+    38.56694,
+    64.06194,
+    38.56694
+],
+  "geometry": {"coordinates":[64.06194000000001,38.56694],"type":"Point"}
+}

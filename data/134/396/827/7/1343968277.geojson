@@ -1,0 +1,70 @@
+{
+  "id": 1343968277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.8,38.91667,63.8,38.91667",
+    "geom:latitude":38.91667,
+    "geom:longitude":63.8,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Imeni Kalinina",
+    "gn:cc2":"TM",
+    "gn:country_code":"TM",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219314,
+    "gn:latitude":38.91667,
+    "gn:longitude":63.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Imeni Kalinina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siyady",
+        "Imeni Kalinina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219314
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"fd07ab85e24eb5f509adaefeb867a3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1343968277,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1343968277,
+    "wof:lastmodified":1537706460,
+    "wof:name":"Imeni Kalinina",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.8,
+    38.91667,
+    63.8,
+    38.91667
+],
+  "geometry": {"coordinates":[63.8,38.91667],"type":"Point"}
+}

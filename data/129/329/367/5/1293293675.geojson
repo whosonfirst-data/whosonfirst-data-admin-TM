@@ -1,0 +1,65 @@
+{
+  "id": 1293293675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.53302,37.70692,65.53302,37.70692",
+    "geom:latitude":37.70692,
+    "geom:longitude":65.53302,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kazarma",
+    "gn:country_code":"TM",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475439,
+    "gn:latitude":37.70692,
+    "gn:longitude":65.53302,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kazarma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475439
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"0f48f014193016114f5c9cfdfa5e2882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1293293675,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1293293675,
+    "wof:lastmodified":1537063614,
+    "wof:name":"Kazarma",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.53302,
+    37.70692,
+    65.53302,
+    37.70692
+],
+  "geometry": {"coordinates":[65.53301999999999,37.70692],"type":"Point"}
+}

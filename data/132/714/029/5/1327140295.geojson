@@ -1,0 +1,70 @@
+{
+  "id": 1327140295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.39721,37.80599,66.39721,37.80599",
+    "geom:latitude":37.80599,
+    "geom:longitude":66.39721,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bazardepe",
+    "gn:country_code":"TM",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219759,
+    "gn:latitude":37.80599,
+    "gn:longitude":66.39721,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bazardepe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bazar-Tepe",
+        "Bazar-Tyube",
+        "Bazardepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219759
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"fdabceef80e6177e40043947eb389b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1327140295,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1327140295,
+    "wof:lastmodified":1537706465,
+    "wof:name":"Bazardepe",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.39721,
+    37.80599,
+    66.39721,
+    37.80599
+],
+  "geometry": {"coordinates":[66.39721,37.80599],"type":"Point"}
+}

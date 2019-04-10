@@ -1,0 +1,67 @@
+{
+  "id": 1343776611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.76667,38.26667,56.76667,38.26667",
+    "geom:latitude":38.26667,
+    "geom:longitude":56.76667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dekel'-Dash",
+    "gn:country_code":"TM",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":162033,
+    "gn:latitude":38.26667,
+    "gn:longitude":56.76667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Dekel\u2019-Dash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108719897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":162033
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"616c52cc4d877a03d237eb9300cada25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719897,
+            "locality_id":1343776611,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1343776611,
+    "wof:lastmodified":1536788036,
+    "wof:name":"Dekel'-Dash",
+    "wof:parent_id":1108719897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.76667,
+    38.26667,
+    56.76667,
+    38.26667
+],
+  "geometry": {"coordinates":[56.76667,38.26667],"type":"Point"}
+}

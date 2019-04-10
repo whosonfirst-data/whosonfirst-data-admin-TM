@@ -1,0 +1,65 @@
+{
+  "id": 1209929109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.97966,42.4247,58.97966,42.4247",
+    "geom:latitude":42.4247,
+    "geom:longitude":58.97966,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kyzylshark",
+    "gn:country_code":"TM",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601558,
+    "gn:latitude":42.4247,
+    "gn:longitude":58.97966,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Kyzylshark",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601558
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"dee3c3a1c972e3c31fcfa006f39ef461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1209929109,
+            "region_id":85678931
+        }
+    ],
+    "wof:id":1209929109,
+    "wof:lastmodified":1536393533,
+    "wof:name":"Kyzylshark",
+    "wof:parent_id":85678931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.97966,
+    42.4247,
+    58.97966,
+    42.4247
+],
+  "geometry": {"coordinates":[58.97966,42.4247],"type":"Point"}
+}

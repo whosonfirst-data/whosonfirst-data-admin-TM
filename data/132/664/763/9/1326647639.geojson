@@ -1,0 +1,75 @@
+{
+  "id": 1326647639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.66731,38.03113,57.66731,38.03113",
+    "geom:latitude":38.03113,
+    "geom:longitude":57.66731,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gurgulab",
+    "gn:country_code":"TM",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161708,
+    "gn:latitude":38.03113,
+    "gn:longitude":57.66731,
+    "gn:modification_date":"2014-04-30",
+    "gn:name":"Gurgulab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u043a\u0443\u043b\u0430\u0431"
+    ],
+    "name:tuk_x_preferred":[
+        "Gurgulab"
+    ],
+    "name:und_x_variant":[
+        "Dmitriyevskiy",
+        "Kurkulab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161708
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"45fcc11b5b86bdb0ef75a9d3d7d77816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1326647639,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1326647639,
+    "wof:lastmodified":1537706433,
+    "wof:name":"Gurgulab",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.66731,
+    38.03113,
+    57.66731,
+    38.03113
+],
+  "geometry": {"coordinates":[57.66731,38.03113],"type":"Point"}
+}

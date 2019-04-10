@@ -1,0 +1,72 @@
+{
+  "id": 1360198555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.21477,36.52381,61.21477,36.52381",
+    "geom:latitude":36.52381,
+    "geom:longitude":61.21477,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sarahs",
+    "gn:country_code":"TM",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218456,
+    "gn:latitude":36.52381,
+    "gn:longitude":61.21477,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Sarahs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarakhs",
+        "Saragt",
+        "Serakhs",
+        "Sarahs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218456,
+        "wk:page":"Saraghs"
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"f4195c7b97049187110a8362c4d8f602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1360198555,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1360198555,
+    "wof:lastmodified":1537706452,
+    "wof:name":"Sarahs",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.21477,
+    36.52381,
+    61.21477,
+    36.52381
+],
+  "geometry": {"coordinates":[61.21477,36.52381],"type":"Point"}
+}

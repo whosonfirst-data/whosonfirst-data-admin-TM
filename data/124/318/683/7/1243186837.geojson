@@ -1,0 +1,65 @@
+{
+  "id": 1243186837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.55,38.45,56.55,38.45",
+    "geom:latitude":38.45,
+    "geom:longitude":56.55,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Zerdau",
+    "gn:country_code":"TM",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161372,
+    "gn:latitude":38.45,
+    "gn:longitude":56.55,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Zerdau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161372
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"354384f6d2bca8e820f3902116ad7190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1243186837,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1243186837,
+    "wof:lastmodified":1536682692,
+    "wof:name":"Zerdau",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.55,
+    38.45,
+    56.55,
+    38.45
+],
+  "geometry": {"coordinates":[56.55,38.45],"type":"Point"}
+}

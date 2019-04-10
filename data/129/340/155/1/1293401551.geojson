@@ -1,0 +1,76 @@
+{
+  "id": 1293401551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.65,41.83333,59.65,41.83333",
+    "geom:latitude":41.83333,
+    "geom:longitude":59.65,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yylanly",
+    "gn:cc2":"TM",
+    "gn:country_code":"TM",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601432,
+    "gn:latitude":41.83333,
+    "gn:longitude":59.65,
+    "gn:modification_date":"2013-10-29",
+    "gn:name":"Yylanly",
+    "gn:population":26901,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Il\u2019yaly",
+        "Ilyanli",
+        "Iyanli",
+        "Yylanly"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601432,
+        "wk:page":"%C3%9Dylanly"
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"947eaf00b293ce9266ad8dc38ece69d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1293401551,
+            "region_id":85678931
+        }
+    ],
+    "wof:id":1293401551,
+    "wof:lastmodified":1537706444,
+    "wof:name":"Yylanly",
+    "wof:parent_id":85678931,
+    "wof:placetype":"locality",
+    "wof:population":26901,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.65,
+    41.83333,
+    59.65,
+    41.83333
+],
+  "geometry": {"coordinates":[59.65,41.83333],"type":"Point"}
+}

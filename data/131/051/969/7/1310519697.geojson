@@ -1,0 +1,65 @@
+{
+  "id": 1310519697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.46667,40.36667,54.46667,40.36667",
+    "geom:latitude":40.36667,
+    "geom:longitude":54.46667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ubetsk",
+    "gn:country_code":"TM",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":601446,
+    "gn:latitude":40.36667,
+    "gn:longitude":54.46667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Ubetsk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":601446
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"d55a4f819f10d5871db65457ce4cc503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310519697,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1310519697,
+    "wof:lastmodified":1536896253,
+    "wof:name":"Ubetsk",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.46666999999999,
+    40.36667,
+    54.46666999999999,
+    40.36667
+],
+  "geometry": {"coordinates":[54.46666999999999,40.36667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1225962463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.51667,39.06667,63.51667,39.06667",
+    "geom:latitude":39.06667,
+    "geom:longitude":63.51667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tyuyachi",
+    "gn:country_code":"TM",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218178,
+    "gn:latitude":39.06667,
+    "gn:longitude":63.51667,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Tyuyachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218178
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"5fe0958b8971e4ca95fdfa75594603ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1225962463,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1225962463,
+    "wof:lastmodified":1536844109,
+    "wof:name":"Tyuyachi",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.51667,
+    39.06667,
+    63.51667,
+    39.06667
+],
+  "geometry": {"coordinates":[63.51667,39.06667],"type":"Point"}
+}

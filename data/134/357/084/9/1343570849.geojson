@@ -1,0 +1,75 @@
+{
+  "id": 1343570849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.22767,36.54922,61.22767,36.54922",
+    "geom:latitude":36.54922,
+    "geom:longitude":61.22767,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kiciaga",
+    "gn:country_code":"TM",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1218899,
+    "gn:latitude":36.54922,
+    "gn:longitude":61.22767,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Ki\u00e7iaga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tuk_x_preferred":[
+        "Ki\u00e7iaga"
+    ],
+    "name:und_x_variant":[
+        "Kichaga Pervaya",
+        "Kichiaga Pervyy",
+        "Kichiga Pervaya",
+        "Kichi-Aga Pervaya",
+        "Kichiaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1218899
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"ead8947bec8c4a5ada5d2aa44906fce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1343570849,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1343570849,
+    "wof:lastmodified":1537706456,
+    "wof:name":"Kiciaga",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.22767,
+    36.54922,
+    61.22767,
+    36.54922
+],
+  "geometry": {"coordinates":[61.22767,36.54922],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226655829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.43333,37.46667,60.43333,37.46667",
+    "geom:latitude":37.46667,
+    "geom:longitude":60.43333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bakhshimarish",
+    "gn:cc2":"TM",
+    "gn:country_code":"TM",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219796,
+    "gn:latitude":37.46667,
+    "gn:longitude":60.43333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bakhshimarish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chetyrnadtsat\u2019 Let Oktyabrya",
+        "Bakshi-Marish",
+        "Bagshimirish",
+        "Bakhshimarish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219796
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"d366eb9745968a8a8cc56ce8a115c363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1226655829,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1226655829,
+    "wof:lastmodified":1537706466,
+    "wof:name":"Bakhshimarish",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.43333000000001,
+    37.46667,
+    60.43333000000001,
+    37.46667
+],
+  "geometry": {"coordinates":[60.43333000000001,37.46667],"type":"Point"}
+}

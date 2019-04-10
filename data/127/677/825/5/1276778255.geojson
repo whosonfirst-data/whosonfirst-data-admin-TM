@@ -1,0 +1,65 @@
+{
+  "id": 1276778255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.7,37.68333,61.7,37.68333",
+    "geom:latitude":37.68333,
+    "geom:longitude":61.7,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Berenchi-Kara-Yab",
+    "gn:country_code":"TM",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219735,
+    "gn:latitude":37.68333,
+    "gn:longitude":61.7,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Berenchi-Kara-Yab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219735
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"33fb3dd49450cea6cf486983b585fd46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1276778255,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":1276778255,
+    "wof:lastmodified":1536679621,
+    "wof:name":"Berenchi-Kara-Yab",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.7,
+    37.68333,
+    61.7,
+    37.68333
+],
+  "geometry": {"coordinates":[61.7,37.68333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293802333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.37485,39.75033,54.37485,39.75033",
+    "geom:latitude":39.75033,
+    "geom:longitude":54.37485,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tasharvat",
+    "gn:country_code":"TM",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":161492,
+    "gn:latitude":39.75033,
+    "gn:longitude":54.37485,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Tasharvat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161492
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"70a06972d2dae5f7df56f8ff8ecc7d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1293802333,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":1293802333,
+    "wof:lastmodified":1536829295,
+    "wof:name":"Tasharvat",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.37485,
+    39.75033,
+    54.37485,
+    39.75033
+],
+  "geometry": {"coordinates":[54.37485,39.75033],"type":"Point"}
+}

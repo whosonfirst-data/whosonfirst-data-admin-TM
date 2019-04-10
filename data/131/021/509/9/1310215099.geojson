@@ -1,0 +1,65 @@
+{
+  "id": 1310215099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.43333,38.38333,64.43333,38.38333",
+    "geom:latitude":38.38333,
+    "geom:longitude":64.43333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bashvak",
+    "gn:country_code":"TM",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219778,
+    "gn:latitude":38.38333,
+    "gn:longitude":64.43333,
+    "gn:modification_date":"1994-03-11",
+    "gn:name":"Bashvak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219778
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"d200063d234bffb80c8c4cd77415a524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1310215099,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":1310215099,
+    "wof:lastmodified":1536837278,
+    "wof:name":"Bashvak",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.43333,
+    38.38333,
+    64.43333,
+    38.38333
+],
+  "geometry": {"coordinates":[64.43333,38.38333],"type":"Point"}
+}

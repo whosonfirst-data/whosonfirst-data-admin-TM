@@ -1,0 +1,72 @@
+{
+  "id": 1293701507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.05,37.55,60.05,37.55",
+    "geom:latitude":37.55,
+    "geom:longitude":60.05,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Garrychyrla",
+    "gn:cc2":"TM",
+    "gn:country_code":"TM",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1219419,
+    "gn:latitude":37.55,
+    "gn:longitude":60.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Garrychyrla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"TM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karrychirla",
+        "Kary-Chirla",
+        "Kara-Chirla",
+        "Garrychyrla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632671,
+        85678925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1219419
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"a315018c9fc4c23e98d11b86c96b7d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":1293701507,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":1293701507,
+    "wof:lastmodified":1537706462,
+    "wof:name":"Garrychyrla",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.05,
+    37.55,
+    60.05,
+    37.55
+],
+  "geometry": {"coordinates":[60.05,37.55],"type":"Point"}
+}
