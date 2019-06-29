@@ -22,8 +22,8 @@
     "name:aze_x_preferred":[
         "SAYAT \u0130ctimai Birliyi"
     ],
-    "name:dut_x_preferred":[
-        "Sa\u00fdat"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b3\u03b9\u03ac\u03c4"
     ],
     "name:eng_x_preferred":[
         "Sa\u00fdat"
@@ -31,10 +31,10 @@
     "name:est_x_preferred":[
         "Sa\u00fdat"
     ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03b3\u03b9\u03ac\u03c4"
-    ],
     "name:ita_x_preferred":[
+        "Sa\u00fdat"
+    ],
+    "name:nld_x_preferred":[
         "Sa\u00fdat"
     ],
     "name:pnb_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1125865653,
-    "wof:lastmodified":1553816583,
+    "wof:lastmodified":1561766423,
     "wof:name":"Sa\u00fdat",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",

@@ -17,14 +17,8 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u0643\u0645\u0627\u0646\u0628\u0627\u0634\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0539\u0578\u0582\u0580\u0584\u0574\u0565\u0576\u0562\u0561\u0577\u056b"
-    ],
     "name:aze_x_preferred":[
         "T\u00fcrkm\u0259nba\u015f\u0131"
-    ],
-    "name:baq_x_preferred":[
-        "T\u00fcrkmenba\u015fy"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0431\u0430\u0448\u044b"
@@ -35,19 +29,13 @@
     "name:cat_x_preferred":[
         "T\u00fcrkmenba\u015fy"
     ],
+    "name:ces_x_preferred":[
+        "Turkmenba\u0161i"
+    ],
     "name:che_x_preferred":[
         "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0431\u0430\u0448\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u571f\u5eab\u66fc\u5df4\u5e0c"
-    ],
-    "name:cze_x_preferred":[
-        "Turkmenba\u0161i"
-    ],
     "name:deu_x_preferred":[
-        "T\u00fcrkmenba\u015fy"
-    ],
-    "name:dut_x_preferred":[
         "T\u00fcrkmenba\u015fy"
     ],
     "name:ell_x_preferred":[
@@ -62,6 +50,9 @@
     "name:est_x_preferred":[
         "T\u00fcrkmenba\u015fy"
     ],
+    "name:eus_x_preferred":[
+        "T\u00fcrkmenba\u015fy"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0631\u06a9\u0645\u0646\u200c\u0628\u0627\u0634\u06cc"
     ],
@@ -70,18 +61,6 @@
     ],
     "name:fra_x_preferred":[
         "T\u00fcrkmenba\u015fy"
-    ],
-    "name:fre_x_preferred":[
-        "T\u00fcrkmenba\u015fy"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d7\u10e3\u10e0\u10e5\u10db\u10d4\u10dc\u10d1\u10d0\u10e8\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "T\u00fcrkmenba\u015fy"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03c5\u03c1\u03ba\u03bc\u03ad\u03bd\u03bc\u03c0\u03b1\u03c3\u03b9"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05e8\u05e7\u05de\u05e0\u05d1\u05d0\u05e9\u05d9"
@@ -119,9 +98,6 @@
     "name:nob_x_preferred":[
         "T\u00fcrkmenba\u015fy"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u06a9\u0645\u0646\u200c\u0628\u0627\u0634\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u062a\u0631\u06a9\u0645\u0627\u0646 \u0628\u0627\u0634\u06cc"
     ],
@@ -132,9 +108,6 @@
         "Turkmenbachi"
     ],
     "name:ron_x_preferred":[
-        "T\u00fcrkmenba\u015f\u00ee"
-    ],
-    "name:rum_x_preferred":[
         "T\u00fcrkmenba\u015f\u00ee"
     ],
     "name:rup_x_preferred":[
@@ -335,7 +308,7 @@
         }
     ],
     "wof:id":421176819,
-    "wof:lastmodified":1527726470,
+    "wof:lastmodified":1561766422,
     "wof:name":"T\u00fcrkmenbashy",
     "wof:parent_id":85678923,
     "wof:placetype":"locality",

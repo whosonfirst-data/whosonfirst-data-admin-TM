@@ -31,9 +31,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0627\u0631\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0580\u056b\u056b \u057e\u0565\u056c\u0561\u0575\u0561\u0569"
-    ],
     "name:aze_x_preferred":[
         "Mar\u0131 vilay\u0259ti"
     ],
@@ -46,9 +43,6 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Mary"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u96f7\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Mary Province"
     ],
@@ -58,8 +52,8 @@
     "name:diq_x_preferred":[
         "Merv"
     ],
-    "name:dut_x_preferred":[
-        "Mary"
+    "name:ell_x_preferred":[
+        "\u039c\u03ad\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Mary"
@@ -81,18 +75,6 @@
     ],
     "name:fra_x_preferred":[
         "Mary"
-    ],
-    "name:fre_x_preferred":[
-        "Mary"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e0\u10d8\u10e1 \u10d5\u10d4\u10da\u10d0\u10d8\u10d0\u10d7\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Mary wela\u00fdaty"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ad\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0ab0\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -142,20 +124,17 @@
     "name:mar_x_preferred":[
         "\u092e\u0947\u0930\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Provinsi Mary"
-    ],
     "name:mon_x_preferred":[
         "\u041c\u0430\u0440\u044b \u043c\u0443\u0436"
     ],
     "name:msa_x_preferred":[
         "Provinsi Mary"
     ],
+    "name:nld_x_preferred":[
+        "Mary"
+    ],
     "name:nob_x_preferred":[
         "Mary provins"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0631\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0645\u0631\u0648"
@@ -170,9 +149,6 @@
         "\u0645\u0627\u0631\u064a \u0648\u0644\u0627\u064a\u062a"
     ],
     "name:ron_x_preferred":[
-        "Provincia Mary"
-    ],
-    "name:rum_x_preferred":[
         "Provincia Mary"
     ],
     "name:rus_x_preferred":[
@@ -353,7 +329,7 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1553550515,
+    "wof:lastmodified":1561766417,
     "wof:name":"Mary",
     "wof:parent_id":85632671,
     "wof:placetype":"region",

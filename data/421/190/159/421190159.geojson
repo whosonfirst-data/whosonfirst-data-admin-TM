@@ -31,14 +31,14 @@
     "name:cat_x_preferred":[
         "Bayram Ali"
     ],
-    "name:chi_x_preferred":[
-        "\u62dc\u62c9\u59c6\u963f\u91cc"
-    ],
     "name:dan_x_preferred":[
         "Bayramaly"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ba\u00fdramaly"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u0390\u03c1\u03b1\u03bc\u03b1\u03bb\u03b9"
     ],
     "name:eng_x_preferred":[
         "Ba\u00fdramaly"
@@ -46,17 +46,14 @@
     "name:est_x_preferred":[
         "Ba\u00fdramaly"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u0631\u0627\u0645\u0639\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Ba\u00fdramaly"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ba\u00fdramaly"
-    ],
-    "name:ger_x_preferred":[
-        "Ba\u00fdramaly"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u0390\u03c1\u03b1\u03bc\u03b1\u03bb\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac8\u0ab0\u0abe\u0aae\u0ab2\u0ac0"
@@ -88,14 +85,14 @@
     "name:mar_x_preferred":[
         "\u092c\u0939\u0947\u0930\u094d\u0930\u093e\u092e\u093e\u0932\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bandaraya Ba\u00fdramaly"
+    ],
+    "name:nld_x_preferred":[
+        "Ba\u00fdramaly"
     ],
     "name:nob_x_preferred":[
         "Bayramaly"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u06cc\u0631\u0627\u0645\u0639\u0644\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u06cc\u0631\u0627\u0645 \u0639\u0644\u06cc"
@@ -148,6 +145,9 @@
     "name:vie_x_preferred":[
         "Bayramaly"
     ],
+    "name:zho_x_preferred":[
+        "\u62dc\u62c9\u59c6\u963f\u91cc"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -191,7 +191,7 @@
         }
     ],
     "wof:id":421190159,
-    "wof:lastmodified":1553816378,
+    "wof:lastmodified":1561766422,
     "wof:name":"Bayramaly",
     "wof:parent_id":85678941,
     "wof:placetype":"locality",
