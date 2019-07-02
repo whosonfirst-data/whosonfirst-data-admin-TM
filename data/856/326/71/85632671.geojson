@@ -165,9 +165,6 @@
     "name:cym_x_variant":[
         "Turkmenistan"
     ],
-    "name:cze_x_preferred":[
-        "Turkmenist\u00e1n"
-    ],
     "name:dan_x_preferred":[
         "Turkmenistan"
     ],
@@ -791,7 +788,6 @@
         "\u571f\u5e93\u66fc\u65af\u5766"
     ],
     "name:zho_x_variant":[
-        "\u571f\u5e93\u66fc\u65af\u5766",
         "\u571f\u5eab\u66fc"
     ],
     "name:zho_yue_x_preferred":[
@@ -948,7 +944,7 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1544059182,
+    "wof:lastmodified":1561766418,
     "wof:name":"Turkmenistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
