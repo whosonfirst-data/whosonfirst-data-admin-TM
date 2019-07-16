@@ -31,11 +31,20 @@
     "name:ara_x_preferred":[
         "\u0627\u0642\u0644\u064a\u0645 \u0623\u0647\u0627\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0623\u0647\u0627\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Provincia d'Ahal"
+    ],
     "name:azb_x_preferred":[
         "\u0622\u062e\u0627\u0644 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
     "name:aze_x_preferred":[
         "Ahal vilay\u0259ti"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0445\u0430\u043b\u0441\u043a\u0456 \u0432\u0435\u043b\u0430\u044f\u0442"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09b9\u09be\u09b2 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
@@ -45,6 +54,12 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia dAhal"
+    ],
+    "name:cat_x_variant":[
+        "prov\u00edncia d'Ahal"
+    ],
+    "name:ceb_x_preferred":[
+        "Ahal"
     ],
     "name:dan_x_preferred":[
         "Ahal Province"
@@ -114,6 +129,9 @@
     "name:kor_x_preferred":[
         "\uc544\ud560 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ud560\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Ahala vilajets"
     ],
@@ -171,6 +189,9 @@
     "name:tam_x_preferred":[
         "\u0b86\u0bb9\u0bcd\u0b85\u0bb2\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0410\u0445\u0430\u043b \u0432\u0438\u043b\u0430\u044f\u0442\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c05\u0c39\u0c32\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -180,11 +201,20 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e2d\u0e30\u0e2e\u0e2d\u0e25"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e32\u0e2e\u0e31\u0e25"
+    ],
     "name:tuk_x_preferred":[
         "Ahal wela\u00fdaty"
     ],
+    "name:tuk_x_variant":[
+        "Ahal"
+    ],
     "name:tur_x_preferred":[
         "Ahal vilayeti"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u0627\u06be\u0627\u0644 \u06cb\u0649\u0644\u0627\u064a\u0649\u062a\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0445\u0430\u043b\u0441\u044c\u043a\u0438\u0439 \u0432\u0435\u043b\u0430\u044f\u0442"
@@ -326,7 +356,7 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1561766417,
+    "wof:lastmodified":1563319039,
     "wof:name":"Ahal",
     "wof:parent_id":85632671,
     "wof:placetype":"region",

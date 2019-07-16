@@ -14,8 +14,17 @@
     "mz:is_current":-1,
     "mz:min_zoom":5.1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u064a"
+    ],
     "name:aze_x_preferred":[
         "Mar\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0440\u044b"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cd\u09af\u09be\u09b0\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0438"
@@ -23,11 +32,23 @@
     "name:cat_x_preferred":[
         "Mary"
     ],
+    "name:ceb_x_preferred":[
+        "Mary"
+    ],
+    "name:ces_x_preferred":[
+        "Mary"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0430\u0440\u044b"
     ],
+    "name:dan_x_preferred":[
+        "Mary"
+    ],
     "name:deu_x_preferred":[
         "Mary"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ad\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Mary"
@@ -47,8 +68,23 @@
     "name:fra_x_preferred":[
         "Mary"
     ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0ac7\u0ab0\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0930\u0940"
+    ],
+    "name:hsb_x_preferred":[
+        "Mary"
+    ],
+    "name:hun_x_preferred":[
+        "Mary"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u056b"
     ],
     "name:ind_x_preferred":[
         "Mary"
@@ -58,6 +94,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cc7\u0cb0\u0cbf"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10e0\u10d8"
@@ -74,13 +113,25 @@
     "name:lat_x_preferred":[
         "Margiana"
     ],
+    "name:lav_x_preferred":[
+        "Mari"
+    ],
     "name:lit_x_preferred":[
         "Maras"
     ],
     "name:lmo_x_preferred":[
         "Mary"
     ],
+    "name:mar_x_preferred":[
+        "\u092e\u0947\u0930\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Mary"
+    ],
     "name:nld_x_preferred":[
+        "Mary"
+    ],
+    "name:nob_x_preferred":[
         "Mary"
     ],
     "name:nor_x_preferred":[
@@ -88,6 +139,9 @@
     ],
     "name:oci_x_preferred":[
         "Mary"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2e\u0a30\u0a40"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u0631\u0648"
@@ -101,13 +155,22 @@
     "name:ron_x_preferred":[
         "Mary"
     ],
+    "name:rup_x_preferred":[
+        "Mary"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u044b"
     ],
     "name:sco_x_preferred":[
         "Mary"
     ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dda\u0dbb\u0dd2"
+    ],
     "name:spa_x_preferred":[
+        "Mary"
+    ],
+    "name:sqi_x_preferred":[
         "Mary"
     ],
     "name:srp_x_preferred":[
@@ -118,6 +181,18 @@
     ],
     "name:szl_x_preferred":[
         "Mary"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc7\u0bb0\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0440\u044b"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c4d\u0c2f\u0c3e\u0c30\u0c3f"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041c\u043e\u0440\u04e3"
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e23\u0e35"
@@ -136,6 +211,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0631\u06cc\u060c \u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u0631\u06cc"
     ],
     "name:uzb_x_preferred":[
         "Mari"
@@ -289,7 +367,7 @@
         }
     ],
     "wof:id":421177997,
-    "wof:lastmodified":1527716477,
+    "wof:lastmodified":1563319159,
     "wof:name":"Mary",
     "wof:parent_id":85678941,
     "wof:placetype":"locality",

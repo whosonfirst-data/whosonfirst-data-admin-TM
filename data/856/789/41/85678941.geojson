@@ -31,8 +31,17 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0627\u0631\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0645\u0627\u0631\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0631\u0648 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Mar\u0131 vilay\u0259ti"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0440\u044b\u0439\u0441\u043a\u0456 \u0432\u0435\u043b\u0430\u044f\u0442"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09b0\u09bf \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
@@ -42,6 +51,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Mary"
+    ],
+    "name:ceb_x_preferred":[
+        "Mary"
     ],
     "name:dan_x_preferred":[
         "Mary Province"
@@ -59,7 +71,8 @@
         "Mary"
     ],
     "name:eng_x_variant":[
-        "Mary Province"
+        "Mary Province",
+        "Mary Region"
     ],
     "name:epo_x_preferred":[
         "Provinco Mary"
@@ -113,7 +126,8 @@
         "\ub9c8\ub9ac"
     ],
     "name:kor_x_variant":[
-        "\ub9c8\ub9ac \uc8fc"
+        "\ub9c8\ub9ac \uc8fc",
+        "\ub9c8\ub9ac\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Mari vilajets"
@@ -181,11 +195,17 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e21\u0e32\u0e15\u0e32\u0e01\u0e31\u0e25\u0e1b\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e21\u0e32\u0e23\u0e37\u0e2d"
+    ],
     "name:tuk_x_preferred":[
         "Mary wela\u00fdaty"
     ],
     "name:tur_x_preferred":[
         "Mary vilayeti"
+    ],
+    "name:uig_x_preferred":[
+        "\u0645\u0627\u0631\u0649 \u06cb\u0649\u0644\u0627\u064a\u0649\u062a\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0438\u0439\u0441\u044c\u043a\u0438\u0439 \u0432\u0435\u043b\u0430\u044f\u0442"
@@ -329,7 +349,7 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1561766417,
+    "wof:lastmodified":1563319036,
     "wof:name":"Mary",
     "wof:parent_id":85632671,
     "wof:placetype":"region",

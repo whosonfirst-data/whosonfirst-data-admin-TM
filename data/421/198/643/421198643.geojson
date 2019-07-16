@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0424\u0430\u0440\u0430\u043f"
     ],
+    "name:ceb_x_preferred":[
+        "Farap"
+    ],
     "name:eng_x_preferred":[
         "Farap"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0628"
+    ],
+    "name:hsb_x_preferred":[
+        "Farap"
     ],
     "name:ita_x_preferred":[
         "Farap"
@@ -48,6 +54,9 @@
     ],
     "name:spa_x_preferred":[
         "Farap"
+    ],
+    "name:tat_x_preferred":[
+        "\u0424\u04d9\u0440\u04d9\u0431"
     ],
     "name:unk_x_variant":[
         "Farap"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421198643,
-    "wof:lastmodified":1561766422,
+    "wof:lastmodified":1563319155,
     "wof:name":"Farab",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",

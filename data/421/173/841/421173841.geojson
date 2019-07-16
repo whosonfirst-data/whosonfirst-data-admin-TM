@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Kerki"
     ],
+    "name:ceb_x_preferred":[
+        "Atamyrat"
+    ],
     "name:deu_x_preferred":[
         "Atamyrat"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:eng_x_preferred":[
         "Atamyrat"
+    ],
+    "name:eng_x_variant":[
+        "Kerki"
     ],
     "name:est_x_preferred":[
         "Atamyrat"
@@ -43,6 +49,9 @@
     ],
     "name:fra_x_preferred":[
         "Atamyrat"
+    ],
+    "name:hsb_x_preferred":[
+        "Kerki"
     ],
     "name:hye_x_preferred":[
         "\u0531\u057f\u0561\u0574\u0578\u0582\u0580\u0561\u057f"
@@ -81,10 +90,17 @@
         "\u0410\u0442\u0430\u043c\u0443\u0440\u0430\u0442"
     ],
     "name:rus_x_variant":[
-        "\u0410\u0442\u0430\u043c\u044b\u0440\u0430\u0442"
+        "\u0410\u0442\u0430\u043c\u044b\u0440\u0430\u0442",
+        "\u041a\u0435\u0440\u043a\u0438"
     ],
     "name:spa_x_preferred":[
         "Atamurat"
+    ],
+    "name:spa_x_variant":[
+        "Atamyrat"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u04d9\u0440\u043a\u0435"
     ],
     "name:tuk_x_preferred":[
         "Atamyrat"
@@ -247,7 +263,7 @@
         }
     ],
     "wof:id":421173841,
-    "wof:lastmodified":1561766422,
+    "wof:lastmodified":1563319153,
     "wof:name":"Atamyrat",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",

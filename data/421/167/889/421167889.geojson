@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101907,
-    "geom:area_square_m":992883218.157154,
+    "geom:area_square_m":992883218.157166,
     "geom:bbox":"57.9028217779,37.8258848607,58.4962276449,38.1879507223",
     "geom:latitude":38.005737,
     "geom:longitude":58.215095,
@@ -35,6 +35,9 @@
     "name:arz_x_preferred":[
         "\u0639\u0634\u0642 \u0627\u0628\u0627\u062f"
     ],
+    "name:ast_x_preferred":[
+        "Axgabat"
+    ],
     "name:ava_x_preferred":[
         "\u0413\u0406\u0430\u0448\u043a\u044a\u0430\u0431\u0430\u0434"
     ],
@@ -44,12 +47,19 @@
     "name:aze_x_preferred":[
         "A\u015fqabad"
     ],
+    "name:bak_x_preferred":[
+        "\u0410\u0448\u0445\u0430\u0431\u0430\u0434"
+    ],
+    "name:bcl_x_preferred":[
+        "Ashgabat"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0448\u0433\u0430\u0431\u0430\u0442"
     ],
     "name:bel_x_variant":[
         "\u0410\u0448\u0433\u0430\u0431\u0430\u0434",
-        "\u0413\u043e\u0440\u0430\u0434 \u0410\u0448\u0433\u0430\u0431\u0430\u0434"
+        "\u0413\u043e\u0440\u0430\u0434 \u0410\u0448\u0433\u0430\u0431\u0430\u0434",
+        "\u0410\u0448\u0445\u0430\u0431\u0430\u0434"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09b6\u0996\u09be\u09ac\u09be\u09a6"
@@ -57,8 +67,14 @@
     "name:bod_x_preferred":[
         "\u0f68\u0f0b\u0f67\u0fb2\u0f72\u0f0b\u0f41\u0f0b\u0f54\u0f51\u0f0d"
     ],
+    "name:bod_x_variant":[
+        "\u0f68\u0f0b\u0f67\u0fb2\u0f72\u0f0b\u0f41\u0f0b\u0f54\u0f51\u200b\u0f0d"
+    ],
     "name:bos_x_preferred":[
         "A\u015fgabat"
+    ],
+    "name:bos_x_variant":[
+        "Ashgabat"
     ],
     "name:bre_x_preferred":[
         "A\u015fgabat"
@@ -72,6 +88,12 @@
     "name:cat_x_preferred":[
         "A\u015fgabat"
     ],
+    "name:cat_x_variant":[
+        "Aixkhabad"
+    ],
+    "name:cdo_x_preferred":[
+        "Ashgabat"
+    ],
     "name:ces_x_preferred":[
         "A\u0161chabad"
     ],
@@ -80,6 +102,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u0639\u06d5\u0634\u0642\u0627\u0628\u0627\u062f"
+    ],
+    "name:ckb_x_variant":[
+        "\u0639\u06cc\u0634\u0642\u0627\u0628\u0627\u062f"
     ],
     "name:crh_x_preferred":[
         "A\u015f\u011fabat"
@@ -133,11 +158,20 @@
     "name:gla_x_preferred":[
         "Ashgabat"
     ],
+    "name:gle_x_preferred":[
+        "Ashgabat"
+    ],
     "name:glg_x_preferred":[
         "Achkhabad"
     ],
     "name:glv_x_preferred":[
         "A\u015fgabat"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0ab6\u0a97\u0aac\u0abe\u0aa4"
+    ],
+    "name:hak_x_preferred":[
+        "Ashgabat"
     ],
     "name:hat_x_preferred":[
         "Achgabat"
@@ -160,11 +194,17 @@
     "name:hsb_x_preferred":[
         "A\u0161chabad"
     ],
+    "name:hsb_x_variant":[
+        "A\u0161gabat"
+    ],
     "name:hun_x_preferred":[
         "A\u015fgabat"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0577\u056d\u0561\u0562\u0561\u0564"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0577\u056d\u0561\u057a\u0561\u057f"
     ],
     "name:ido_x_preferred":[
         "Ashgabat"
@@ -173,6 +213,9 @@
         "Ashgabat"
     ],
     "name:ilo_x_preferred":[
+        "Ashgabat"
+    ],
+    "name:ina_x_preferred":[
         "Ashgabat"
     ],
     "name:ind_x_preferred":[
@@ -199,6 +242,9 @@
     "name:kaz_x_preferred":[
         "\u0410\u0448\u0445\u0430\u0431\u0430\u0434"
     ],
+    "name:kaz_x_variant":[
+        "\u0410\u0448\u0493\u0430\u0431\u0430\u0434"
+    ],
     "name:kir_x_preferred":[
         "\u0410\u0448\u0445\u0430\u0431\u0430\u0434"
     ],
@@ -220,8 +266,14 @@
     "name:lat_x_preferred":[
         "A\u015fgabat"
     ],
+    "name:lat_x_variant":[
+        "Asgabat"
+    ],
     "name:lav_x_preferred":[
         "A\u0161gabata"
+    ],
+    "name:lij_x_preferred":[
+        "Ashgabat"
     ],
     "name:lit_x_preferred":[
         "A\u0161chabadas"
@@ -234,6 +286,12 @@
     ],
     "name:ltz_x_preferred":[
         "Aschchabad"
+    ],
+    "name:lzh_x_preferred":[
+        "\u963f\u4ec0\u54c8\u5df4\u5fb7"
+    ],
+    "name:mai_x_preferred":[
+        "\u0905\u0938\u094d\u0917\u093e\u092c\u0924"
     ],
     "name:mal_x_preferred":[
         "\u0d05\u0d37\u0d4d\u0d17\u0d3e\u0d2c\u0d3e\u0d26\u0d4d"
@@ -250,6 +308,9 @@
     "name:mon_x_preferred":[
         "\u0410\u0448\u0445\u0430\u0431\u0430\u0434"
     ],
+    "name:mon_x_variant":[
+        "\u0410\u0448\u0433\u0430\u0431\u0430\u0442"
+    ],
     "name:msa_x_preferred":[
         "Ashgabat"
     ],
@@ -259,14 +320,26 @@
     "name:mzn_x_preferred":[
         "\u0639\u0634\u0642\u200c\u0622\u0628\u0627\u062f"
     ],
+    "name:nan_x_preferred":[
+        "Ashgabat"
+    ],
+    "name:nep_x_preferred":[
+        "\u0905\u0938\u094d\u0917\u093e\u092c\u0924"
+    ],
     "name:nld_x_preferred":[
         "Asjchabad"
     ],
     "name:nno_x_preferred":[
         "Asjkhabad"
     ],
+    "name:nob_x_preferred":[
+        "Asjkhabad"
+    ],
     "name:nor_x_preferred":[
         "Asjkhabad"
+    ],
+    "name:nov_x_preferred":[
+        "Ashgabat"
     ],
     "name:oci_x_preferred":[
         "Ashgabat"
@@ -276,6 +349,12 @@
     ],
     "name:pan_x_preferred":[
         "\u0a05\u0a38\u0a3c\u0a17\u0a3c\u0a3e\u0a2c\u0a3e\u0a24"
+    ],
+    "name:pan_x_variant":[
+        "\u0a05\u0a38\u0a3c\u0a17\u0a3e\u0a2c\u0a3e\u0a26"
+    ],
+    "name:pap_x_preferred":[
+        "Askhabad"
     ],
     "name:pms_x_preferred":[
         "Ashgabat"
@@ -298,14 +377,23 @@
     "name:ron_x_preferred":[
         "A\u0219gabat"
     ],
+    "name:rup_x_preferred":[
+        "Ashgabat"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0448\u0445\u0430\u0431\u0430\u0434"
     ],
     "name:sah_x_preferred":[
         "\u0410\u0448\u0433\u0430\u0431\u0430\u0442"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5f\u1c65\u1c5c\u1c5f\u1c75\u1c5f\u1c5b"
+    ],
     "name:sco_x_preferred":[
         "Ashgabat"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d86\u0dc1\u0dca\u0d9c\u0dcf\u0db6\u0dcf\u0dad\u0dca"
     ],
     "name:slk_x_preferred":[
         "A\u0161chabad"
@@ -337,11 +425,20 @@
     "name:tat_x_preferred":[
         "\u0410\u0448\u043a\u0430\u0431\u0430\u0434"
     ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c37\u0c15\u0c3e\u0c2c\u0c3e\u0c26\u0c4d"
+    ],
     "name:tgk_x_preferred":[
         "\u0410\u0448\u049b\u043e\u0431\u043e\u0434"
     ],
+    "name:tgk_x_variant":[
+        "\u0418\u0448\u049b\u043e\u0431\u043e\u0434"
+    ],
     "name:tgl_x_preferred":[
         "Ashabat"
+    ],
+    "name:tgl_x_variant":[
+        "Ashgabat"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e32\u0e0a\u0e01\u0e32\u0e1a\u0e31\u0e15"
@@ -357,6 +454,9 @@
     ],
     "name:uig_x_preferred":[
         "\u0626\u0627\u0634\u062e\u0627\u0628\u0627\u062f"
+    ],
+    "name:uig_x_variant":[
+        "Ashxabad"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0448\u0433\u0430\u0431\u0430\u0442"
@@ -378,6 +478,9 @@
     ],
     "name:vol_x_preferred":[
         "A\u015fgabat"
+    ],
+    "name:vro_x_preferred":[
+        "Asgabat"
     ],
     "name:war_x_preferred":[
         "Ashgabat"
@@ -553,7 +656,7 @@
     },
     "wof:country":"TM",
     "wof:created":1459008746,
-    "wof:geomhash":"d9cda25bb19076e5925b14de8f054e82",
+    "wof:geomhash":"9c8029af6ee24b08c9a8173af545fa4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -563,7 +666,7 @@
         }
     ],
     "wof:id":421167889,
-    "wof:lastmodified":1552519481,
+    "wof:lastmodified":1563319152,
     "wof:name":"Ashgabat",
     "wof:parent_id":85678925,
     "wof:placetype":"locality",
@@ -580,7 +683,7 @@
     "wof:tags":[]
 },
   "bbox": [
-    57.902821777864425,
+    57.90282177786442,
     37.82588486066865,
     58.49622764493707,
     38.18795072233319

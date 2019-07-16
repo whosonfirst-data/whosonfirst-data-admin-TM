@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Lebap"
     ],
+    "name:ceb_x_preferred":[
+        "Lebap"
+    ],
     "name:deu_x_preferred":[
         "Lebap wela\u00fdaty"
     ],
@@ -95,6 +98,9 @@
     "name:kor_x_preferred":[
         "\ub808\ubc14\ud504 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub808\ubc14\ud504\uc8fc"
+    ],
     "name:lit_x_preferred":[
         "Lebapo velajatas"
     ],
@@ -140,11 +146,17 @@
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041b\u0435\u0431\u0430\u043f"
     ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e25\u0e1a\u0e31\u0e1b"
+    ],
     "name:tuk_x_preferred":[
         "Lebap wela\u00fdaty"
     ],
     "name:tur_x_preferred":[
         "Lebap vilayeti"
+    ],
+    "name:uig_x_preferred":[
+        "\u0644\u06d5\u0628\u0627\u067e \u06cb\u0649\u0644\u0627\u064a\u0649\u062a\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0431\u0430\u043f\u0441\u044c\u043a\u0438\u0439 \u0432\u0435\u043b\u0430\u044f\u0442"
@@ -283,7 +295,7 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1561766417,
+    "wof:lastmodified":1563319035,
     "wof:name":"Chardzhou",
     "wof:parent_id":85632671,
     "wof:placetype":"region",
