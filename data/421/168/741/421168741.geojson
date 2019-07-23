@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "K\u00f6ne\u00fcrgen\u00e7"
     ],
+    "name:ceb_x_preferred":[
+        "K\u00f6ne\u00fcrgench"
+    ],
     "name:ces_x_preferred":[
         "Ku\u0148ja-Urgen\u010d"
     ],
@@ -68,6 +71,9 @@
     "name:hrv_x_preferred":[
         "Keneurgen\u010d"
     ],
+    "name:hsb_x_preferred":[
+        "K\u00f6ne\u00fcrgen\u00e7"
+    ],
     "name:hun_x_preferred":[
         "Kunya-Urgencs"
     ],
@@ -91,6 +97,12 @@
     ],
     "name:lit_x_preferred":[
         "Kunja Urgen\u010das"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u0941\u0928\u094d\u092f\u093e-\u0909\u0930\u094d\u0917\u0947\u091e\u094d\u091a"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d4b\u0d28\u0d4d\u0d2f\u0d46-\u0d09\u0d7c\u0d17\u0d1e\u0d4d\u0d1a\u0d4d"
     ],
     "name:msa_x_preferred":[
         "K\u00f6ne\u00fcrgen\u00e7"
@@ -134,11 +146,17 @@
     "name:swe_x_preferred":[
         "Kunja-Urgentj"
     ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bca\u0ba9\u0bcd\u0baf\u0bbe-\u0b8a\u0bb0\u0bcd\u0b95\u0bc6\u0b9e\u0bcd\u0b9a\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u041a\u04e9\u04bb\u043d\u04d9 \u04ae\u0440\u0433\u04d9\u043d\u0435\u0447"
     ],
     "name:tuk_x_preferred":[
         "K\u00f6ne\u00fcrgen\u00e7"
+    ],
+    "name:tuk_x_variant":[
+        "Gadymy \u00dcrgen\u00e7"
     ],
     "name:tur_x_preferred":[
         "K\u00f6hne \u00dcrgen\u00e7"
@@ -301,7 +319,7 @@
         }
     ],
     "wof:id":421168741,
-    "wof:lastmodified":1561766421,
+    "wof:lastmodified":1563319148,
     "wof:name":"K\u00f6ne\u00fcrgench",
     "wof:parent_id":85678931,
     "wof:placetype":"locality",

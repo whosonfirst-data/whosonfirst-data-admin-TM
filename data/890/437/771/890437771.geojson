@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u043b\u0434\u0443\u043c\u0441\u0430\u0437"
     ],
+    "name:ceb_x_preferred":[
+        "Boldumsaz"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03bb\u03bd\u03c4\u03bf\u03c5\u03bc\u03c3\u03ac\u03b6"
     ],
@@ -25,6 +28,9 @@
         "Boldumsaz"
     ],
     "name:est_x_preferred":[
+        "Boldumsaz"
+    ],
+    "name:hsb_x_preferred":[
         "Boldumsaz"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +50,9 @@
     ],
     "name:spa_x_preferred":[
         "Boldumsaz"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0443\u043b\u0434\u044b\u043c\u0441\u0430\u0437"
     ],
     "name:unk_x_variant":[
         "Kalinin"
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":890437771,
-    "wof:lastmodified":1561766422,
+    "wof:lastmodified":1563319164,
     "wof:name":"Boldumsaz",
     "wof:parent_id":85678931,
     "wof:placetype":"locality",

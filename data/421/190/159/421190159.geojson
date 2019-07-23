@@ -22,6 +22,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u0439\u0440\u0430\u043c\u0430\u043b\u0456"
     ],
+    "name:bel_x_variant":[
+        "\u0411\u0430\u0439\u0440\u0430\u043c\u0430\u043b\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09b0\u09be\u09ae\u09be\u09b2\u09bf"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:cat_x_preferred":[
         "Bayram Ali"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayramaly"
     ],
     "name:dan_x_preferred":[
         "Bayramaly"
@@ -58,8 +64,14 @@
     "name:guj_x_preferred":[
         "\u0aac\u0ac8\u0ab0\u0abe\u0aae\u0ab2\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d9\u05e8\u05de\u05d0\u05dc\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u0948\u0930\u093e\u092e\u0932\u0940"
+    ],
+    "name:hsb_x_preferred":[
+        "Ba\u00fdramaly"
     ],
     "name:ind_x_preferred":[
         "Ba\u00fdramaly"
@@ -123,6 +135,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c48\u0c30\u0c3e\u0c2e\u0c32\u0c3f"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0430\u0439\u0440\u0430\u043c\u0430\u043b\u04e3"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e22\u0e4c\u0e23\u0e32\u0e21\u0e32\u0e23\u0e35\u0e48"
@@ -191,7 +206,7 @@
         }
     ],
     "wof:id":421190159,
-    "wof:lastmodified":1561766422,
+    "wof:lastmodified":1563319157,
     "wof:name":"Bayramaly",
     "wof:parent_id":85678941,
     "wof:placetype":"locality",

@@ -16,6 +16,12 @@
     "name:aze_x_preferred":[
         "Yol\u00f6t\u0259n"
     ],
+    "name:ceb_x_preferred":[
+        "Yol\u00f6ten"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03bf\u03bb\u03cc\u03c4\u03b5\u03bd"
+    ],
     "name:eng_x_preferred":[
         "\u00ddol\u00f6ten"
     ],
@@ -26,6 +32,9 @@
         "\u06cc\u0648\u0644\u0648\u062a\u0646"
     ],
     "name:fra_x_preferred":[
+        "\u00ddol\u00f6ten"
+    ],
+    "name:hsb_x_preferred":[
         "\u00ddol\u00f6ten"
     ],
     "name:ita_x_preferred":[
@@ -51,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "Jol\u00f6ten"
+    ],
+    "name:tat_x_preferred":[
+        "\u042e\u043b\u04af\u0442\u04d9\u043d"
     ],
     "name:tuk_x_preferred":[
         "\u00ddol\u00f6ten"
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":421175773,
-    "wof:lastmodified":1561766422,
+    "wof:lastmodified":1563319154,
     "wof:name":"Yol\u00f6ten",
     "wof:parent_id":85678941,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:aze_x_preferred":[
         "SAYAT \u0130ctimai Birliyi"
     ],
+    "name:ceb_x_preferred":[
+        "Sa\u00fdat"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03b3\u03b9\u03ac\u03c4"
     ],
@@ -29,6 +32,9 @@
         "Sa\u00fdat"
     ],
     "name:est_x_preferred":[
+        "Sa\u00fdat"
+    ],
+    "name:hsb_x_preferred":[
         "Sa\u00fdat"
     ],
     "name:ita_x_preferred":[
@@ -46,8 +52,14 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u044f\u0442"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u044f\u0442"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u06cc\u0627\u062a"
+    ],
+    "name:uzb_x_preferred":[
+        "Gazajak"
     ],
     "qs_pg:aaroncc":"TM",
     "qs_pg:gn_country":"TM",
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1125865653,
-    "wof:lastmodified":1561766423,
+    "wof:lastmodified":1563319165,
     "wof:name":"Sa\u00fdat",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",

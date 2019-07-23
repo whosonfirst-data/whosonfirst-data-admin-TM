@@ -46,11 +46,17 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Da\u015foguz"
     ],
+    "name:ceb_x_preferred":[
+        "Da\u015foguz Wela\u00fdaty"
+    ],
     "name:deu_x_preferred":[
         "Da\u015foguz wela\u00fdaty"
     ],
     "name:eng_x_preferred":[
         "Tashauz"
+    ],
+    "name:eng_x_variant":[
+        "Da\u015foguz Region"
     ],
     "name:epo_x_preferred":[
         "Provinco Da\u015foguz"
@@ -97,6 +103,9 @@
     "name:kor_x_preferred":[
         "\ub2e4\uc1fc\uad6c\uc988 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub2e4\uc1fc\uad6c\uc988\uc8fc"
+    ],
     "name:lit_x_preferred":[
         "Da\u0161oguzo velajatas"
     ],
@@ -139,11 +148,17 @@
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0414\u0430\u0448\u043e\u0433\u0443\u0437"
     ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e14\u0e32\u0e42\u0e0a\u0e01\u0e38\u0e0b"
+    ],
     "name:tuk_x_preferred":[
         "Da\u015foguz wela\u00fdaty"
     ],
     "name:tur_x_preferred":[
         "Da\u015fo\u011fuz vilayeti"
+    ],
+    "name:uig_x_preferred":[
+        "\u062f\u0627\u0634\u0626\u0648\u063a\u06c7\u0632 \u06cb\u0649\u0644\u0627\u064a\u0649\u062a\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0448\u043e\u0433\u0443\u0437\u044c\u043a\u0438\u0439 \u0432\u0435\u043b\u0430\u044f\u0442"
@@ -282,7 +297,7 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1561766417,
+    "wof:lastmodified":1563319034,
     "wof:name":"Tashauz",
     "wof:parent_id":85632671,
     "wof:placetype":"region",

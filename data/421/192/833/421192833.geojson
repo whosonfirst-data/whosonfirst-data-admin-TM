@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"59.145584,42.326061,59.145584,42.326061",
     "geom:latitude":42.326061,
     "geom:longitude":59.145584,
@@ -12,6 +13,156 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0647\u0646\u0647 \u063a\u0631\u063a\u0627\u0646\u062c"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0624\u0647\u0646\u0647 \u0627\u0648\u0631\u06af\u0646\u062c"
+    ],
+    "name:aze_x_preferred":[
+        "K\u00f6hn\u0259 \u00dcrg\u0259nc"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b \u0423\u0440\u0433\u0435\u043d\u0447"
+    ],
+    "name:cat_x_preferred":[
+        "K\u00f6ne\u00fcrgen\u00e7"
+    ],
+    "name:ceb_x_preferred":[
+        "K\u00f6ne\u00fcrgench"
+    ],
+    "name:ces_x_preferred":[
+        "Kunya-Urgench"
+    ],
+    "name:deu_x_preferred":[
+        "K\u00f6ne\u00fcrgen\u00e7"
+    ],
+    "name:eng_x_preferred":[
+        "Konye-Urgench"
+    ],
+    "name:epo_x_preferred":[
+        "Konje-Urgen\u0109"
+    ],
+    "name:est_x_preferred":[
+        "K\u00f6ne\u00fcrgen\u00e7"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0647\u0646\u0647\u200c\u06af\u0631\u06af\u0627\u0646\u062c"
+    ],
+    "name:fra_x_preferred":[
+        "Kounia-Ourguentch"
+    ],
+    "name:glg_x_preferred":[
+        "Kunya-Urgench"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e0\u05d0\u05d5\u05e8\u05d2\u05e0\u05e5'"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0928\u094d\u092f\u093e-\u0909\u0930\u0917\u0947\u0928\u094d\u091a"
+    ],
+    "name:hrv_x_preferred":[
+        "Keneurgen\u010d"
+    ],
+    "name:hsb_x_preferred":[
+        "K\u00f6ne\u00fcrgen\u00e7"
+    ],
+    "name:hun_x_preferred":[
+        "Kunya-Urgencs"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u056b\u0576 \u0548\u0582\u0580\u0563\u0565\u0576\u0579"
+    ],
+    "name:ind_x_preferred":[
+        "Kunya-Urgench"
+    ],
+    "name:ita_x_preferred":[
+        "Kunya-Urgench"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30d5\u30ca\u30fb\u30a6\u30eb\u30b2\u30f3\u30c1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10dd\u10dc\u10d4\u10e3\u10e0\u10d2\u10d4\u10dc\u10e9\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf54\ub124\uc6b0\ub974\uac90\uce58"
+    ],
+    "name:lit_x_preferred":[
+        "Kunja Urgen\u010das"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u0941\u0928\u094d\u092f\u093e-\u0909\u0930\u094d\u0917\u0947\u091e\u094d\u091a"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d4b\u0d28\u0d4d\u0d2f\u0d46-\u0d09\u0d7c\u0d17\u0d1e\u0d4d\u0d1a\u0d4d"
+    ],
+    "name:msa_x_preferred":[
+        "K\u00f6ne\u00fcrgen\u00e7"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u0941\u0928\u094d\u092f\u093e-\u0909\u0930\u094d\u0917\u0947\u0928\u094d\u091a"
+    ],
+    "name:nld_x_preferred":[
+        "Kunya-Urgench"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u06c1\u0646\u06c1 \u0627\u064f\u0631\u06af\u06cc\u0646\u0686"
+    ],
+    "name:pol_x_preferred":[
+        "K\u00f6ne\u00fcrgen\u00e7"
+    ],
+    "name:por_x_preferred":[
+        "Kunya-Urgench"
+    ],
+    "name:rup_x_preferred":[
+        "K\u00f6ne\u00fcrgen\u00e7"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0451\u043d\u0435\u0443\u0440\u0433\u0435\u043d\u0447"
+    ],
+    "name:sco_x_preferred":[
+        "Konye-Urgench"
+    ],
+    "name:slv_x_preferred":[
+        "Keneurgen\u010d"
+    ],
+    "name:spa_x_preferred":[
+        "Kunya-Urgench"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0435\u043d\u0435\u0443\u0440\u0433\u0435\u043d\u0447"
+    ],
+    "name:swe_x_preferred":[
+        "Kunja-Urgentj"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bca\u0ba9\u0bcd\u0baf\u0bbe-\u0b8a\u0bb0\u0bcd\u0b95\u0bc6\u0b9e\u0bcd\u0b9a\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u04e9\u04bb\u043d\u04d9 \u04ae\u0440\u0433\u04d9\u043d\u0435\u0447"
+    ],
+    "name:tuk_x_preferred":[
+        "Gadymy \u00dcrgen\u00e7"
+    ],
+    "name:tur_x_preferred":[
+        "K\u00f6hne \u00dcrgen\u00e7"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u043d\u0435\u0443\u0440\u0433\u0435\u043d\u0447"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06c1\u0646\u06c1 \u06af\u0631\u06af\u0627\u0646\u062c"
+    ],
+    "name:uzb_x_preferred":[
+        "Ko\u02bbhna Urganch"
+    ],
+    "name:vie_x_preferred":[
+        "Kunya-Urgench"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u5c3c\u4e9e\u70cf\u723e\u6839\u5947"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -57,7 +208,7 @@
         }
     ],
     "wof:id":421192833,
-    "wof:lastmodified":1527716111,
+    "wof:lastmodified":1563319150,
     "wof:name":"Kunya-Urgench",
     "wof:parent_id":85678931,
     "wof:placetype":"locality",
