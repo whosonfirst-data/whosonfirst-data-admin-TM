@@ -25,6 +25,33 @@
     "iso:country":"TM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Murgap"
+    ],
+    "name:est_x_preferred":[
+        "Murgap"
+    ],
+    "name:hsb_x_preferred":[
+        "Murgap"
+    ],
+    "name:ita_x_preferred":[
+        "Murgap"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u0631\u063a\u0627\u0628 \u060c\u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Murgap"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u0433\u0430\u043f"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u04e9\u0440\u0433\u0430\u043f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0631\u063a\u0627\u0628"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -47,7 +74,7 @@
         }
     ],
     "wof:id":1326853369,
-    "wof:lastmodified":1537574443,
+    "wof:lastmodified":1564150242,
     "wof:name":"Murgap",
     "wof:parent_id":85678941,
     "wof:placetype":"locality",

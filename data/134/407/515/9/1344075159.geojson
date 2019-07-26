@@ -25,6 +25,33 @@
     "iso:country":"TM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Araki"
+    ],
+    "name:deu_x_preferred":[
+        "Araki"
+    ],
+    "name:fra_x_preferred":[
+        "Araki"
+    ],
+    "name:ita_x_preferred":[
+        "Araki"
+    ],
+    "name:nld_x_preferred":[
+        "Araki"
+    ],
+    "name:por_x_preferred":[
+        "Araki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0430\u043a\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "Araki"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1344075159,
-    "wof:lastmodified":1536853259,
+    "wof:lastmodified":1564150258,
     "wof:name":"Araki",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",

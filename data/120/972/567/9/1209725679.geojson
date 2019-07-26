@@ -26,6 +26,9 @@
     "iso:country":"TM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Badan"
+    ],
     "name:tuk_x_preferred":[
         "Beden"
     ],
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1209725679,
-    "wof:lastmodified":1537706465,
+    "wof:lastmodified":1564150346,
     "wof:name":"Beden",
     "wof:parent_id":85678941,
     "wof:placetype":"locality",
