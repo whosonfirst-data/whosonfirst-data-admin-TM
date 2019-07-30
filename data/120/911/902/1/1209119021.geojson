@@ -26,11 +26,47 @@
     "iso:country":"TM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qarabo\u011faz"
+    ],
     "name:eng_x_preferred":[
         "Karabogaz"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0647\u200c\u0628\u063a\u0627\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Garabogaz"
+    ],
+    "name:hsb_x_preferred":[
+        "Garabogaz"
+    ],
+    "name:hun_x_preferred":[
+        "Karabogaz"
+    ],
+    "name:lit_x_preferred":[
+        "Garabogazas"
+    ],
+    "name:pol_x_preferred":[
+        "Garabogaz"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043a\u0434\u0430\u0448"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0430\u0440\u0430\u0431\u043e\u0433\u0430\u0437"
+    ],
+    "name:spa_x_preferred":[
+        "Garabogaz"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0443\u0433\u0430\u0437"
+    ],
+    "name:tuk_x_preferred":[
+        "Garabogaz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0440\u0430\u0431\u043e\u0433\u0430\u0437"
     ],
     "name:und_x_variant":[
         "Bek-Dafh",
@@ -38,6 +74,9 @@
         "Bik-Dash",
         "Bekdash",
         "Karabogaz"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u514b\u9054\u4ec0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +96,7 @@
         }
     ],
     "wof:id":1209119021,
-    "wof:lastmodified":1537706448,
+    "wof:lastmodified":1564150340,
     "wof:name":"Karabogaz",
     "wof:parent_id":85632671,
     "wof:placetype":"locality",

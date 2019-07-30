@@ -15,8 +15,20 @@
     "iso:country":"TM",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "\u015eeyd\u012b"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u06cc\u062f\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Seydi"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0439\u0434\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "\u015eeyd\u012b"
     ],
     "name:unk_x_variant":[
         "Neftezavodsk"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":890433575,
-    "wof:lastmodified":1527792953,
+    "wof:lastmodified":1564150393,
     "wof:name":"Seydi",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",

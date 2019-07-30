@@ -25,6 +25,21 @@
     "iso:country":"TM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hsb_x_preferred":[
+        "Hala\u00e7"
+    ],
+    "name:ita_x_preferred":[
+        "Hala\u00e7"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062e\u0644\u0686"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043b\u0430\u0447"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u04d9\u043b\u04d9\u0447"
+    ],
     "name:und_x_variant":[
         "Khalach",
         "Hala\u00e7"
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1209106601,
-    "wof:lastmodified":1537706457,
+    "wof:lastmodified":1564150345,
     "wof:name":"Halac",
     "wof:parent_id":85632671,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"TM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hsb_x_preferred":[
+        "Hojambaz"
+    ],
+    "name:ita_x_preferred":[
+        "Hojambaz"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062e\u0648\u0627\u062c\u06c1 \u0627\u0645\u0628\u0627\u0632"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0434\u0436\u0430\u043c\u0431\u0430\u0437"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0443\u0497\u0430\u043c\u0431\u0430\u0437"
+    ],
     "name:und_x_variant":[
         "Khodzhambas",
         "Khodzhambass",
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293224533,
-    "wof:lastmodified":1537706456,
+    "wof:lastmodified":1564150287,
     "wof:name":"Hojambaz",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "iso:country":"TM",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0531\u056f\u0569\u0565\u0583\u0565"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u0442\u0435\u043f\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Aktepe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1225854451,
-    "wof:lastmodified":1537706443,
+    "wof:lastmodified":1564150458,
     "wof:name":"Aktepe",
     "wof:parent_id":85678925,
     "wof:placetype":"locality",
