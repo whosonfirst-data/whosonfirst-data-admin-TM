@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":39.510484,
     "lbl:longitude":55.252653,
     "mps:latitude":39.510484,
@@ -347,16 +350,13 @@
         }
     ],
     "wof:id":85678923,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tuk"
     ],
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1563319038,
+    "wof:lastmodified":1565737313,
     "wof:name":"Balkan",
     "wof:parent_id":85632671,
     "wof:placetype":"region",

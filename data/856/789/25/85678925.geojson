@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AL"
+    ],
     "lbl:latitude":38.781013,
     "lbl:longitude":59.156775,
     "mps:latitude":38.781013,
@@ -347,16 +350,13 @@
         }
     ],
     "wof:id":85678925,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tuk"
     ],
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1563319039,
+    "wof:lastmodified":1565737313,
     "wof:name":"Ahal",
     "wof:parent_id":85632671,
     "wof:placetype":"region",

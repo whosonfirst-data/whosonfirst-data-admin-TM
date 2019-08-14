@@ -15,6 +15,9 @@
     "itu:country_code":[
         "993"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TM"
+    ],
     "lbl:latitude":39.869796,
     "lbl:longitude":58.676541,
     "mps:latitude":39.869796,
@@ -1040,16 +1043,13 @@
         }
     ],
     "wof:id":85632671,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tuk"
     ],
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1563319042,
+    "wof:lastmodified":1565737314,
     "wof:name":"Turkmenistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

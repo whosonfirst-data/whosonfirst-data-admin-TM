@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":37.174734,
     "lbl:longitude":62.46273,
     "mps:latitude":37.174734,
@@ -340,16 +343,13 @@
         }
     ],
     "wof:id":85678941,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tuk"
     ],
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1563319036,
+    "wof:lastmodified":1565737313,
     "wof:name":"Mary",
     "wof:parent_id":85632671,
     "wof:placetype":"region",
