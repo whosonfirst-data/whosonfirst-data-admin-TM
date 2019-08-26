@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"58.01374,38.08957,58.05374,38.12957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0428\u043e\u0440\u043a\u0430\u043b\u0430"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293901343,
-    "wof:lastmodified":1537706430,
+    "wof:lastmodified":1566667006,
     "wof:name":"Shorkala",
     "wof:parent_id":85678925,
     "wof:placetype":"locality",

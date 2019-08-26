@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"62.57289,35.66014,62.61289,35.70014",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0622\u062e\u0627\u0644"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209105357,
-    "wof:lastmodified":1564150345,
+    "wof:lastmodified":1566667044,
     "wof:name":"Ahal",
     "wof:parent_id":85632671,
     "wof:placetype":"locality",

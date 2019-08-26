@@ -10,6 +10,9 @@
     "geom:latitude":38.97644,
     "geom:longitude":56.27575,
     "iso:country":"TM",
+    "lbl:bbox":"56.25575,38.95644,56.29575,38.99644",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0434\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kizyl-Arvat"
     ],
     "name:urd_x_preferred":[
@@ -234,7 +237,7 @@
     "wof:concordances":{
         "gn:id":161931,
         "gp:id":1935769,
-        "qs:id":257182,
+        "qs_pg:id":257182,
         "wd:id":"Q1015618"
     },
     "wof:country":"TM",
@@ -249,7 +252,7 @@
         }
     ],
     "wof:id":421168645,
-    "wof:lastmodified":1563319147,
+    "wof:lastmodified":1566667073,
     "wof:name":"Gyzylarbat",
     "wof:parent_id":85678923,
     "wof:placetype":"locality",

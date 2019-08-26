@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"57.94992,38.22371,57.98992,38.26371",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Geok-Tepe-Pervyy",
         "Geok-Tepe Nomer Pervyy"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344170921,
-    "wof:lastmodified":1537706438,
+    "wof:lastmodified":1566666997,
     "wof:name":"Geok-Tepe Nomer Pervyy",
     "wof:parent_id":85678925,
     "wof:placetype":"locality",

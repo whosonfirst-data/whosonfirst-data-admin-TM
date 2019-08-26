@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"54.35478,38.47467,54.39478,38.51467",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bugdayli",
         "Bugdayly"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276131397,
-    "wof:lastmodified":1537706440,
+    "wof:lastmodified":1566667027,
     "wof:name":"Bugdayly",
     "wof:parent_id":85678923,
     "wof:placetype":"locality",

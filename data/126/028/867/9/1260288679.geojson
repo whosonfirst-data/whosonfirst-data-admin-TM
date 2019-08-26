@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"58.02961,38.07477,58.06961,38.11477",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u0435\u043b\u0435\u0434\u0436\u0430\u0440"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260288679,
-    "wof:lastmodified":1537706435,
+    "wof:lastmodified":1566667053,
     "wof:name":"Keledzhar",
     "wof:parent_id":85678925,
     "wof:placetype":"locality",

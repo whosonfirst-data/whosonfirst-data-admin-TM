@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"64.01763,38.5637,64.05763,38.6037",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Imeni Kirova"
     ],
@@ -32,8 +36,7 @@
         "Imeni Kirova"
     ],
     "name:und_x_variant":[
-        "Berut",
-        "Imeni Kirova"
+        "Berut"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1327449631,
-    "wof:lastmodified":1564150248,
+    "wof:lastmodified":1566666985,
     "wof:name":"Imeni Kirova",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",

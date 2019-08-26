@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"66.2459,37.36106,66.2859,37.40106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "\u0531\u056f\u0569\u0565\u0583\u0565"
     ],
@@ -32,8 +36,7 @@
         "Aktepe"
     ],
     "name:und_x_variant":[
-        "Ak-Tere",
-        "Aktepe"
+        "Ak-Tere"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1225845255,
-    "wof:lastmodified":1564150459,
+    "wof:lastmodified":1566667118,
     "wof:name":"Aktepe",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",

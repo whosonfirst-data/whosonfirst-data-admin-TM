@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"61.91242,37.58601,61.95242,37.62601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293701321,
-    "wof:lastmodified":1536975500,
+    "wof:lastmodified":1566667008,
     "wof:name":"Imeni Poltoratskogo",
     "wof:parent_id":85678941,
     "wof:placetype":"locality",

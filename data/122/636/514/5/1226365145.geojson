@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"62.38035,35.32176,62.42035,35.36176",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tuk_x_preferred":[
         "Mirny\u00fd"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226365145,
-    "wof:lastmodified":1537706467,
+    "wof:lastmodified":1566667116,
     "wof:name":"Mirnyy",
     "wof:parent_id":85678941,
     "wof:placetype":"locality",

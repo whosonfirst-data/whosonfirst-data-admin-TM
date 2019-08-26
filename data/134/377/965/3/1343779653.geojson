@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"61.18,36.43,61.22,36.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Khalyal\u2019chilim"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343779653,
-    "wof:lastmodified":1537706457,
+    "wof:lastmodified":1566666991,
     "wof:name":"Khalyal'chilim",
     "wof:parent_id":85678925,
     "wof:placetype":"locality",

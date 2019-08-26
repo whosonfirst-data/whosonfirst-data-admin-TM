@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"54.68,40.29667,54.72,40.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kuize-Shour",
         "Kuyzeshour"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225962381,
-    "wof:lastmodified":1537706446,
+    "wof:lastmodified":1566667112,
     "wof:name":"Kuyzeshour",
     "wof:parent_id":85678923,
     "wof:placetype":"locality",

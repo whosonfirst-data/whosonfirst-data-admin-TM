@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"61.69884,37.66869,61.73884,37.70869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Imeni Malenkova",
         "Vos\u2019moye Marta"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226457089,
-    "wof:lastmodified":1537706449,
+    "wof:lastmodified":1566667106,
     "wof:name":"Vos'moye Marta",
     "wof:parent_id":85678941,
     "wof:placetype":"locality",
