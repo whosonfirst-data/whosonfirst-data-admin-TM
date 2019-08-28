@@ -10,6 +10,9 @@
     "geom:latitude":39.51075,
     "geom:longitude":54.36713,
     "iso:country":"TM",
+    "lbl:bbox":"54.34713,39.49075,54.38713,39.53075",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -189,7 +192,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u043a\u0430\u043d\u0430\u0431\u0430\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neftedag"
     ],
     "name:urd_x_preferred":[
@@ -325,7 +328,7 @@
     "wof:concordances":{
         "gn:id":161616,
         "gp:id":1936256,
-        "qs:id":1091411,
+        "qs_pg:id":1091411,
         "wd:id":"Q199762",
         "wk:page":"Balkanabat"
     },
@@ -341,7 +344,7 @@
         }
     ],
     "wof:id":421198153,
-    "wof:lastmodified":1563319156,
+    "wof:lastmodified":1566667075,
     "wof:name":"Nebitdag",
     "wof:parent_id":85678923,
     "wof:placetype":"locality",

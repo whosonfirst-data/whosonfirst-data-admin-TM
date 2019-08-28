@@ -10,8 +10,12 @@
     "geom:latitude":37.29886,
     "geom:longitude":62.35975,
     "iso:country":"TM",
+    "lbl:bbox":"62.33975,37.27886,62.37975,37.31886",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Yol\u00f6t\u0259n"
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0419\u043e\u043b\u0435\u0442\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Iolotan\u2019"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":1218021,
         "gp:id":1936498,
-        "qs:id":1030174,
+        "qs_pg:id":1030174,
         "wd:id":"Q2985985",
         "wk:page":"\u00ddol\u00f6ten"
     },
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":421175773,
-    "wof:lastmodified":1563319154,
+    "wof:lastmodified":1566667075,
     "wof:name":"Yol\u00f6ten",
     "wof:parent_id":85678941,
     "wof:placetype":"locality",

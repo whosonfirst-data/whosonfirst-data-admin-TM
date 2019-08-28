@@ -10,6 +10,9 @@
     "geom:latitude":39.07328,
     "geom:longitude":63.57862,
     "iso:country":"TM",
+    "lbl:bbox":"63.55862,39.05328,63.59862,39.09328",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.6,
@@ -206,7 +209,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0430\u0431\u0430\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chardzhou"
     ],
     "name:urd_x_preferred":[
@@ -348,7 +351,7 @@
     "wof:concordances":{
         "gn:id":1219649,
         "gp:id":1935631,
-        "qs:id":911239,
+        "qs_pg:id":911239,
         "wd:id":"Q487684",
         "wk:page":"T\u00fcrkmenabat"
     },
@@ -364,7 +367,7 @@
         }
     ],
     "wof:id":421186121,
-    "wof:lastmodified":1563319154,
+    "wof:lastmodified":1566667075,
     "wof:name":"Ch\u00e4rjew",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",

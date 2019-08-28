@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"64.02629,38.49513,64.06629,38.53513",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0438\u043e\u043d\u0435\u0440"
     ],
@@ -53,8 +57,7 @@
         "\u041f\u0456\u043e\u043d\u0435\u0440"
     ],
     "name:und_x_variant":[
-        "Leninizm",
-        "Pioner"
+        "Leninizm"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1243454809,
-    "wof:lastmodified":1564150418,
+    "wof:lastmodified":1566667093,
     "wof:name":"Pioner",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",

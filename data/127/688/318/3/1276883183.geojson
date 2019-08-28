@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"61.40347,41.18338,61.44347,41.22338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tuya Mayun",
         "Tuya-Muyun",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276883183,
-    "wof:lastmodified":1537706468,
+    "wof:lastmodified":1566667021,
     "wof:name":"Dyuyeboyun",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",

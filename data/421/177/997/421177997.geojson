@@ -10,6 +10,9 @@
     "geom:latitude":37.59378,
     "geom:longitude":61.83031,
     "iso:country":"TM",
+    "lbl:bbox":"61.81031,37.57378,61.85031,37.61378",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.1,
@@ -206,7 +209,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Merv"
     ],
     "name:urd_x_preferred":[
@@ -351,7 +354,7 @@
     "wof:concordances":{
         "gn:id":1218667,
         "gp:id":1936594,
-        "qs:id":276125,
+        "qs_pg:id":276125,
         "wd:id":"Q5713",
         "wk:page":"Mary, Turkmenistan"
     },
@@ -367,7 +370,7 @@
         }
     ],
     "wof:id":421177997,
-    "wof:lastmodified":1563319159,
+    "wof:lastmodified":1566667076,
     "wof:name":"Mary",
     "wof:parent_id":85678941,
     "wof:placetype":"locality",

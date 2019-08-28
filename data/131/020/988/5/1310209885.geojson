@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"62.34726,35.21376,62.38726,35.25376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mede"
     ],
@@ -232,7 +236,7 @@
         }
     ],
     "wof:id":1310209885,
-    "wof:lastmodified":1564150370,
+    "wof:lastmodified":1566667060,
     "wof:name":"Medes",
     "wof:parent_id":85678941,
     "wof:placetype":"locality",

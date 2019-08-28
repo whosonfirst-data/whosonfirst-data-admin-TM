@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"56.24225,39.33127,56.28225,39.37127",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cherkezly",
         "Cherkezli"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209324757,
-    "wof:lastmodified":1537706440,
+    "wof:lastmodified":1566667040,
     "wof:name":"Cherkezli",
     "wof:parent_id":85632671,
     "wof:placetype":"locality",

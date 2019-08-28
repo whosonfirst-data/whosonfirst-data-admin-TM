@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"60.37372,37.66887,60.41372,37.70887",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03bc\u03c0\u03b1\u03bd\u03c4\u03b1\u03ca\u03c7\u03ac\u03bd"
     ],
@@ -44,8 +48,7 @@
         "\u0411\u0430\u0431\u0430\u0434\u0430\u0439\u0445\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Kirovsk",
-        "Babada\u00fdhan"
+        "Kirovsk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1343578993,
-    "wof:lastmodified":1564150266,
+    "wof:lastmodified":1566666995,
     "wof:name":"Babadayhan",
     "wof:parent_id":85678925,
     "wof:placetype":"locality",

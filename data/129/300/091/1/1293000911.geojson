@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"66.42112,37.85,66.46112,37.89",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Svintsovyy Rudnik",
         "Kuki-tang",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293000911,
-    "wof:lastmodified":1537706451,
+    "wof:lastmodified":1566667003,
     "wof:name":"Gursunmagdan Karhanasy",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",

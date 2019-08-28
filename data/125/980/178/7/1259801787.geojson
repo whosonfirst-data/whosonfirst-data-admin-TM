@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"63.73085,38.95933,63.77085,38.99933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yelmek",
         "El\u2019mek",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259801787,
-    "wof:lastmodified":1537706459,
+    "wof:lastmodified":1566667103,
     "wof:name":"Imeni Kuybysheva",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",

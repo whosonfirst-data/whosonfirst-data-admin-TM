@@ -10,6 +10,9 @@
     "geom:latitude":38.05067,
     "geom:longitude":58.20559,
     "iso:country":"TM",
+    "lbl:bbox":"58.18559,38.03067,58.22559,38.07067",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0430\u0434\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0435\u0442\u0440\u0430\u043f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00fczme\u00fdin"
     ],
     "name:urd_x_preferred":[
@@ -238,7 +241,7 @@
     "wof:concordances":{
         "gn:id":162099,
         "gp:id":1936518,
-        "qs:id":1297947,
+        "qs_pg:id":1297947,
         "wd:id":"Q304522",
         "wk:page":"Abadan, Turkmenistan"
     },
@@ -254,7 +257,7 @@
         }
     ],
     "wof:id":421200271,
-    "wof:lastmodified":1563319158,
+    "wof:lastmodified":1566667076,
     "wof:name":"Bezmein",
     "wof:parent_id":85678925,
     "wof:placetype":"locality",

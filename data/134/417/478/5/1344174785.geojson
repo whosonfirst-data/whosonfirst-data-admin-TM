@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"58.21057,38.00444,58.25057,38.04444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u042d\u0440\u0438\u043a\u043a\u0430\u043b\u0430"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1344174785,
-    "wof:lastmodified":1537706428,
+    "wof:lastmodified":1566666997,
     "wof:name":"Herrikgala",
     "wof:parent_id":85678925,
     "wof:placetype":"locality",

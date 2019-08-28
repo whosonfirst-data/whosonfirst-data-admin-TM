@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"56.47553,38.42304,56.51553,38.46304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u042e\u0432\u0430\u043d\u043a\u0430\u043b\u0430"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343371787,
-    "wof:lastmodified":1537706428,
+    "wof:lastmodified":1566666988,
     "wof:name":"Yuwangala",
     "wof:parent_id":85678923,
     "wof:placetype":"locality",

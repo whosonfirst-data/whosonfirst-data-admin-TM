@@ -10,6 +10,9 @@
     "geom:latitude":40.02216,
     "geom:longitude":52.95518,
     "iso:country":"TM",
+    "lbl:bbox":"52.93518,40.00216,52.97518,40.04216",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -179,9 +182,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0431\u0430\u0448\u0456"
     ],
-    "name:unk_x_variant":[
-        "Krasnovodsk"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u06a9\u0645\u0646\u0628\u0627\u0634\u06cc\u060c \u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646"
     ],
@@ -322,7 +322,7 @@
     "wof:concordances":{
         "gn:id":601594,
         "gp:id":1936432,
-        "qs:id":1083612,
+        "qs_pg:id":1083612,
         "wd:id":"Q488987",
         "wk:page":"T\u00fcrkmenba\u015fy, Turkmenistan"
     },
@@ -338,7 +338,7 @@
         }
     ],
     "wof:id":421176819,
-    "wof:lastmodified":1563319163,
+    "wof:lastmodified":1566667077,
     "wof:name":"T\u00fcrkmenbashy",
     "wof:parent_id":85678923,
     "wof:placetype":"locality",

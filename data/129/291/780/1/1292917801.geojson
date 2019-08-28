@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"57.94394,37.87373,57.98394,37.91373",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0427\u0430\u0435\u043a"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1292917801,
-    "wof:lastmodified":1537706442,
+    "wof:lastmodified":1566667014,
     "wof:name":"Chayek",
     "wof:parent_id":85678925,
     "wof:placetype":"locality",

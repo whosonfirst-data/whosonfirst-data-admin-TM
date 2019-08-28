@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"63.70909,38.98368,63.74909,39.02368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Uch\u2019-Bashi",
         "Uch-Bash"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209324775,
-    "wof:lastmodified":1537706449,
+    "wof:lastmodified":1566667039,
     "wof:name":"Uch-Bash",
     "wof:parent_id":85632671,
     "wof:placetype":"locality",

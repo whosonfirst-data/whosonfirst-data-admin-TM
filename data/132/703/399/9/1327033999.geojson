@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"57.13784,38.52279,57.17784,38.56279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lit_x_preferred":[
         "Ar\u010dmanas"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:tuk_x_preferred":[
         "Ar\u00e7man"
-    ],
-    "name:und_x_variant":[
-        "Archman"
     ],
     "name:uzb_x_preferred":[
         "Archman"
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1327033999,
-    "wof:lastmodified":1564150237,
+    "wof:lastmodified":1566666978,
     "wof:name":"Arcman",
     "wof:parent_id":85678925,
     "wof:placetype":"locality",

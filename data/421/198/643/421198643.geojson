@@ -10,8 +10,12 @@
     "geom:latitude":39.17037,
     "geom:longitude":63.61164,
     "iso:country":"TM",
+    "lbl:bbox":"63.59164,39.15037,63.63164,39.19037",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u0631\u0628\u0631"
@@ -58,9 +62,6 @@
     "name:tat_x_preferred":[
         "\u0424\u04d9\u0440\u04d9\u0431"
     ],
-    "name:unk_x_variant":[
-        "Farap"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u0627\u0631\u0627\u067e"
     ],
@@ -94,7 +95,7 @@
     "wof:concordances":{
         "gn:id":1219431,
         "gp:id":1936538,
-        "qs:id":184114,
+        "qs_pg:id":184114,
         "wd:id":"Q2587941",
         "wk:page":"Farap"
     },
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":421198643,
-    "wof:lastmodified":1563319155,
+    "wof:lastmodified":1566667075,
     "wof:name":"Farab",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",

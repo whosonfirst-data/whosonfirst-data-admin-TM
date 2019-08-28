@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"52.69344,40.31768,52.73344,40.35768",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dzhafara",
         "Dzhafar"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259890091,
-    "wof:lastmodified":1537706448,
+    "wof:lastmodified":1566667103,
     "wof:name":"Dzhafar",
     "wof:parent_id":85678923,
     "wof:placetype":"locality",

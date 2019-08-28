@@ -9,15 +9,18 @@
     "geom:bbox":"58.09237,37.91677,58.09237,37.91677",
     "geom:latitude":37.91677,
     "geom:longitude":58.09237,
-    "gn:gn_country":"TM",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3000,
+    "gn:country":"TM",
+    "gn:fcode":"PPL",
     "gn:population":3000,
     "iso:country":"TM",
+    "lbl:bbox":"58.07237,37.89677,58.11237,37.93677",
     "lbl:latitude":37.91677,
     "lbl:longitude":58.09237,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:rus_x_preferred":[
         "\u0424\u0438\u0440\u044e\u0437\u0430"
@@ -25,7 +28,7 @@
     "name:tuk_x_preferred":[
         "Ar\u00e7abil"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Firyuza"
     ],
     "qs_pg:aaroncc":"TM",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":69691,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1125962185,
-    "wof:lastmodified":1509403378,
+    "wof:lastmodified":1566667078,
     "wof:name":"Pewrize",
     "wof:parent_id":85678925,
     "wof:placetype":"locality",

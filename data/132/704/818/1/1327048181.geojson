@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"53.46333,42.09667,53.50333,42.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kok-Say",
         "G\u00ebksay"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1327048181,
-    "wof:lastmodified":1537706447,
+    "wof:lastmodified":1566666979,
     "wof:name":"Geksay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

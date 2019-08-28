@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.244288,
     "lbl:longitude":58.675922,
+    "lbl:min_zoom":8.0,
     "mps:latitude":41.244288,
     "mps:longitude":58.675922,
     "mz:hierarchy_label":1,
@@ -166,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0448\u043e\u0433\u0443\u0437\u044c\u043a\u0438\u0439 \u0432\u0435\u043b\u0430\u044f\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dashhowuz Welayaty"
     ],
     "name:urd_x_preferred":[
@@ -251,9 +252,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1999-01-01",
+    "src:population_date":"1999-01-01",
     "statoids:area_km":"73,600",
     "statoids:area_mi":"28,400",
     "statoids:as_of_date":"1999-01-01",
@@ -277,7 +278,7 @@
         "gp:id":2347351,
         "hasc:id":"TM.DA",
         "iso:id":"TM-D",
-        "qs:id":890110,
+        "qs_pg:id":890110,
         "wd:id":"Q487393",
         "wk:page":"Da\u015foguz Region"
     },
@@ -297,11 +298,10 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1565737313,
+    "wof:lastmodified":1566667000,
     "wof:name":"Tashauz",
     "wof:parent_id":85632671,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1059800,
     "wof:population_rank":12,

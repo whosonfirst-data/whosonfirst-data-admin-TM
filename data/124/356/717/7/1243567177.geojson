@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"56.49186,38.36355,56.53186,38.40355",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0428\u0435\u0445\u0432\u0435\u0434\u0435\u0440"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243567177,
-    "wof:lastmodified":1537706470,
+    "wof:lastmodified":1566667088,
     "wof:name":"Shekhveder",
     "wof:parent_id":85678923,
     "wof:placetype":"locality",

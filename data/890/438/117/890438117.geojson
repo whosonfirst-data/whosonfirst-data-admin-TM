@@ -11,10 +11,14 @@
     "geom:longitude":59.37877,
     "gn:country":"TM",
     "gn:fcode":"PPL",
-    "gn:pop":14177,
+    "gn:population":14177,
     "iso:country":"TM",
+    "lbl:bbox":"59.35877,42.03513,59.39877,42.07513",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0410\u043a\u0434\u0435\u043f\u0435"
     ],
@@ -63,7 +67,7 @@
     "name:tat_x_preferred":[
         "\u0410\u043a\u0442\u04af\u0431\u04d9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ak-Tyube"
     ],
     "name:urd_x_preferred":[
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":601551,
         "gp:id":1936592,
-        "qs:id":126028,
+        "qs_pg:id":126028,
         "wd:id":"Q2450285",
         "wk:page":"Akdepe"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890438117,
-    "wof:lastmodified":1563319164,
+    "wof:lastmodified":1566667077,
     "wof:name":"Akdepe",
     "wof:parent_id":85678931,
     "wof:placetype":"locality",

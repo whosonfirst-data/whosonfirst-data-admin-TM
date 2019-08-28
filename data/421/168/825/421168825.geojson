@@ -10,6 +10,9 @@
     "geom:latitude":37.38338,
     "geom:longitude":60.50544,
     "iso:country":"TM",
+    "lbl:bbox":"60.48544,37.36338,60.52544,37.40338",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -92,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0434\u0436\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tejend"
     ],
     "name:urd_x_preferred":[
@@ -226,7 +229,7 @@
     "wof:concordances":{
         "gn:id":1218239,
         "gp:id":1936407,
-        "qs:id":273880,
+        "qs_pg:id":273880,
         "wd:id":"Q1983850",
         "wk:page":"Tejen"
     },
@@ -242,7 +245,7 @@
         }
     ],
     "wof:id":421168825,
-    "wof:lastmodified":1563319149,
+    "wof:lastmodified":1566667074,
     "wof:name":"Tejen",
     "wof:parent_id":85678925,
     "wof:placetype":"locality",

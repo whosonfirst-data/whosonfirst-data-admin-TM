@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ashgabat",
     "iso:country":"TM",
+    "lbl:bbox":"58.22107,38.17059,58.26107,38.21059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0421\u0430\u0439\u043e\u0443"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276882753,
-    "wof:lastmodified":1537706473,
+    "wof:lastmodified":1566667020,
     "wof:name":"Sayou",
     "wof:parent_id":85678925,
     "wof:placetype":"locality",
