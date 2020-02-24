@@ -658,6 +658,9 @@
     },
     "wof:country":"TM",
     "wof:created":1459008746,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9c8029af6ee24b08c9a8173af545fa4c",
     "wof:hierarchy":[
         {
@@ -668,7 +671,7 @@
         }
     ],
     "wof:id":421167889,
-    "wof:lastmodified":1566667074,
+    "wof:lastmodified":1582319625,
     "wof:name":"Ashgabat",
     "wof:parent_id":85678925,
     "wof:placetype":"locality",
