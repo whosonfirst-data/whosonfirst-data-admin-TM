@@ -981,7 +981,6 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "naturalearth",
-        "naturalearth",
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
@@ -1057,7 +1056,7 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1582319622,
+    "wof:lastmodified":1583206372,
     "wof:name":"Turkmenistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
