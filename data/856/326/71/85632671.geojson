@@ -1037,6 +1037,11 @@
     },
     "wof:country":"TM",
     "wof:country_alpha3":"TKM",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "quattroshapes"
+    ],
     "wof:geomhash":"84822db1b4d4e898c7ceda8a417a608c",
     "wof:hierarchy":[
         {
@@ -1051,7 +1056,7 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1566667001,
+    "wof:lastmodified":1583206372,
     "wof:name":"Turkmenistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
