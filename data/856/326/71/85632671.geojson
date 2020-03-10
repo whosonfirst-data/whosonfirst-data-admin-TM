@@ -1013,9 +1013,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Turkmenistan",
-        "digitalenvoy:country_code":[
-            795
-        ],
+        "digitalenvoy:country_code":795,
         "fb:id":"en.turkmenistan",
         "fifa:id":"TKM",
         "fips:code":"TX",
@@ -1059,7 +1057,7 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1583529232,
+    "wof:lastmodified":1583797441,
     "wof:name":"Turkmenistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
