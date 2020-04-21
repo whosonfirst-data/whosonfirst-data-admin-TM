@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":51.044744,
-    "geom:area_square_m":488964998895.307617,
+    "geom:area_square_m":488964996636.336365,
     "geom:bbox":"52.445578,35.129093,66.707353,42.798844",
     "geom:latitude":39.195086,
     "geom:longitude":59.179499,
@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d"
+    ],
     "name:ace_x_preferred":[
         "Turkm\u00e8nistan"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:arg_x_preferred":[
         "Turkmenist\u00e1n"
+    ],
+    "name:ary_x_preferred":[
+        "\u062a\u0648\u0631\u0643\u0645\u0627\u0646\u064a\u0633\u062a\u0627\u0646"
     ],
     "name:arz_x_preferred":[
         "\u062a\u0648\u0631\u0643\u0645\u064a\u0646\u064a\u0633\u062a\u0627\u0646"
@@ -188,6 +194,12 @@
     "name:dan_x_preferred":[
         "Turkmenistan"
     ],
+    "name:deu_at_x_preferred":[
+        "Turkmenistan"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Turkmenistan"
+    ],
     "name:deu_x_preferred":[
         "Turkmenistan"
     ],
@@ -205,6 +217,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03bf\u03c5\u03c1\u03ba\u03bc\u03b5\u03bd\u03b9\u03c3\u03c4\u03ac\u03bd"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Turkmenistan"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Turkmenistan"
     ],
     "name:eng_x_preferred":[
         "Turkmenistan"
@@ -271,6 +289,9 @@
     ],
     "name:gag_x_preferred":[
         "T\u00fcrkmenistan"
+    ],
+    "name:gcr_x_preferred":[
+        "Tirkm\u00e9nistan"
     ],
     "name:gla_x_preferred":[
         "Turcmanast\u00e0n"
@@ -436,6 +457,9 @@
     ],
     "name:kon_x_preferred":[
         "Turkmenistan"
+    ],
+    "name:kor_kp_x_preferred":[
+        "\ub69c\ub974\ud06c\uba54\ub2c8\uc2a4\ub534"
     ],
     "name:kor_x_preferred":[
         "\ud22c\ub974\ud06c\uba54\ub2c8\uc2a4\ud0c4"
@@ -651,6 +675,9 @@
     "name:pol_x_variant":[
         "Turkmenia"
     ],
+    "name:por_br_x_preferred":[
+        "Turquemenist\u00e3o"
+    ],
     "name:por_x_colloquial":[
         "Turquemenistao"
     ],
@@ -730,6 +757,9 @@
     "name:sme_x_preferred":[
         "Turkmenistan"
     ],
+    "name:smo_x_preferred":[
+        "Turkmenistan"
+    ],
     "name:sna_x_preferred":[
         "Turkmenistan"
     ],
@@ -747,6 +777,15 @@
     ],
     "name:sqi_x_variant":[
         "Turkmenia"
+    ],
+    "name:srd_x_preferred":[
+        "Turkmenist\u00e0n"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:srp_el_x_preferred":[
+        "Turkmenistan"
     ],
     "name:srp_x_preferred":[
         "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d"
@@ -768,6 +807,9 @@
     ],
     "name:szl_x_preferred":[
         "Turkmy\u0144istan"
+    ],
+    "name:szy_x_preferred":[
+        "Turkmenistan"
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bc1\u0bb0\u0bc1\u0b95\u0bcd\u0bae\u0bc6\u0ba9\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
@@ -891,8 +933,26 @@
     "name:zha_x_preferred":[
         "Turkmenistan"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u571f\u5e93\u66fc\u65af\u5766"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u571f\u5eab\u66fc\u65af\u5766"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Turkmenistan"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u571f\u5eab\u66fc\u65af\u5766"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u571f\u5e93\u66fc\u65af\u5766"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u571f\u5e93\u66fc\u65af\u5766"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u571f\u5eab\u66fc"
     ],
     "name:zho_x_preferred":[
         "\u571f\u5e93\u66fc\u65af\u5766"
@@ -1057,7 +1117,7 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1583797441,
+    "wof:lastmodified":1587428227,
     "wof:name":"Turkmenistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
