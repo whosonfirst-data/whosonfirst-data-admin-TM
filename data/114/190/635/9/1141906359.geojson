@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"53.1225911949,39.4361548767,53.1225911949,39.4361548767",
+    "geom:bbox":"53.122591,39.436155,53.122591,39.436155",
     "geom:latitude":39.436155,
     "geom:longitude":53.122591,
     "iso:country":"TM",
@@ -18,6 +18,51 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0644\u064a\u0643\u064a\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09b2\u09c7\u0995\u09c7\u09a8"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b5\u03bb\u03ad\u03ba\u03b5\u03bd"
+    ],
+    "name:fra_x_preferred":[
+        "Cheleken"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6\u05dc\u05e7\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0947\u0932\u0947\u0915\u0947\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Celeken"
+    ],
+    "name:ind_x_preferred":[
+        "Celeken"
+    ],
+    "name:ita_x_preferred":[
+        "Celeken"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30a7\u30ec\u30b1\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc140\ub808\ucf04"
+    ],
+    "name:por_x_preferred":[
+        "Cheleken"
+    ],
+    "name:swe_x_preferred":[
+        "Cheleken"
+    ],
+    "name:tur_x_preferred":[
+        "Celeken"
+    ],
+    "name:vie_x_preferred":[
+        "Celeken"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Turkmenistan",
     "ne:ADM0_A3":"TKM",
@@ -123,7 +168,7 @@
     "wof:concordances":{},
     "wof:country":"TM",
     "wof:created":1499130577,
-    "wof:geomhash":"41b4008def315f6531937053371a8791",
+    "wof:geomhash":"99d8e594dc67d45e6ebe7ca4c535c5f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -133,7 +178,7 @@
         }
     ],
     "wof:id":1141906359,
-    "wof:lastmodified":1566667118,
+    "wof:lastmodified":1636496037,
     "wof:name":"Celeken",
     "wof:parent_id":85678923,
     "wof:placetype":"locality",
@@ -143,10 +188,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    53.12259119487925,
-    39.43615487666773,
-    53.12259119487925,
-    39.43615487666773
+    53.122591,
+    39.436155,
+    53.122591,
+    39.436155
 ],
-  "geometry": {"coordinates":[53.12259119487925,39.43615487666773],"type":"Point"}
+  "geometry": {"coordinates":[53.122591,39.436155],"type":"Point"}
 }

@@ -33,6 +33,9 @@
     "name:fas_x_preferred":[
         "\u0622\u062e\u0627\u0644"
     ],
+    "name:hun_x_preferred":[
+        "Ahal"
+    ],
     "name:nld_x_preferred":[
         "Ahal"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1209105357,
-    "wof:lastmodified":1566667044,
+    "wof:lastmodified":1636496035,
     "wof:name":"Ahal",
     "wof:parent_id":85632671,
     "wof:placetype":"locality",
