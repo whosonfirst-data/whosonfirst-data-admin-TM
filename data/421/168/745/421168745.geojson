@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0627\u0634\u0648\u063a\u0648\u0632"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0627\u0634\u0648\u062c\u0648\u0632"
+    ],
+    "name:ast_x_preferred":[
+        "Da\u015foguz"
+    ],
     "name:aze_x_preferred":[
         "Da\u015fo\u011fuz"
     ],
@@ -42,6 +48,9 @@
         "Da\u015foguz"
     ],
     "name:ceb_x_preferred":[
+        "Da\u015foguz"
+    ],
+    "name:ces_x_preferred":[
         "Da\u015foguz"
     ],
     "name:che_x_preferred":[
@@ -80,6 +89,9 @@
     "name:fra_x_preferred":[
         "Da\u015foguz"
     ],
+    "name:gle_x_preferred":[
+        "Da\u015foguz"
+    ],
     "name:glg_x_preferred":[
         "Da\u015foguz"
     ],
@@ -98,6 +110,9 @@
     "name:hun_x_preferred":[
         "Da\u015foguz"
     ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u0577\u0585\u0572\u0578\u0582\u0566"
+    ],
     "name:ind_x_preferred":[
         "Da\u015foguz"
     ],
@@ -115,6 +130,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d3\u10d0\u10e8\u10dd\u10d2\u10e3\u10d6\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0430\u0448\u043e\u0493\u044b\u0437"
     ],
     "name:kir_x_preferred":[
         "\u0422\u0430\u0448\u0430\u0443\u0437"
@@ -148,6 +166,9 @@
     ],
     "name:nob_x_preferred":[
         "Da\u015foguz"
+    ],
+    "name:oss_x_preferred":[
+        "\u0414\u0430\u0448\u043e\u0433\u0443\u0437"
     ],
     "name:pnb_x_preferred":[
         "\u062f\u0627\u0634 \u0627\u0648\u063a\u0648\u0632"
@@ -191,6 +212,9 @@
     "name:tel_x_preferred":[
         "\u0c21\u0c3e\u0c38\u0c4b\u0c17\u0c41\u0c1c\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0430\u0448\u043e\u0433\u0443\u0437"
+    ],
     "name:tha_x_preferred":[
         "\u0e14\u0e32\u0e42\u0e0b\u0e01\u0e38\u0e0b"
     ],
@@ -218,6 +242,9 @@
     "name:uzb_x_variant":[
         "Dashoguz"
     ],
+    "name:vec_x_preferred":[
+        "Da\u015foguz"
+    ],
     "name:vep_x_preferred":[
         "Da\u0161oguz"
     ],
@@ -226,6 +253,12 @@
     ],
     "name:war_x_preferred":[
         "Da\u015foguz"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8fbe\u6c99\u53e4\u5179"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d3\u10d0\u10e8\u10dd\u10d2\u10e3\u10d6\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u8fbe\u6c99\u53e4\u5179"
@@ -367,7 +400,7 @@
         }
     ],
     "wof:id":421168745,
-    "wof:lastmodified":1566667074,
+    "wof:lastmodified":1690874648,
     "wof:name":"Dashhowuz",
     "wof:parent_id":85678931,
     "wof:placetype":"locality",

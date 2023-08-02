@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0631\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Mary"
+    ],
     "name:aze_x_preferred":[
         "Mar\u0131"
+    ],
+    "name:bak_x_preferred":[
+        "\u041c\u0430\u0440\u044b"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u044b"
@@ -42,6 +51,9 @@
         "Mary"
     ],
     "name:che_x_preferred":[
+        "\u041c\u0430\u0440\u044b"
+    ],
+    "name:chv_x_preferred":[
         "\u041c\u0430\u0440\u044b"
     ],
     "name:dan_x_preferred":[
@@ -69,6 +81,9 @@
         "Mary"
     ],
     "name:fra_x_preferred":[
+        "Mary"
+    ],
+    "name:gle_x_preferred":[
         "Mary"
     ],
     "name:guj_x_preferred":[
@@ -128,8 +143,14 @@
     "name:lmo_x_preferred":[
         "Mary"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d47\u0d30\u0d3f"
+    ],
     "name:mar_x_preferred":[
         "\u092e\u0947\u0930\u0940"
+    ],
+    "name:mlt_x_preferred":[
+        "Mary"
     ],
     "name:msa_x_preferred":[
         "Mary"
@@ -224,11 +245,20 @@
     "name:uzb_x_preferred":[
         "Mari"
     ],
+    "name:vec_x_preferred":[
+        "Mary"
+    ],
     "name:vep_x_preferred":[
         "Mari"
     ],
     "name:vie_x_preferred":[
         "Mary"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u96f7"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10d0\u10e0\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u96f7"
@@ -373,7 +403,7 @@
         }
     ],
     "wof:id":421177997,
-    "wof:lastmodified":1636496036,
+    "wof:lastmodified":1690874651,
     "wof:name":"Mary",
     "wof:parent_id":85678941,
     "wof:placetype":"locality",

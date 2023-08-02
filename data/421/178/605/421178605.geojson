@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Magdanly"
+    ],
     "name:aze_x_preferred":[
         "Maqdanl\u0131"
     ],
@@ -71,8 +74,14 @@
     "name:spa_x_preferred":[
         "Magdanly"
     ],
+    "name:swe_x_preferred":[
+        "Magdanly"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u04d9\u0433\u044a\u0434\u04d9\u043d\u043b\u0435"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041c\u0430\u044a\u0434\u0430\u043d\u043b\u0438"
     ],
     "name:tuk_x_preferred":[
         "Magdanly"
@@ -140,7 +149,7 @@
         }
     ],
     "wof:id":421178605,
-    "wof:lastmodified":1566667076,
+    "wof:lastmodified":1690874651,
     "wof:name":"Gowurdak",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",
