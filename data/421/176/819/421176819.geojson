@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u0643\u0645\u0627\u0646\u0628\u0627\u0634\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0631\u0643\u0645\u0627\u0646\u0628\u0627\u0634\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "T\u00fcrkmenba\u015fy"
+    ],
     "name:aze_x_preferred":[
         "T\u00fcrkm\u0259nba\u015f\u0131"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:che_x_preferred":[
         "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0431\u0430\u0448\u0438"
+    ],
+    "name:crh_x_preferred":[
+        "T\u00fcrkmenba\u015f\u0131"
     ],
     "name:dan_x_preferred":[
         "T\u00fcrkmenba\u015fy"
@@ -110,11 +119,17 @@
     "name:kor_x_preferred":[
         "\ud22c\ub974\ud06c\uba58\ubc14\uc2dc"
     ],
+    "name:lat_x_preferred":[
+        "Dauaba"
+    ],
     "name:lav_x_preferred":[
         "Turkmenba\u0161i"
     ],
     "name:lit_x_preferred":[
         "Turkm\u0117nba\u0161is"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0422\u0443\u0440\u043a\u043c\u044d\u043d\u0431\u0430\u0448\u044b"
     ],
     "name:mhr_x_preferred":[
         "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0431\u0430\u0448\u0438"
@@ -173,6 +188,9 @@
     "name:tat_x_preferred":[
         "\u0422\u04e9\u0440\u0435\u043a\u043c\u04d9\u043d\u0431\u0430\u0448\u044b"
     ],
+    "name:tgk_x_preferred":[
+        "\u0422\u0443\u0440\u043a\u043c\u0430\u043d\u0431\u043e\u0448\u04e3"
+    ],
     "name:tuk_x_preferred":[
         "T\u00fcrkmenba\u015fy"
     ],
@@ -196,6 +214,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u00fcrkmenba\u015fy"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d7\u10e3\u10e0\u10e5\u10db\u10d4\u10dc\u10d1\u10d0\u10e8\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u571f\u5eab\u66fc\u5df4\u5e0c"
@@ -338,7 +359,7 @@
         }
     ],
     "wof:id":421176819,
-    "wof:lastmodified":1566667077,
+    "wof:lastmodified":1690874652,
     "wof:name":"T\u00fcrkmenbashy",
     "wof:parent_id":85678923,
     "wof:placetype":"locality",

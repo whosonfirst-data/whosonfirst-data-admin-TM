@@ -17,8 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Gyzylarbat"
+    ],
     "name:aze_x_preferred":[
         "S\u0259rdar"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0435\u0440\u0434\u0430\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Serdar"
     ],
     "name:ceb_x_preferred":[
         "Serdar"
@@ -33,7 +42,8 @@
         "Kizil-Arvat"
     ],
     "name:eng_x_variant":[
-        "Serdar"
+        "Serdar",
+        "Gyzylarbat"
     ],
     "name:est_x_preferred":[
         "Serdar"
@@ -84,7 +94,8 @@
         "\u041a\u0438\u0437\u0438\u043b-\u0410\u0440\u0432\u0430\u0442"
     ],
     "name:rus_x_variant":[
-        "\u0421\u0435\u0440\u0434\u0430\u0440"
+        "\u0421\u0435\u0440\u0434\u0430\u0440",
+        "\u0413\u044b\u0437\u044b\u043b\u0430\u0440\u0431\u0430\u0442"
     ],
     "name:spa_x_preferred":[
         "Serdar"
@@ -95,8 +106,14 @@
     "name:tat_x_preferred":[
         "\u0421\u04d9\u0440\u0434\u0430\u0440"
     ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0430\u0440\u0434\u043e\u0440"
+    ],
     "name:tuk_x_preferred":[
         "Serdar"
+    ],
+    "name:tuk_x_variant":[
+        "Gyzylarbat"
     ],
     "name:tur_x_preferred":[
         "Serdar"
@@ -115,6 +132,9 @@
     ],
     "name:zho_x_preferred":[
         "\u514b\u5b5c\u52d2\u963f\u723e\u74e6\u7279"
+    ],
+    "name:zho_x_variant":[
+        "\u5409\u5b5c\u62c9\u5df4\u7279"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Turkmenistan",
@@ -252,7 +272,7 @@
         }
     ],
     "wof:id":421168645,
-    "wof:lastmodified":1566667073,
+    "wof:lastmodified":1690874647,
     "wof:name":"Gyzylarbat",
     "wof:parent_id":85678923,
     "wof:placetype":"locality",

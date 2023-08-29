@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u06cc\u0631\u0627\u0645 \u0639\u0644\u06cc"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u06cc\u0631\u0627\u0645 \u0639\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Bayramal\u0131"
     ],
@@ -77,6 +80,9 @@
     "name:hsb_x_preferred":[
         "Ba\u00fdramaly"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0575\u0580\u0561\u0574\u0561\u056c\u056b"
+    ],
     "name:ind_x_preferred":[
         "Ba\u00fdramaly"
     ],
@@ -100,6 +106,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092c\u0939\u0947\u0930\u094d\u0930\u093e\u092e\u093e\u0932\u0940"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u0430\u0439\u0440\u0430\u043c\u0430\u043b\u0438"
     ],
     "name:msa_x_preferred":[
         "Bandaraya Ba\u00fdramaly"
@@ -212,7 +221,7 @@
         }
     ],
     "wof:id":421182195,
-    "wof:lastmodified":1566667076,
+    "wof:lastmodified":1690874652,
     "wof:name":"Bayram-Ali",
     "wof:parent_id":85678941,
     "wof:placetype":"locality",

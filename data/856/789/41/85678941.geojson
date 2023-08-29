@@ -44,6 +44,9 @@
     "name:aze_x_preferred":[
         "Mar\u0131 vilay\u0259ti"
     ],
+    "name:bak_x_preferred":[
+        "\u041c\u0430\u0440\u044b\u0439 \u0432\u0438\u043b\u04d9\u0439\u04d9\u0442\u0435"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u044b\u0439\u0441\u043a\u0456 \u0432\u0435\u043b\u0430\u044f\u0442"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:ceb_x_preferred":[
         "Mary"
+    ],
+    "name:crh_x_preferred":[
+        "Mar\u0131 vil\u00e2yeti"
     ],
     "name:dan_x_preferred":[
         "Mary Province"
@@ -98,6 +104,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05d9\u05dc\u05e0\u05d3"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05de\u05e8\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0930\u0940 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -195,6 +204,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bc7\u0bb0\u0bbf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0440\u044b \u0432\u0438\u043b\u0430\u044f\u0442\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c47\u0c30\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -356,7 +368,7 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1636496035,
+    "wof:lastmodified":1690874644,
     "wof:name":"Mary",
     "wof:parent_id":85632671,
     "wof:placetype":"region",

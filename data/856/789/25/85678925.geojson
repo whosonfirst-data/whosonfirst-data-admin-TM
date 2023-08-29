@@ -47,6 +47,9 @@
     "name:aze_x_preferred":[
         "Ahal vilay\u0259ti"
     ],
+    "name:bak_x_preferred":[
+        "\u0410\u04bb\u0430\u043b \u0432\u0438\u043b\u0430\u0439\u04d9\u0442\u0435"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u0445\u0430\u043b\u0441\u043a\u0456 \u0432\u0435\u043b\u0430\u044f\u0442"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:ceb_x_preferred":[
         "Ahal"
+    ],
+    "name:crh_x_preferred":[
+        "Ahal vil\u00e2yeti"
     ],
     "name:dan_x_preferred":[
         "Ahal Province"
@@ -100,8 +106,14 @@
     "name:fra_x_preferred":[
         "Ahal"
     ],
+    "name:frr_x_preferred":[
+        "Ahal"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab9\u0abe\u0ab2 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05d4\u05d0\u05dc"
     ],
     "name:hin_x_preferred":[
         "\u0906\u0916\u093c\u093e\u0932 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -129,6 +141,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10ee\u10d0\u10da\u10d8\u10e1 \u10d5\u10d4\u10da\u10d0\u10d8\u10d0\u10d7\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0445\u0430\u043b \u0443\u04d9\u043b\u0430\u044f\u0442\u044b"
     ],
     "name:kir_x_preferred":[
         "\u0410\u0448\u0433\u0430\u0431\u0430\u0442 \u043e\u0431\u043b\u0443\u0441\u0443"
@@ -196,6 +211,9 @@
     "name:tam_x_preferred":[
         "\u0b86\u0bb9\u0bcd\u0b85\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b85\u0bb9\u0bbe\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0410\u0445\u0430\u043b \u0432\u0438\u043b\u0430\u044f\u0442\u0435"
     ],
@@ -237,6 +255,12 @@
     ],
     "name:vie_x_preferred":[
         "Ahal"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u54c8\u5c14\u5dde"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10ee\u10d0\u10da\u10d8\u10e8 \u10d5\u10d4\u10da\u10d0\u10d8\u10d0\u10d7\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u963f\u54c8\u723e\u5dde"
@@ -360,7 +384,7 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1636496035,
+    "wof:lastmodified":1690874645,
     "wof:name":"Ahal",
     "wof:parent_id":85632671,
     "wof:placetype":"region",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u0643\u0645\u0627\u0646 \u0623\u0628\u0627\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0631\u0643\u0645\u0627\u0646 \u0627\u0628\u0627\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "T\u00fcrkmenabat"
+    ],
     "name:aze_x_preferred":[
         "T\u00fcrkm\u0259nabad"
     ],
@@ -34,6 +40,9 @@
     ],
     "name:ben_x_preferred":[
         "\u099f\u09be\u09b0\u0995\u09c7\u09a8\u09be\u09ac\u09be\u09a4"
+    ],
+    "name:ben_x_variant":[
+        "\u09a4\u09c1\u09b0\u09cd\u0995\u09ae\u09c7\u09a8\u09be\u09ac\u09be\u09a6"
     ],
     "name:bre_x_preferred":[
         "T\u00fcrkmenabat"
@@ -89,6 +98,9 @@
     "name:fra_x_preferred":[
         "T\u00fcrkmenabat"
     ],
+    "name:gle_x_preferred":[
+        "T\u00fcrkmenabat"
+    ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac1\u0ab0\u0acd\u0a95\u0aae\u0ac7\u0aa8\u0aac\u0abe\u0a9f"
     ],
@@ -106,6 +118,12 @@
     ],
     "name:hye_x_preferred":[
         "\u0549\u0561\u0580\u0566\u0578\u0578\u0582"
+    ],
+    "name:hye_x_variant":[
+        "\u0539\u0578\u0582\u0580\u0584\u0574\u0565\u0576\u0561\u0562\u0561\u0564"
+    ],
+    "name:ido_x_preferred":[
+        "T\u00fcrkmenabat"
     ],
     "name:ind_x_preferred":[
         "Turkmenabat"
@@ -127,6 +145,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d7\u10e3\u10e0\u10e5\u10db\u10d4\u10dc\u10d0\u10d1\u10d0\u10d3\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u04af\u0440\u0456\u043a\u043c\u0435\u043d\u0430\u0431\u0430\u0442"
     ],
     "name:kor_x_preferred":[
         "\ud22c\ub974\ud06c\uba54\ub098\ubc14\ud2b8"
@@ -151,6 +172,9 @@
     ],
     "name:nob_x_preferred":[
         "Turkmenabat"
+    ],
+    "name:oss_x_preferred":[
+        "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0430\u0431\u0430\u0442"
     ],
     "name:pnb_x_preferred":[
         "\u062a\u0631\u06a9\u0645\u0627\u0646 \u0622\u0628\u0627\u062f"
@@ -191,11 +215,17 @@
     "name:tam_x_preferred":[
         "\u0ba4\u0bc1\u0bb0\u0bcd\u0b95\u0bcd\u0bae\u0bc6\u0ba9\u0bbe\u0baa\u0b9f\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0ba4\u0bc1\u0bb0\u0bc1\u0b95\u0bcd\u0bae\u0bc6\u0ba9\u0bbe\u0baa\u0bbe\u0ba4\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0422\u04e9\u0440\u0435\u043a\u043c\u04d9\u043d\u0430\u0431\u0430\u0434"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c30\u0c4d\u0c15\u0c4d\u0c2e\u0c46\u0c28\u0c3e\u0c2c\u0c1f\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0422\u0443\u0440\u043a\u043c\u0430\u043d\u043e\u0431\u043e\u0434"
     ],
     "name:tha_x_preferred":[
         "\u0e15\u0e37\u0e23\u0e4c\u0e01\u0e40\u0e21\u0e19\u0e32\u0e1a\u0e31\u0e15"
@@ -218,6 +248,9 @@
     "name:uzb_x_preferred":[
         "Turkmanobod"
     ],
+    "name:vec_x_preferred":[
+        "T\u00fcrkmenabat"
+    ],
     "name:vep_x_preferred":[
         "Turkmenabat"
     ],
@@ -226,6 +259,15 @@
     ],
     "name:war_x_preferred":[
         "Turkmenabat"
+    ],
+    "name:wuu_x_preferred":[
+        "\u571f\u5e93\u66fc\u65af\u5766\u7eb3\u5df4\u5fb7"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d7\u10e3\u10e0\u10e5\u10db\u10d4\u10dc\u10d0\u10d1\u10d0\u10d3\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u571f\u5eab\u66fc\u7d0d\u5df4\u7279"
     ],
     "name:zho_x_preferred":[
         "\u571f\u5eab\u66fc\u7d0d\u5df4\u5fb7"
@@ -367,7 +409,7 @@
         }
     ],
     "wof:id":421186121,
-    "wof:lastmodified":1566667075,
+    "wof:lastmodified":1690874649,
     "wof:name":"Ch\u00e4rjew",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",

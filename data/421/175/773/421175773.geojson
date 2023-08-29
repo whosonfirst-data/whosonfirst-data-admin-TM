@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Yol\u00f6ten"
     ],
+    "name:deu_x_preferred":[
+        "\u00ddol\u00f6ten"
+    ],
     "name:ell_x_preferred":[
         "\u0399\u03bf\u03bb\u03cc\u03c4\u03b5\u03bd"
     ],
@@ -44,6 +47,9 @@
     "name:ita_x_preferred":[
         "\u00ddol\u00f6ten"
     ],
+    "name:lit_x_preferred":[
+        "Joletenas"
+    ],
     "name:nld_x_preferred":[
         "\u00ddol\u00f6ten"
     ],
@@ -62,11 +68,17 @@
     "name:spa_x_preferred":[
         "\u00ddol\u00f6ten"
     ],
+    "name:spa_x_variant":[
+        "Yolot\u00e9n"
+    ],
     "name:swe_x_preferred":[
         "Jol\u00f6ten"
     ],
     "name:tat_x_preferred":[
         "\u042e\u043b\u04af\u0442\u04d9\u043d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0401\u043b\u0451\u0442\u0435\u043d"
     ],
     "name:tuk_x_preferred":[
         "\u00ddol\u00f6ten"
@@ -85,6 +97,9 @@
     ],
     "name:uzb_x_preferred":[
         "Yo\u02bblo\u02bbtan"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d04\u6d1b\u5766"
     ],
     "qs:gn_country":"TM",
     "qs:gn_fcode":"PPL",
@@ -132,7 +147,7 @@
         }
     ],
     "wof:id":421175773,
-    "wof:lastmodified":1566667075,
+    "wof:lastmodified":1690874649,
     "wof:name":"Yol\u00f6ten",
     "wof:parent_id":85678941,
     "wof:placetype":"locality",
