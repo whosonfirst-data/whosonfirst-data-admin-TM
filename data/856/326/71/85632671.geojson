@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":51.044744,
-    "geom:area_square_m":488964996636.336365,
+    "geom:area_square_m":488964996636.348083,
     "geom:bbox":"52.445578,35.129093,66.707353,42.798844",
     "geom:latitude":39.195086,
     "geom:longitude":59.179499,
@@ -14,6 +14,9 @@
     "iso:country":"TM",
     "itu:country_code":[
         "993"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "TM"
@@ -1182,7 +1185,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"993",
     "statoids:ds":"TM",
     "statoids:fifa":"TKM",
@@ -1241,7 +1245,7 @@
         "naturalearth",
         "quattroshapes"
     ],
-    "wof:geomhash":"cd988712fea2e10902ffd953e1fd39e6",
+    "wof:geomhash":"fddbd896483f5c836f10f4c48087f3e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1255,12 +1259,12 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1690874645,
+    "wof:lastmodified":1694492062,
     "wof:name":"Turkmenistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":5125693,
-    "wof:population_rank":13,
+    "wof:population":5942089,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tm",
     "wof:shortcode":"TM",
     "wof:superseded_by":[],
