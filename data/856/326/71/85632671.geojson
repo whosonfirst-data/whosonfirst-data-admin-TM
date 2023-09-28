@@ -1224,6 +1224,7 @@
         "hasc:id":"TM",
         "icao:code":"EZ",
         "ioc:id":"TKM",
+        "iso:code":"TM",
         "itu:id":"TKM",
         "loc:id":"n91129790",
         "m49:code":"795",
@@ -1238,6 +1239,7 @@
         "wk:page":"Turkmenistan",
         "wmo:id":"TR"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TM",
     "wof:country_alpha3":"TKM",
     "wof:geom_alt":[
@@ -1259,7 +1261,7 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1694639516,
+    "wof:lastmodified":1695881171,
     "wof:name":"Turkmenistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
