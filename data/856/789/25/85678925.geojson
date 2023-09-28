@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.385342,
-    "geom:area_square_m":100432904355.597885,
+    "geom:area_square_m":100432906020.836441,
     "geom:bbox":"56.571049,35.545891,61.596478,40.214187",
     "geom:latitude":38.536054,
     "geom:longitude":59.118299,
@@ -362,14 +362,16 @@
         "gn:id":162181,
         "gp:id":2347347,
         "hasc:id":"TM.AL",
+        "iso:code":"TM-A",
         "iso:id":"TM-A",
         "qs_pg:id":890108,
         "unlc:id":"TM-A",
         "wd:id":"Q399899",
         "wk:page":"Ahal Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TM",
-    "wof:geomhash":"ead51eeb010abcaeb41c063f37f8751d",
+    "wof:geomhash":"cb2da73593644ad0004b125aa957b8c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -384,7 +386,7 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1690874645,
+    "wof:lastmodified":1695884838,
     "wof:name":"Ahal",
     "wof:parent_id":85632671,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.476071,
-    "geom:area_square_m":118507082129.065536,
+    "geom:area_square_m":118507080552.212524,
     "geom:bbox":"52.437671,37.323744,57.165224,42.345401",
     "geom:latitude":39.796492,
     "geom:longitude":55.017935,
@@ -347,14 +347,16 @@
         "gn:id":162152,
         "gp:id":2347349,
         "hasc:id":"TM.BA",
+        "iso:code":"TM-B",
         "iso:id":"TM-B",
         "qs_pg:id":895005,
         "unlc:id":"TM-B",
         "wd:id":"Q486073",
         "wk:page":"Balkan Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TM",
-    "wof:geomhash":"c1da0b5be9b5e033f961aee8d840ef40",
+    "wof:geomhash":"d641fc3cccc7cef53b010139a93ddb54",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -369,7 +371,7 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1690874644,
+    "wof:lastmodified":1695884328,
     "wof:name":"Balkan",
     "wof:parent_id":85632671,
     "wof:placetype":"region",

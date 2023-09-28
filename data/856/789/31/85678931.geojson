@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.852151,
-    "geom:area_square_m":73092774723.426361,
+    "geom:area_square_m":73092773699.423416,
     "geom:bbox":"56.533721,39.473612,61.004318,42.791188",
     "geom:latitude":41.160826,
     "geom:longitude":58.70963,
@@ -304,13 +304,15 @@
         "gn:id":601465,
         "gp:id":2347351,
         "hasc:id":"TM.DA",
+        "iso:code":"TM-D",
         "iso:id":"TM-D",
         "qs_pg:id":890110,
         "wd:id":"Q487393",
         "wk:page":"Da\u015foguz Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TM",
-    "wof:geomhash":"633446629274c2234f67b4392f3761fc",
+    "wof:geomhash":"aa37f154a70c5e036ac5fcec043b81f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -325,7 +327,7 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1690874644,
+    "wof:lastmodified":1695884328,
     "wof:name":"Tashauz",
     "wof:parent_id":85632671,
     "wof:placetype":"region",
