@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.690471,
-    "geom:area_square_m":93231905272.890045,
+    "geom:area_square_m":93231912785.248917,
     "geom:bbox":"60.247517,36.849586,66.645782,41.300323",
     "geom:latitude":38.905103,
     "geom:longitude":63.175504,
@@ -311,13 +311,15 @@
         "gn:id":1219651,
         "gp:id":2347348,
         "hasc:id":"TM.LE",
+        "iso:code":"TM-L",
         "iso:id":"TM-L",
         "qs_pg:id":1354698,
         "wd:id":"Q487389",
         "wk:page":"Lebap Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TM",
-    "wof:geomhash":"42b082caa2862c76f43d2bf5566c9b13",
+    "wof:geomhash":"58b6206cacd80a9c926b21cef950f540",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -332,7 +334,7 @@
     "wof:lang_x_spoken":[
         "tuk"
     ],
-    "wof:lastmodified":1690874644,
+    "wof:lastmodified":1695884838,
     "wof:name":"Chardzhou",
     "wof:parent_id":85632671,
     "wof:placetype":"region",
