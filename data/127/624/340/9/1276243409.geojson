@@ -69,6 +69,11 @@
     "wof:concordances":{
         "gn:id":1218514
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1218515
+        ]
+    },
     "wof:country":"TM",
     "wof:geomhash":"b580ceeb4fc2d44b8cfb5a4fa913bc1a",
     "wof:hierarchy":[
@@ -80,13 +85,15 @@
         }
     ],
     "wof:id":1276243409,
-    "wof:lastmodified":1566667029,
+    "wof:lastmodified":1706240691,
     "wof:name":"Pioner",
     "wof:parent_id":85678937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tm",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276477881
+    ],
     "wof:tags":[]
 },
   "bbox": [
